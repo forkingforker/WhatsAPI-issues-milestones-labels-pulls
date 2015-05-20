@@ -1,0 +1,195 @@
+{
+    "assignee": null,
+    "body": "Hello,\r\n\r\nI am not sure if this is a bug or am I doing something wrong here. I have synced about 12 numbers which are my co-workers and I would need to send them a message when there is a new email in our support e-mail.\r\n\r\nHowever, whenever it reaches the 8th message, it automatically get's banned. Is there anything that I am doing wrong here?\r\n\r\nThis is the current flow:\r\n\r\n1. They have added the source number in their contacts and synced with whatsapp.\r\n2. Ran through these 12 numbers through sendSync($contacts)\r\n3. After that, when a new email comes in, it will run through a loop to notify these 12 co-workers but it hits the not-authorized message when it tries to send the 9th time.",
+    "closed_at": null,
+    "comment_data": [
+        {
+            "body": "Whatsapp, mass messages detected as spam.\r\nHave you tried using the following function?\r\nsendBroadcastMessage($targets_Array, $message)\r\n\r\nWhatsapp, detecta los mensajes masivos como spam.\r\nProbó usando la siguiente función?\r\nsendBroadcastMessage($targets_Array, $message)\r\nSaludos",
+            "created_at": "2014-03-23T19:01:26Z",
+            "html_url": "https://github.com/venomous0x/WhatsAPI/issues/638#issuecomment-38393145",
+            "id": 38393145,
+            "issue_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/638",
+            "updated_at": "2014-03-23T19:01:26Z",
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/comments/38393145",
+            "user": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/6652374?v=3",
+                "events_url": "https://api.github.com/users/sbalgas/events{/privacy}",
+                "followers_url": "https://api.github.com/users/sbalgas/followers",
+                "following_url": "https://api.github.com/users/sbalgas/following{/other_user}",
+                "gists_url": "https://api.github.com/users/sbalgas/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/sbalgas",
+                "id": 6652374,
+                "login": "sbalgas",
+                "organizations_url": "https://api.github.com/users/sbalgas/orgs",
+                "received_events_url": "https://api.github.com/users/sbalgas/received_events",
+                "repos_url": "https://api.github.com/users/sbalgas/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/sbalgas/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/sbalgas/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/sbalgas"
+            }
+        },
+        {
+            "body": "I face the same problem too. Spoil my several number. Broadcast message only deliver to someone added your phone number. Its doesn't matter you sync contact or not. Just detect you send 8 messages to whom not added your phone number then get banned. Is there any solution?",
+            "created_at": "2014-04-17T06:01:12Z",
+            "html_url": "https://github.com/venomous0x/WhatsAPI/issues/638#issuecomment-40683832",
+            "id": 40683832,
+            "issue_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/638",
+            "updated_at": "2014-04-17T06:01:12Z",
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/comments/40683832",
+            "user": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/5071087?v=3",
+                "events_url": "https://api.github.com/users/yunsiong/events{/privacy}",
+                "followers_url": "https://api.github.com/users/yunsiong/followers",
+                "following_url": "https://api.github.com/users/yunsiong/following{/other_user}",
+                "gists_url": "https://api.github.com/users/yunsiong/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/yunsiong",
+                "id": 5071087,
+                "login": "yunsiong",
+                "organizations_url": "https://api.github.com/users/yunsiong/orgs",
+                "received_events_url": "https://api.github.com/users/yunsiong/received_events",
+                "repos_url": "https://api.github.com/users/yunsiong/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/yunsiong/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/yunsiong/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/yunsiong"
+            }
+        }
+    ],
+    "comments": 2,
+    "comments_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/638/comments",
+    "created_at": "2014-03-22T14:14:27Z",
+    "event_data": [
+        {
+            "actor": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1610953?v=3",
+                "events_url": "https://api.github.com/users/shirioko/events{/privacy}",
+                "followers_url": "https://api.github.com/users/shirioko/followers",
+                "following_url": "https://api.github.com/users/shirioko/following{/other_user}",
+                "gists_url": "https://api.github.com/users/shirioko/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/shirioko",
+                "id": 1610953,
+                "login": "shirioko",
+                "organizations_url": "https://api.github.com/users/shirioko/orgs",
+                "received_events_url": "https://api.github.com/users/shirioko/received_events",
+                "repos_url": "https://api.github.com/users/shirioko/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/shirioko/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/shirioko/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/shirioko"
+            },
+            "commit_id": null,
+            "created_at": "2014-03-28T11:02:46Z",
+            "event": "labeled",
+            "id": 106418351,
+            "label": {
+                "color": "cc317c",
+                "name": "question"
+            },
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/events/106418351"
+        },
+        {
+            "actor": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1610953?v=3",
+                "events_url": "https://api.github.com/users/shirioko/events{/privacy}",
+                "followers_url": "https://api.github.com/users/shirioko/followers",
+                "following_url": "https://api.github.com/users/shirioko/following{/other_user}",
+                "gists_url": "https://api.github.com/users/shirioko/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/shirioko",
+                "id": 1610953,
+                "login": "shirioko",
+                "organizations_url": "https://api.github.com/users/shirioko/orgs",
+                "received_events_url": "https://api.github.com/users/shirioko/received_events",
+                "repos_url": "https://api.github.com/users/shirioko/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/shirioko/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/shirioko/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/shirioko"
+            },
+            "commit_id": null,
+            "created_at": "2014-03-30T11:35:19Z",
+            "event": "labeled",
+            "id": 106813563,
+            "label": {
+                "color": "ffffff",
+                "name": "wontfix"
+            },
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/events/106813563"
+        },
+        {
+            "actor": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1610953?v=3",
+                "events_url": "https://api.github.com/users/shirioko/events{/privacy}",
+                "followers_url": "https://api.github.com/users/shirioko/followers",
+                "following_url": "https://api.github.com/users/shirioko/following{/other_user}",
+                "gists_url": "https://api.github.com/users/shirioko/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/shirioko",
+                "id": 1610953,
+                "login": "shirioko",
+                "organizations_url": "https://api.github.com/users/shirioko/orgs",
+                "received_events_url": "https://api.github.com/users/shirioko/received_events",
+                "repos_url": "https://api.github.com/users/shirioko/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/shirioko/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/shirioko/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/shirioko"
+            },
+            "commit_id": null,
+            "created_at": "2014-03-30T11:35:20Z",
+            "event": "unlabeled",
+            "id": 106813564,
+            "label": {
+                "color": "cc317c",
+                "name": "question"
+            },
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/events/106813564"
+        }
+    ],
+    "events_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/638/events",
+    "html_url": "https://github.com/venomous0x/WhatsAPI/issues/638",
+    "id": 29961848,
+    "labels": [
+        {
+            "color": "ffffff",
+            "name": "wontfix",
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/labels/wontfix"
+        }
+    ],
+    "labels_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/638/labels{/name}",
+    "locked": false,
+    "milestone": null,
+    "number": 638,
+    "state": "open",
+    "title": "Number gets blocked after sending the 8th message",
+    "updated_at": "2014-04-17T06:01:12Z",
+    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/638",
+    "user": {
+        "avatar_url": "https://avatars.githubusercontent.com/u/6684886?v=3",
+        "events_url": "https://api.github.com/users/shireez/events{/privacy}",
+        "followers_url": "https://api.github.com/users/shireez/followers",
+        "following_url": "https://api.github.com/users/shireez/following{/other_user}",
+        "gists_url": "https://api.github.com/users/shireez/gists{/gist_id}",
+        "gravatar_id": "",
+        "html_url": "https://github.com/shireez",
+        "id": 6684886,
+        "login": "shireez",
+        "organizations_url": "https://api.github.com/users/shireez/orgs",
+        "received_events_url": "https://api.github.com/users/shireez/received_events",
+        "repos_url": "https://api.github.com/users/shireez/repos",
+        "site_admin": false,
+        "starred_url": "https://api.github.com/users/shireez/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/shireez/subscriptions",
+        "type": "User",
+        "url": "https://api.github.com/users/shireez"
+    }
+}

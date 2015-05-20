@@ -1,0 +1,135 @@
+{
+    "assignee": null,
+    "body": "Hello guys\r\n\r\n get the above error every time I try to send a video, furthermore, WhatsAPI sends always the same video. Could you please give me a clue?\r\nThanks!",
+    "closed_at": null,
+    "comment_data": [
+        {
+            "body": "Hi, the error is caused by the time it takes to upload the file, in this case, exceeds 20 seconds.\r\ntry a shorter video. and with respect to upload the same file, we have to see how you are preparing your code.\r\n\r\nHola, el error es causado por el exeso de tiempo al subir el archivo, en este caso, excede los 20 segundos. Intenta con otro video. Y con respecto a la subida del mismo archivo, tendriamos que ver como estás preparando tu código...\r\n\r\nSaludos\r\n",
+            "created_at": "2014-03-23T18:52:11Z",
+            "html_url": "https://github.com/venomous0x/WhatsAPI/issues/640#issuecomment-38392715",
+            "id": 38392715,
+            "issue_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/640",
+            "updated_at": "2014-03-23T18:52:11Z",
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/comments/38392715",
+            "user": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/6652374?v=3",
+                "events_url": "https://api.github.com/users/sbalgas/events{/privacy}",
+                "followers_url": "https://api.github.com/users/sbalgas/followers",
+                "following_url": "https://api.github.com/users/sbalgas/following{/other_user}",
+                "gists_url": "https://api.github.com/users/sbalgas/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/sbalgas",
+                "id": 6652374,
+                "login": "sbalgas",
+                "organizations_url": "https://api.github.com/users/sbalgas/orgs",
+                "received_events_url": "https://api.github.com/users/sbalgas/received_events",
+                "repos_url": "https://api.github.com/users/sbalgas/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/sbalgas/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/sbalgas/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/sbalgas"
+            }
+        },
+        {
+            "body": "Hi,\r\nput  \" set_time_limit(0); \" in top of your php file.\r\n\r\n- Niklas",
+            "created_at": "2014-03-27T21:52:03Z",
+            "html_url": "https://github.com/venomous0x/WhatsAPI/issues/640#issuecomment-38865430",
+            "id": 38865430,
+            "issue_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/640",
+            "updated_at": "2014-03-27T21:52:03Z",
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/comments/38865430",
+            "user": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/315814?v=3",
+                "events_url": "https://api.github.com/users/niklasbollmer/events{/privacy}",
+                "followers_url": "https://api.github.com/users/niklasbollmer/followers",
+                "following_url": "https://api.github.com/users/niklasbollmer/following{/other_user}",
+                "gists_url": "https://api.github.com/users/niklasbollmer/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/niklasbollmer",
+                "id": 315814,
+                "login": "niklasbollmer",
+                "organizations_url": "https://api.github.com/users/niklasbollmer/orgs",
+                "received_events_url": "https://api.github.com/users/niklasbollmer/received_events",
+                "repos_url": "https://api.github.com/users/niklasbollmer/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/niklasbollmer/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/niklasbollmer/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/niklasbollmer"
+            }
+        }
+    ],
+    "comments": 2,
+    "comments_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/640/comments",
+    "created_at": "2014-03-23T16:17:34Z",
+    "event_data": [
+        {
+            "actor": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1610953?v=3",
+                "events_url": "https://api.github.com/users/shirioko/events{/privacy}",
+                "followers_url": "https://api.github.com/users/shirioko/followers",
+                "following_url": "https://api.github.com/users/shirioko/following{/other_user}",
+                "gists_url": "https://api.github.com/users/shirioko/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/shirioko",
+                "id": 1610953,
+                "login": "shirioko",
+                "organizations_url": "https://api.github.com/users/shirioko/orgs",
+                "received_events_url": "https://api.github.com/users/shirioko/received_events",
+                "repos_url": "https://api.github.com/users/shirioko/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/shirioko/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/shirioko/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/shirioko"
+            },
+            "commit_id": null,
+            "created_at": "2014-03-28T11:02:22Z",
+            "event": "labeled",
+            "id": 106418283,
+            "label": {
+                "color": "cc317c",
+                "name": "question"
+            },
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/events/106418283"
+        }
+    ],
+    "events_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/640/events",
+    "html_url": "https://github.com/venomous0x/WhatsAPI/issues/640",
+    "id": 29990548,
+    "labels": [
+        {
+            "color": "cc317c",
+            "name": "question",
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/labels/question"
+        }
+    ],
+    "labels_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/640/labels{/name}",
+    "locked": false,
+    "milestone": null,
+    "number": 640,
+    "state": "open",
+    "title": "PHP Fatal error:  Maximum execution time of 20 seconds exceeded in /var/whatsapp/WhatsAPI/src/php/whatsprot.class.php on line 0",
+    "updated_at": "2014-03-28T11:02:22Z",
+    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/640",
+    "user": {
+        "avatar_url": "https://avatars.githubusercontent.com/u/7021165?v=3",
+        "events_url": "https://api.github.com/users/escalanterj/events{/privacy}",
+        "followers_url": "https://api.github.com/users/escalanterj/followers",
+        "following_url": "https://api.github.com/users/escalanterj/following{/other_user}",
+        "gists_url": "https://api.github.com/users/escalanterj/gists{/gist_id}",
+        "gravatar_id": "",
+        "html_url": "https://github.com/escalanterj",
+        "id": 7021165,
+        "login": "escalanterj",
+        "organizations_url": "https://api.github.com/users/escalanterj/orgs",
+        "received_events_url": "https://api.github.com/users/escalanterj/received_events",
+        "repos_url": "https://api.github.com/users/escalanterj/repos",
+        "site_admin": false,
+        "starred_url": "https://api.github.com/users/escalanterj/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/escalanterj/subscriptions",
+        "type": "User",
+        "url": "https://api.github.com/users/escalanterj"
+    }
+}

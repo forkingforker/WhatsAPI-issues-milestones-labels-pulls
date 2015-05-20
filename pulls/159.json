@@ -1,0 +1,243 @@
+{
+    "_links": {
+        "comments": {
+            "href": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/159/comments"
+        },
+        "commits": {
+            "href": "https://api.github.com/repos/venomous0x/WhatsAPI/pulls/159/commits"
+        },
+        "html": {
+            "href": "https://github.com/venomous0x/WhatsAPI/pull/159"
+        },
+        "issue": {
+            "href": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/159"
+        },
+        "review_comment": {
+            "href": "https://api.github.com/repos/venomous0x/WhatsAPI/pulls/comments{/number}"
+        },
+        "review_comments": {
+            "href": "https://api.github.com/repos/venomous0x/WhatsAPI/pulls/159/comments"
+        },
+        "self": {
+            "href": "https://api.github.com/repos/venomous0x/WhatsAPI/pulls/159"
+        },
+        "statuses": {
+            "href": "https://api.github.com/repos/venomous0x/WhatsAPI/statuses/ca647ff3bd0d4e5a316ea5573d6cc0cd5ae78faa"
+        }
+    },
+    "assignee": null,
+    "base": {
+        "label": "venomous0x:master",
+        "ref": "master",
+        "repo": {
+            "archive_url": "https://api.github.com/repos/venomous0x/WhatsAPI/{archive_format}{/ref}",
+            "assignees_url": "https://api.github.com/repos/venomous0x/WhatsAPI/assignees{/user}",
+            "blobs_url": "https://api.github.com/repos/venomous0x/WhatsAPI/git/blobs{/sha}",
+            "branches_url": "https://api.github.com/repos/venomous0x/WhatsAPI/branches{/branch}",
+            "clone_url": "https://github.com/venomous0x/WhatsAPI.git",
+            "collaborators_url": "https://api.github.com/repos/venomous0x/WhatsAPI/collaborators{/collaborator}",
+            "comments_url": "https://api.github.com/repos/venomous0x/WhatsAPI/comments{/number}",
+            "commits_url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits{/sha}",
+            "compare_url": "https://api.github.com/repos/venomous0x/WhatsAPI/compare/{base}...{head}",
+            "contents_url": "https://api.github.com/repos/venomous0x/WhatsAPI/contents/{+path}",
+            "contributors_url": "https://api.github.com/repos/venomous0x/WhatsAPI/contributors",
+            "created_at": "2012-05-28T16:29:46Z",
+            "default_branch": "master",
+            "description": "Interface to WhatsApp Messenger",
+            "downloads_url": "https://api.github.com/repos/venomous0x/WhatsAPI/downloads",
+            "events_url": "https://api.github.com/repos/venomous0x/WhatsAPI/events",
+            "fork": false,
+            "forks": 1935,
+            "forks_count": 1935,
+            "forks_url": "https://api.github.com/repos/venomous0x/WhatsAPI/forks",
+            "full_name": "venomous0x/WhatsAPI",
+            "git_commits_url": "https://api.github.com/repos/venomous0x/WhatsAPI/git/commits{/sha}",
+            "git_refs_url": "https://api.github.com/repos/venomous0x/WhatsAPI/git/refs{/sha}",
+            "git_tags_url": "https://api.github.com/repos/venomous0x/WhatsAPI/git/tags{/sha}",
+            "git_url": "git://github.com/venomous0x/WhatsAPI.git",
+            "has_downloads": true,
+            "has_issues": true,
+            "has_pages": false,
+            "has_wiki": true,
+            "homepage": "",
+            "hooks_url": "https://api.github.com/repos/venomous0x/WhatsAPI/hooks",
+            "html_url": "https://github.com/venomous0x/WhatsAPI",
+            "id": 4472401,
+            "issue_comment_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/comments{/number}",
+            "issue_events_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/events{/number}",
+            "issues_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues{/number}",
+            "keys_url": "https://api.github.com/repos/venomous0x/WhatsAPI/keys{/key_id}",
+            "labels_url": "https://api.github.com/repos/venomous0x/WhatsAPI/labels{/name}",
+            "language": null,
+            "languages_url": "https://api.github.com/repos/venomous0x/WhatsAPI/languages",
+            "merges_url": "https://api.github.com/repos/venomous0x/WhatsAPI/merges",
+            "milestones_url": "https://api.github.com/repos/venomous0x/WhatsAPI/milestones{/number}",
+            "mirror_url": null,
+            "name": "WhatsAPI",
+            "notifications_url": "https://api.github.com/repos/venomous0x/WhatsAPI/notifications{?since,all,participating}",
+            "open_issues": 528,
+            "open_issues_count": 528,
+            "owner": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1786115?v=3",
+                "events_url": "https://api.github.com/users/venomous0x/events{/privacy}",
+                "followers_url": "https://api.github.com/users/venomous0x/followers",
+                "following_url": "https://api.github.com/users/venomous0x/following{/other_user}",
+                "gists_url": "https://api.github.com/users/venomous0x/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/venomous0x",
+                "id": 1786115,
+                "login": "venomous0x",
+                "organizations_url": "https://api.github.com/users/venomous0x/orgs",
+                "received_events_url": "https://api.github.com/users/venomous0x/received_events",
+                "repos_url": "https://api.github.com/users/venomous0x/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/venomous0x/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/venomous0x/subscriptions",
+                "type": "Organization",
+                "url": "https://api.github.com/users/venomous0x"
+            },
+            "private": false,
+            "pulls_url": "https://api.github.com/repos/venomous0x/WhatsAPI/pulls{/number}",
+            "pushed_at": "2015-05-03T17:53:48Z",
+            "releases_url": "https://api.github.com/repos/venomous0x/WhatsAPI/releases{/id}",
+            "size": 3191,
+            "ssh_url": "git@github.com:venomous0x/WhatsAPI.git",
+            "stargazers_count": 2481,
+            "stargazers_url": "https://api.github.com/repos/venomous0x/WhatsAPI/stargazers",
+            "statuses_url": "https://api.github.com/repos/venomous0x/WhatsAPI/statuses/{sha}",
+            "subscribers_url": "https://api.github.com/repos/venomous0x/WhatsAPI/subscribers",
+            "subscription_url": "https://api.github.com/repos/venomous0x/WhatsAPI/subscription",
+            "svn_url": "https://github.com/venomous0x/WhatsAPI",
+            "tags_url": "https://api.github.com/repos/venomous0x/WhatsAPI/tags",
+            "teams_url": "https://api.github.com/repos/venomous0x/WhatsAPI/teams",
+            "trees_url": "https://api.github.com/repos/venomous0x/WhatsAPI/git/trees{/sha}",
+            "updated_at": "2015-05-20T22:40:28Z",
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI",
+            "watchers": 2481,
+            "watchers_count": 2481
+        },
+        "sha": "09abe943949850d09d160442d2dcdd4f1856e5e5",
+        "user": {
+            "avatar_url": "https://avatars.githubusercontent.com/u/1786115?v=3",
+            "events_url": "https://api.github.com/users/venomous0x/events{/privacy}",
+            "followers_url": "https://api.github.com/users/venomous0x/followers",
+            "following_url": "https://api.github.com/users/venomous0x/following{/other_user}",
+            "gists_url": "https://api.github.com/users/venomous0x/gists{/gist_id}",
+            "gravatar_id": "",
+            "html_url": "https://github.com/venomous0x",
+            "id": 1786115,
+            "login": "venomous0x",
+            "organizations_url": "https://api.github.com/users/venomous0x/orgs",
+            "received_events_url": "https://api.github.com/users/venomous0x/received_events",
+            "repos_url": "https://api.github.com/users/venomous0x/repos",
+            "site_admin": false,
+            "starred_url": "https://api.github.com/users/venomous0x/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/venomous0x/subscriptions",
+            "type": "Organization",
+            "url": "https://api.github.com/users/venomous0x"
+        }
+    },
+    "body": "Firstly, this is my first ever contribution to an open source project, I'm still learning the tools - so any mistakes are entirely mine! Go easy on me - point out the mistakes but no shouting ;)\r\n\r\nI have been looking at the MessageImage function in Whatsapi and was getting frustrated at having to build my own thumbnails every time I wanted to send an image.\r\n\r\nSo I decided to use the features of imagick that I hope most people have enabled in php to do this for me automatically when you try and send an image.\r\n\r\nThere is a full example of how to send an image as a message below. However I do have some questions that I don't know the answer too.\r\n\r\n1) In the MessageImage method, (around line 276 in whatsprot.class.php) what purpose does the line:\r\n**$mediaAttribs[\"file\"] = $file;**\r\n\r\nserve? Is this for Android for it to save the image to the phone as a particular filename?\r\n\r\n2)Why must we supply the image from a URL online, if an image exists on the server/computer we are sending from, why can we not use that? I have tried using a local file (not accessable via http request) and whilst the thumbnail worked perfectly I was unable to download the received message/image on the phone.\r\n\r\n3) I have no idea why there are so many edits in the src/php/whatsprot.class.php that seem to be related to removing blank lines and replacing them. If anyone can explain to this noob why that happened I'd be grateful.\r\n\r\n\r\nAnyway, I hope this helps someone else. Seems to be working very well here\r\n\r\n```php\r\n<?php\r\n    require \"whatsprot.class.php\";\r\n\r\n    $fromMobNumber = \"1234567890\";\r\n    $toMobNumber = \"0987654321\";\r\n    $id = \"<YOUR_MAC_OR_IEMI_DEPENDING_ON_PLATFORM>\";\r\n    $nick = \"YourNick\";\r\n    $imgurl = \"http://www.picastro.net/wp-content/uploads/2010/04/funny-dog-costume.jpg\";\r\n\r\n    $w = new WhatsProt($fromMobNumber, $id, $nick);\r\n    $w->Connect();\r\n    $w->Login();\r\n    $w->sendNickname($nick);\r\n\r\n    $w->MessageImage(time() . \"-1\", $toMobNumber, $imgurl);\r\n    sleep (4);\r\n    \r\n?>\r\n```",
+    "closed_at": "2013-12-19T15:38:34Z",
+    "comment_data": [],
+    "comments_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/159/comments",
+    "commit_data": [
+        {
+            "author": null,
+            "comments_url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/ca647ff3bd0d4e5a316ea5573d6cc0cd5ae78faa/comments",
+            "commit": {
+                "author": {
+                    "date": "2012-11-11T19:42:36Z",
+                    "email": "jonathan@viper",
+                    "name": "Jonathan"
+                },
+                "comment_count": 0,
+                "committer": {
+                    "date": "2012-11-11T19:42:36Z",
+                    "email": "jonathan@viper",
+                    "name": "Jonathan"
+                },
+                "message": "Add auto thumbnail creation for sending images.",
+                "tree": {
+                    "sha": "3d89799e4850966c9e0b22e8a66a9313e143dc06",
+                    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/git/trees/3d89799e4850966c9e0b22e8a66a9313e143dc06"
+                },
+                "url": "https://api.github.com/repos/venomous0x/WhatsAPI/git/commits/ca647ff3bd0d4e5a316ea5573d6cc0cd5ae78faa"
+            },
+            "committer": null,
+            "html_url": "https://github.com/venomous0x/WhatsAPI/commit/ca647ff3bd0d4e5a316ea5573d6cc0cd5ae78faa",
+            "parents": [
+                {
+                    "html_url": "https://github.com/venomous0x/WhatsAPI/commit/09abe943949850d09d160442d2dcdd4f1856e5e5",
+                    "sha": "09abe943949850d09d160442d2dcdd4f1856e5e5",
+                    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/09abe943949850d09d160442d2dcdd4f1856e5e5"
+                }
+            ],
+            "sha": "ca647ff3bd0d4e5a316ea5573d6cc0cd5ae78faa",
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/ca647ff3bd0d4e5a316ea5573d6cc0cd5ae78faa"
+        }
+    ],
+    "commits_url": "https://api.github.com/repos/venomous0x/WhatsAPI/pulls/159/commits",
+    "created_at": "2012-11-11T19:48:03Z",
+    "diff_url": "https://github.com/venomous0x/WhatsAPI/pull/159.diff",
+    "head": {
+        "label": "jonnywilliamson:master",
+        "ref": "master",
+        "repo": null,
+        "sha": "ca647ff3bd0d4e5a316ea5573d6cc0cd5ae78faa",
+        "user": {
+            "avatar_url": "https://avatars.githubusercontent.com/u/2513663?v=3",
+            "events_url": "https://api.github.com/users/jonnywilliamson/events{/privacy}",
+            "followers_url": "https://api.github.com/users/jonnywilliamson/followers",
+            "following_url": "https://api.github.com/users/jonnywilliamson/following{/other_user}",
+            "gists_url": "https://api.github.com/users/jonnywilliamson/gists{/gist_id}",
+            "gravatar_id": "",
+            "html_url": "https://github.com/jonnywilliamson",
+            "id": 2513663,
+            "login": "jonnywilliamson",
+            "organizations_url": "https://api.github.com/users/jonnywilliamson/orgs",
+            "received_events_url": "https://api.github.com/users/jonnywilliamson/received_events",
+            "repos_url": "https://api.github.com/users/jonnywilliamson/repos",
+            "site_admin": false,
+            "starred_url": "https://api.github.com/users/jonnywilliamson/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/jonnywilliamson/subscriptions",
+            "type": "User",
+            "url": "https://api.github.com/users/jonnywilliamson"
+        }
+    },
+    "html_url": "https://github.com/venomous0x/WhatsAPI/pull/159",
+    "id": 2959150,
+    "issue_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/159",
+    "locked": false,
+    "merge_commit_sha": "880d524ea07d90d13381cba7a8132b1d0a2a34b9",
+    "merged_at": null,
+    "milestone": null,
+    "number": 159,
+    "patch_url": "https://github.com/venomous0x/WhatsAPI/pull/159.patch",
+    "review_comment_url": "https://api.github.com/repos/venomous0x/WhatsAPI/pulls/comments{/number}",
+    "review_comments_url": "https://api.github.com/repos/venomous0x/WhatsAPI/pulls/159/comments",
+    "state": "closed",
+    "statuses_url": "https://api.github.com/repos/venomous0x/WhatsAPI/statuses/ca647ff3bd0d4e5a316ea5573d6cc0cd5ae78faa",
+    "title": "Auto Thumbnail creation for sent images",
+    "updated_at": "2014-06-23T02:13:32Z",
+    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/pulls/159",
+    "user": {
+        "avatar_url": "https://avatars.githubusercontent.com/u/2513663?v=3",
+        "events_url": "https://api.github.com/users/jonnywilliamson/events{/privacy}",
+        "followers_url": "https://api.github.com/users/jonnywilliamson/followers",
+        "following_url": "https://api.github.com/users/jonnywilliamson/following{/other_user}",
+        "gists_url": "https://api.github.com/users/jonnywilliamson/gists{/gist_id}",
+        "gravatar_id": "",
+        "html_url": "https://github.com/jonnywilliamson",
+        "id": 2513663,
+        "login": "jonnywilliamson",
+        "organizations_url": "https://api.github.com/users/jonnywilliamson/orgs",
+        "received_events_url": "https://api.github.com/users/jonnywilliamson/received_events",
+        "repos_url": "https://api.github.com/users/jonnywilliamson/repos",
+        "site_admin": false,
+        "starred_url": "https://api.github.com/users/jonnywilliamson/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/jonnywilliamson/subscriptions",
+        "type": "User",
+        "url": "https://api.github.com/users/jonnywilliamson"
+    }
+}

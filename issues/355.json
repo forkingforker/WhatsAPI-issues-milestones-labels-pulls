@@ -1,0 +1,103 @@
+{
+    "assignee": null,
+    "body": "",
+    "closed_at": "2013-06-18T20:37:15Z",
+    "comment_data": [
+        {
+            "body": "lmao",
+            "created_at": "2013-05-26T22:18:56Z",
+            "html_url": "https://github.com/venomous0x/WhatsAPI/pull/355#issuecomment-18470672",
+            "id": 18470672,
+            "issue_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/355",
+            "updated_at": "2013-05-26T22:18:56Z",
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/comments/18470672",
+            "user": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/3052767?v=3",
+                "events_url": "https://api.github.com/users/Dynogic/events{/privacy}",
+                "followers_url": "https://api.github.com/users/Dynogic/followers",
+                "following_url": "https://api.github.com/users/Dynogic/following{/other_user}",
+                "gists_url": "https://api.github.com/users/Dynogic/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/Dynogic",
+                "id": 3052767,
+                "login": "Dynogic",
+                "organizations_url": "https://api.github.com/users/Dynogic/orgs",
+                "received_events_url": "https://api.github.com/users/Dynogic/received_events",
+                "repos_url": "https://api.github.com/users/Dynogic/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/Dynogic/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/Dynogic/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/Dynogic"
+            }
+        }
+    ],
+    "comments": 1,
+    "comments_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/355/comments",
+    "created_at": "2013-05-21T06:10:58Z",
+    "event_data": [
+        {
+            "actor": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1610953?v=3",
+                "events_url": "https://api.github.com/users/shirioko/events{/privacy}",
+                "followers_url": "https://api.github.com/users/shirioko/followers",
+                "following_url": "https://api.github.com/users/shirioko/following{/other_user}",
+                "gists_url": "https://api.github.com/users/shirioko/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/shirioko",
+                "id": 1610953,
+                "login": "shirioko",
+                "organizations_url": "https://api.github.com/users/shirioko/orgs",
+                "received_events_url": "https://api.github.com/users/shirioko/received_events",
+                "repos_url": "https://api.github.com/users/shirioko/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/shirioko/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/shirioko/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/shirioko"
+            },
+            "commit_id": null,
+            "created_at": "2013-06-18T20:37:15Z",
+            "event": "closed",
+            "id": 53156949,
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/events/53156949"
+        }
+    ],
+    "events_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/355/events",
+    "html_url": "https://github.com/venomous0x/WhatsAPI/pull/355",
+    "id": 14553060,
+    "labels": [],
+    "labels_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/355/labels{/name}",
+    "locked": false,
+    "milestone": null,
+    "number": 355,
+    "pull_request": {
+        "diff_url": "https://github.com/venomous0x/WhatsAPI/pull/355.diff",
+        "html_url": "https://github.com/venomous0x/WhatsAPI/pull/355",
+        "patch_url": "https://github.com/venomous0x/WhatsAPI/pull/355.patch",
+        "url": "https://api.github.com/repos/venomous0x/WhatsAPI/pulls/355"
+    },
+    "state": "closed",
+    "title": "Update whatsapp.php",
+    "updated_at": "2013-06-18T20:37:15Z",
+    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/355",
+    "user": {
+        "avatar_url": "https://avatars.githubusercontent.com/u/4486155?v=3",
+        "events_url": "https://api.github.com/users/ds4674/events{/privacy}",
+        "followers_url": "https://api.github.com/users/ds4674/followers",
+        "following_url": "https://api.github.com/users/ds4674/following{/other_user}",
+        "gists_url": "https://api.github.com/users/ds4674/gists{/gist_id}",
+        "gravatar_id": "",
+        "html_url": "https://github.com/ds4674",
+        "id": 4486155,
+        "login": "ds4674",
+        "organizations_url": "https://api.github.com/users/ds4674/orgs",
+        "received_events_url": "https://api.github.com/users/ds4674/received_events",
+        "repos_url": "https://api.github.com/users/ds4674/repos",
+        "site_admin": false,
+        "starred_url": "https://api.github.com/users/ds4674/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/ds4674/subscriptions",
+        "type": "User",
+        "url": "https://api.github.com/users/ds4674"
+    }
+}

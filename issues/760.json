@@ -1,0 +1,135 @@
+{
+    "assignee": null,
+    "body": "const WHATSAPP_DEVICE = 'Android'; // The device name.\r\n    const WHATSAPP_VER = '2.11.209'; // The WhatsApp version.\r\n    const WHATSAPP_USER_AGENT = 'WhatsApp/2.11.209 Android/4.3 Device/GalaxyS3';// User agent used in request/registration code.\r\n\r\ni want to change this to iphone's ios and user agent",
+    "closed_at": null,
+    "comment_data": [
+        {
+            "body": "I don't know why you'd want that but here you go:\r\nhttps://github.com/perezdidac/WhatsAPINet/issues/88",
+            "created_at": "2014-06-04T08:39:29Z",
+            "html_url": "https://github.com/venomous0x/WhatsAPI/issues/760#issuecomment-45065734",
+            "id": 45065734,
+            "issue_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/760",
+            "updated_at": "2014-06-04T08:39:29Z",
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/comments/45065734",
+            "user": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1610953?v=3",
+                "events_url": "https://api.github.com/users/shirioko/events{/privacy}",
+                "followers_url": "https://api.github.com/users/shirioko/followers",
+                "following_url": "https://api.github.com/users/shirioko/following{/other_user}",
+                "gists_url": "https://api.github.com/users/shirioko/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/shirioko",
+                "id": 1610953,
+                "login": "shirioko",
+                "organizations_url": "https://api.github.com/users/shirioko/orgs",
+                "received_events_url": "https://api.github.com/users/shirioko/received_events",
+                "repos_url": "https://api.github.com/users/shirioko/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/shirioko/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/shirioko/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/shirioko"
+            }
+        },
+        {
+            "body": "my number getting blocked every time in just 5 hours. thats y i think so.",
+            "created_at": "2014-06-04T09:03:26Z",
+            "html_url": "https://github.com/venomous0x/WhatsAPI/issues/760#issuecomment-45067673",
+            "id": 45067673,
+            "issue_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/760",
+            "updated_at": "2014-06-04T09:03:26Z",
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/comments/45067673",
+            "user": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/7668670?v=3",
+                "events_url": "https://api.github.com/users/baakdaa/events{/privacy}",
+                "followers_url": "https://api.github.com/users/baakdaa/followers",
+                "following_url": "https://api.github.com/users/baakdaa/following{/other_user}",
+                "gists_url": "https://api.github.com/users/baakdaa/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/baakdaa",
+                "id": 7668670,
+                "login": "baakdaa",
+                "organizations_url": "https://api.github.com/users/baakdaa/orgs",
+                "received_events_url": "https://api.github.com/users/baakdaa/received_events",
+                "repos_url": "https://api.github.com/users/baakdaa/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/baakdaa/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/baakdaa/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/baakdaa"
+            }
+        }
+    ],
+    "comments": 2,
+    "comments_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/760/comments",
+    "created_at": "2014-06-04T07:51:13Z",
+    "event_data": [
+        {
+            "actor": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1610953?v=3",
+                "events_url": "https://api.github.com/users/shirioko/events{/privacy}",
+                "followers_url": "https://api.github.com/users/shirioko/followers",
+                "following_url": "https://api.github.com/users/shirioko/following{/other_user}",
+                "gists_url": "https://api.github.com/users/shirioko/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/shirioko",
+                "id": 1610953,
+                "login": "shirioko",
+                "organizations_url": "https://api.github.com/users/shirioko/orgs",
+                "received_events_url": "https://api.github.com/users/shirioko/received_events",
+                "repos_url": "https://api.github.com/users/shirioko/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/shirioko/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/shirioko/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/shirioko"
+            },
+            "commit_id": null,
+            "created_at": "2014-06-04T08:39:30Z",
+            "event": "labeled",
+            "id": 127826481,
+            "label": {
+                "color": "cc317c",
+                "name": "question"
+            },
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/events/127826481"
+        }
+    ],
+    "events_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/760/events",
+    "html_url": "https://github.com/venomous0x/WhatsAPI/issues/760",
+    "id": 34936911,
+    "labels": [
+        {
+            "color": "cc317c",
+            "name": "question",
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/labels/question"
+        }
+    ],
+    "labels_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/760/labels{/name}",
+    "locked": false,
+    "milestone": null,
+    "number": 760,
+    "state": "open",
+    "title": "How can i change the agent from android to iphone ,",
+    "updated_at": "2014-06-04T09:03:26Z",
+    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/760",
+    "user": {
+        "avatar_url": "https://avatars.githubusercontent.com/u/7668670?v=3",
+        "events_url": "https://api.github.com/users/baakdaa/events{/privacy}",
+        "followers_url": "https://api.github.com/users/baakdaa/followers",
+        "following_url": "https://api.github.com/users/baakdaa/following{/other_user}",
+        "gists_url": "https://api.github.com/users/baakdaa/gists{/gist_id}",
+        "gravatar_id": "",
+        "html_url": "https://github.com/baakdaa",
+        "id": 7668670,
+        "login": "baakdaa",
+        "organizations_url": "https://api.github.com/users/baakdaa/orgs",
+        "received_events_url": "https://api.github.com/users/baakdaa/received_events",
+        "repos_url": "https://api.github.com/users/baakdaa/repos",
+        "site_admin": false,
+        "starred_url": "https://api.github.com/users/baakdaa/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/baakdaa/subscriptions",
+        "type": "User",
+        "url": "https://api.github.com/users/baakdaa"
+    }
+}

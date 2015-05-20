@@ -1,0 +1,167 @@
+{
+    "assignee": null,
+    "body": "Hi, \r\n\r\nMight be some body asked this type of question before, but I can't find any by search.\r\n\r\nIs anyone know how Mobile Device's Whatsapp (Client) behave in term of socket?\r\nis every single message send: open socket -> auth -> send msg -> receive msg -> close socket?\r\n\r\nor actually the socket is open for some period of time before it close? What condition trigger a Mobile Whatsapp socket close? \r\n\r\nAs far as I know, how WhatsAPI does is every single request (whatsapp.php) is follow this sequence open socket -> auth -> receive msg -> send msg -> close socket.\r\nevery request open the socket once. \r\n\r\nis that normal behavior to keep auth (login) with whatsapp server frequently?\r\n",
+    "closed_at": null,
+    "comment_data": [
+        {
+            "body": "No.\r\nWhatsapp client  connects and authenticates when you open the app. Any message you send or receive goes through that socket connection.\r\nThe socket is closed when you exit the app on your phone. At that point the app subscribes to GCM, Apple cloud notifications or Microsoft push framework.",
+            "created_at": "2014-07-17T14:36:00Z",
+            "html_url": "https://github.com/venomous0x/WhatsAPI/issues/735#issuecomment-49315009",
+            "id": 49315009,
+            "issue_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/735",
+            "updated_at": "2014-07-17T14:36:00Z",
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/comments/49315009",
+            "user": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1610953?v=3",
+                "events_url": "https://api.github.com/users/shirioko/events{/privacy}",
+                "followers_url": "https://api.github.com/users/shirioko/followers",
+                "following_url": "https://api.github.com/users/shirioko/following{/other_user}",
+                "gists_url": "https://api.github.com/users/shirioko/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/shirioko",
+                "id": 1610953,
+                "login": "shirioko",
+                "organizations_url": "https://api.github.com/users/shirioko/orgs",
+                "received_events_url": "https://api.github.com/users/shirioko/received_events",
+                "repos_url": "https://api.github.com/users/shirioko/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/shirioko/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/shirioko/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/shirioko"
+            }
+        }
+    ],
+    "comments": 1,
+    "comments_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/735/comments",
+    "created_at": "2014-05-20T07:38:46Z",
+    "event_data": [
+        {
+            "actor": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1610953?v=3",
+                "events_url": "https://api.github.com/users/shirioko/events{/privacy}",
+                "followers_url": "https://api.github.com/users/shirioko/followers",
+                "following_url": "https://api.github.com/users/shirioko/following{/other_user}",
+                "gists_url": "https://api.github.com/users/shirioko/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/shirioko",
+                "id": 1610953,
+                "login": "shirioko",
+                "organizations_url": "https://api.github.com/users/shirioko/orgs",
+                "received_events_url": "https://api.github.com/users/shirioko/received_events",
+                "repos_url": "https://api.github.com/users/shirioko/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/shirioko/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/shirioko/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/shirioko"
+            },
+            "commit_id": null,
+            "created_at": "2014-07-17T14:36:03Z",
+            "event": "labeled",
+            "id": 142673522,
+            "label": {
+                "color": "e6e6e6",
+                "name": "invalid"
+            },
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/events/142673522"
+        },
+        {
+            "actor": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1610953?v=3",
+                "events_url": "https://api.github.com/users/shirioko/events{/privacy}",
+                "followers_url": "https://api.github.com/users/shirioko/followers",
+                "following_url": "https://api.github.com/users/shirioko/following{/other_user}",
+                "gists_url": "https://api.github.com/users/shirioko/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/shirioko",
+                "id": 1610953,
+                "login": "shirioko",
+                "organizations_url": "https://api.github.com/users/shirioko/orgs",
+                "received_events_url": "https://api.github.com/users/shirioko/received_events",
+                "repos_url": "https://api.github.com/users/shirioko/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/shirioko/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/shirioko/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/shirioko"
+            },
+            "commit_id": null,
+            "created_at": "2014-07-17T14:36:03Z",
+            "event": "unlabeled",
+            "id": 142673524,
+            "label": {
+                "color": "e6e6e6",
+                "name": "invalid"
+            },
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/events/142673524"
+        },
+        {
+            "actor": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1610953?v=3",
+                "events_url": "https://api.github.com/users/shirioko/events{/privacy}",
+                "followers_url": "https://api.github.com/users/shirioko/followers",
+                "following_url": "https://api.github.com/users/shirioko/following{/other_user}",
+                "gists_url": "https://api.github.com/users/shirioko/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/shirioko",
+                "id": 1610953,
+                "login": "shirioko",
+                "organizations_url": "https://api.github.com/users/shirioko/orgs",
+                "received_events_url": "https://api.github.com/users/shirioko/received_events",
+                "repos_url": "https://api.github.com/users/shirioko/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/shirioko/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/shirioko/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/shirioko"
+            },
+            "commit_id": null,
+            "created_at": "2014-07-17T14:36:04Z",
+            "event": "labeled",
+            "id": 142673532,
+            "label": {
+                "color": "cc317c",
+                "name": "question"
+            },
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/events/142673532"
+        }
+    ],
+    "events_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/735/events",
+    "html_url": "https://github.com/venomous0x/WhatsAPI/issues/735",
+    "id": 33864738,
+    "labels": [
+        {
+            "color": "cc317c",
+            "name": "question",
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/labels/question"
+        }
+    ],
+    "labels_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/735/labels{/name}",
+    "locked": false,
+    "milestone": null,
+    "number": 735,
+    "state": "open",
+    "title": "On Mobile Whatsapp, how the socket behave? how it's different with WhatsAPI socket (whatsapp.php)?",
+    "updated_at": "2014-07-17T14:36:04Z",
+    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/735",
+    "user": {
+        "avatar_url": "https://avatars.githubusercontent.com/u/7642087?v=3",
+        "events_url": "https://api.github.com/users/cj0shua/events{/privacy}",
+        "followers_url": "https://api.github.com/users/cj0shua/followers",
+        "following_url": "https://api.github.com/users/cj0shua/following{/other_user}",
+        "gists_url": "https://api.github.com/users/cj0shua/gists{/gist_id}",
+        "gravatar_id": "",
+        "html_url": "https://github.com/cj0shua",
+        "id": 7642087,
+        "login": "cj0shua",
+        "organizations_url": "https://api.github.com/users/cj0shua/orgs",
+        "received_events_url": "https://api.github.com/users/cj0shua/received_events",
+        "repos_url": "https://api.github.com/users/cj0shua/repos",
+        "site_admin": false,
+        "starred_url": "https://api.github.com/users/cj0shua/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/cj0shua/subscriptions",
+        "type": "User",
+        "url": "https://api.github.com/users/cj0shua"
+    }
+}

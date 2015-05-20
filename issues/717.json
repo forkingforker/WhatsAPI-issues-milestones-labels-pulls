@@ -1,0 +1,135 @@
+{
+    "assignee": null,
+    "body": "i am trying to create a multi-line textbox to input the numbers of contacts instead of using the the add-on input in the whatsapp.php web client , the problem is that i have tested adding the text box and i chose a number from the add-on and entered another number in the text box it sent the message for both numbers, the question is when i try to add 2 or three numbers in the text box beneath each other it doesnt send to any number of entered, so how can i get it to read the numbers in the textbox in each line.\r\n\r\nand how can i add the option of creating groups directly into the whatsapp.php file\r\nhelp is kindly appreciated",
+    "closed_at": null,
+    "comment_data": [
+        {
+            "body": "split the text from the textbox\r\n```php\r\n$numbers = explode(\"\\n\", $_POST[\"textarea\"]);\r\n```\r\nthis will give you the array of numbers which you can use to send messages",
+            "created_at": "2014-05-01T21:33:24Z",
+            "html_url": "https://github.com/venomous0x/WhatsAPI/issues/717#issuecomment-41959577",
+            "id": 41959577,
+            "issue_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/717",
+            "updated_at": "2014-05-01T21:33:24Z",
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/comments/41959577",
+            "user": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1610953?v=3",
+                "events_url": "https://api.github.com/users/shirioko/events{/privacy}",
+                "followers_url": "https://api.github.com/users/shirioko/followers",
+                "following_url": "https://api.github.com/users/shirioko/following{/other_user}",
+                "gists_url": "https://api.github.com/users/shirioko/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/shirioko",
+                "id": 1610953,
+                "login": "shirioko",
+                "organizations_url": "https://api.github.com/users/shirioko/orgs",
+                "received_events_url": "https://api.github.com/users/shirioko/received_events",
+                "repos_url": "https://api.github.com/users/shirioko/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/shirioko/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/shirioko/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/shirioko"
+            }
+        },
+        {
+            "body": "i did split the text from the text box but it would only read the first number but if i enter another number on the second line of the textbox it wont read any line and will only read from the add-on selection number... ",
+            "created_at": "2014-05-01T23:04:34Z",
+            "html_url": "https://github.com/venomous0x/WhatsAPI/issues/717#issuecomment-41967040",
+            "id": 41967040,
+            "issue_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/717",
+            "updated_at": "2014-05-01T23:04:34Z",
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/comments/41967040",
+            "user": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/7461771?v=3",
+                "events_url": "https://api.github.com/users/ramibta/events{/privacy}",
+                "followers_url": "https://api.github.com/users/ramibta/followers",
+                "following_url": "https://api.github.com/users/ramibta/following{/other_user}",
+                "gists_url": "https://api.github.com/users/ramibta/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/ramibta",
+                "id": 7461771,
+                "login": "ramibta",
+                "organizations_url": "https://api.github.com/users/ramibta/orgs",
+                "received_events_url": "https://api.github.com/users/ramibta/received_events",
+                "repos_url": "https://api.github.com/users/ramibta/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/ramibta/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/ramibta/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/ramibta"
+            }
+        }
+    ],
+    "comments": 2,
+    "comments_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/717/comments",
+    "created_at": "2014-05-01T20:41:10Z",
+    "event_data": [
+        {
+            "actor": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1610953?v=3",
+                "events_url": "https://api.github.com/users/shirioko/events{/privacy}",
+                "followers_url": "https://api.github.com/users/shirioko/followers",
+                "following_url": "https://api.github.com/users/shirioko/following{/other_user}",
+                "gists_url": "https://api.github.com/users/shirioko/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/shirioko",
+                "id": 1610953,
+                "login": "shirioko",
+                "organizations_url": "https://api.github.com/users/shirioko/orgs",
+                "received_events_url": "https://api.github.com/users/shirioko/received_events",
+                "repos_url": "https://api.github.com/users/shirioko/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/shirioko/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/shirioko/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/shirioko"
+            },
+            "commit_id": null,
+            "created_at": "2014-05-01T20:45:07Z",
+            "event": "labeled",
+            "id": 117100957,
+            "label": {
+                "color": "cc317c",
+                "name": "question"
+            },
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/events/117100957"
+        }
+    ],
+    "events_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/717/events",
+    "html_url": "https://github.com/venomous0x/WhatsAPI/issues/717",
+    "id": 32645893,
+    "labels": [
+        {
+            "color": "cc317c",
+            "name": "question",
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/labels/question"
+        }
+    ],
+    "labels_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/717/labels{/name}",
+    "locked": false,
+    "milestone": null,
+    "number": 717,
+    "state": "open",
+    "title": "reading contacts from a multiline text box instead from the add-on input",
+    "updated_at": "2014-05-01T23:04:34Z",
+    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/717",
+    "user": {
+        "avatar_url": "https://avatars.githubusercontent.com/u/7461771?v=3",
+        "events_url": "https://api.github.com/users/ramibta/events{/privacy}",
+        "followers_url": "https://api.github.com/users/ramibta/followers",
+        "following_url": "https://api.github.com/users/ramibta/following{/other_user}",
+        "gists_url": "https://api.github.com/users/ramibta/gists{/gist_id}",
+        "gravatar_id": "",
+        "html_url": "https://github.com/ramibta",
+        "id": 7461771,
+        "login": "ramibta",
+        "organizations_url": "https://api.github.com/users/ramibta/orgs",
+        "received_events_url": "https://api.github.com/users/ramibta/received_events",
+        "repos_url": "https://api.github.com/users/ramibta/repos",
+        "site_admin": false,
+        "starred_url": "https://api.github.com/users/ramibta/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/ramibta/subscriptions",
+        "type": "User",
+        "url": "https://api.github.com/users/ramibta"
+    }
+}

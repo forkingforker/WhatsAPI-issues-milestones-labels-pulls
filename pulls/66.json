@@ -1,0 +1,349 @@
+{
+    "_links": {
+        "comments": {
+            "href": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/66/comments"
+        },
+        "commits": {
+            "href": "https://api.github.com/repos/venomous0x/WhatsAPI/pulls/66/commits"
+        },
+        "html": {
+            "href": "https://github.com/venomous0x/WhatsAPI/pull/66"
+        },
+        "issue": {
+            "href": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/66"
+        },
+        "review_comment": {
+            "href": "https://api.github.com/repos/venomous0x/WhatsAPI/pulls/comments{/number}"
+        },
+        "review_comments": {
+            "href": "https://api.github.com/repos/venomous0x/WhatsAPI/pulls/66/comments"
+        },
+        "self": {
+            "href": "https://api.github.com/repos/venomous0x/WhatsAPI/pulls/66"
+        },
+        "statuses": {
+            "href": "https://api.github.com/repos/venomous0x/WhatsAPI/statuses/35de006daf9f29de56ed72daf1384f936544b717"
+        }
+    },
+    "assignee": null,
+    "base": {
+        "label": "venomous0x:master",
+        "ref": "master",
+        "repo": {
+            "archive_url": "https://api.github.com/repos/venomous0x/WhatsAPI/{archive_format}{/ref}",
+            "assignees_url": "https://api.github.com/repos/venomous0x/WhatsAPI/assignees{/user}",
+            "blobs_url": "https://api.github.com/repos/venomous0x/WhatsAPI/git/blobs{/sha}",
+            "branches_url": "https://api.github.com/repos/venomous0x/WhatsAPI/branches{/branch}",
+            "clone_url": "https://github.com/venomous0x/WhatsAPI.git",
+            "collaborators_url": "https://api.github.com/repos/venomous0x/WhatsAPI/collaborators{/collaborator}",
+            "comments_url": "https://api.github.com/repos/venomous0x/WhatsAPI/comments{/number}",
+            "commits_url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits{/sha}",
+            "compare_url": "https://api.github.com/repos/venomous0x/WhatsAPI/compare/{base}...{head}",
+            "contents_url": "https://api.github.com/repos/venomous0x/WhatsAPI/contents/{+path}",
+            "contributors_url": "https://api.github.com/repos/venomous0x/WhatsAPI/contributors",
+            "created_at": "2012-05-28T16:29:46Z",
+            "default_branch": "master",
+            "description": "Interface to WhatsApp Messenger",
+            "downloads_url": "https://api.github.com/repos/venomous0x/WhatsAPI/downloads",
+            "events_url": "https://api.github.com/repos/venomous0x/WhatsAPI/events",
+            "fork": false,
+            "forks": 1935,
+            "forks_count": 1935,
+            "forks_url": "https://api.github.com/repos/venomous0x/WhatsAPI/forks",
+            "full_name": "venomous0x/WhatsAPI",
+            "git_commits_url": "https://api.github.com/repos/venomous0x/WhatsAPI/git/commits{/sha}",
+            "git_refs_url": "https://api.github.com/repos/venomous0x/WhatsAPI/git/refs{/sha}",
+            "git_tags_url": "https://api.github.com/repos/venomous0x/WhatsAPI/git/tags{/sha}",
+            "git_url": "git://github.com/venomous0x/WhatsAPI.git",
+            "has_downloads": true,
+            "has_issues": true,
+            "has_pages": false,
+            "has_wiki": true,
+            "homepage": "",
+            "hooks_url": "https://api.github.com/repos/venomous0x/WhatsAPI/hooks",
+            "html_url": "https://github.com/venomous0x/WhatsAPI",
+            "id": 4472401,
+            "issue_comment_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/comments{/number}",
+            "issue_events_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/events{/number}",
+            "issues_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues{/number}",
+            "keys_url": "https://api.github.com/repos/venomous0x/WhatsAPI/keys{/key_id}",
+            "labels_url": "https://api.github.com/repos/venomous0x/WhatsAPI/labels{/name}",
+            "language": null,
+            "languages_url": "https://api.github.com/repos/venomous0x/WhatsAPI/languages",
+            "merges_url": "https://api.github.com/repos/venomous0x/WhatsAPI/merges",
+            "milestones_url": "https://api.github.com/repos/venomous0x/WhatsAPI/milestones{/number}",
+            "mirror_url": null,
+            "name": "WhatsAPI",
+            "notifications_url": "https://api.github.com/repos/venomous0x/WhatsAPI/notifications{?since,all,participating}",
+            "open_issues": 528,
+            "open_issues_count": 528,
+            "owner": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1786115?v=3",
+                "events_url": "https://api.github.com/users/venomous0x/events{/privacy}",
+                "followers_url": "https://api.github.com/users/venomous0x/followers",
+                "following_url": "https://api.github.com/users/venomous0x/following{/other_user}",
+                "gists_url": "https://api.github.com/users/venomous0x/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/venomous0x",
+                "id": 1786115,
+                "login": "venomous0x",
+                "organizations_url": "https://api.github.com/users/venomous0x/orgs",
+                "received_events_url": "https://api.github.com/users/venomous0x/received_events",
+                "repos_url": "https://api.github.com/users/venomous0x/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/venomous0x/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/venomous0x/subscriptions",
+                "type": "Organization",
+                "url": "https://api.github.com/users/venomous0x"
+            },
+            "private": false,
+            "pulls_url": "https://api.github.com/repos/venomous0x/WhatsAPI/pulls{/number}",
+            "pushed_at": "2015-05-03T17:53:48Z",
+            "releases_url": "https://api.github.com/repos/venomous0x/WhatsAPI/releases{/id}",
+            "size": 3191,
+            "ssh_url": "git@github.com:venomous0x/WhatsAPI.git",
+            "stargazers_count": 2481,
+            "stargazers_url": "https://api.github.com/repos/venomous0x/WhatsAPI/stargazers",
+            "statuses_url": "https://api.github.com/repos/venomous0x/WhatsAPI/statuses/{sha}",
+            "subscribers_url": "https://api.github.com/repos/venomous0x/WhatsAPI/subscribers",
+            "subscription_url": "https://api.github.com/repos/venomous0x/WhatsAPI/subscription",
+            "svn_url": "https://github.com/venomous0x/WhatsAPI",
+            "tags_url": "https://api.github.com/repos/venomous0x/WhatsAPI/tags",
+            "teams_url": "https://api.github.com/repos/venomous0x/WhatsAPI/teams",
+            "trees_url": "https://api.github.com/repos/venomous0x/WhatsAPI/git/trees{/sha}",
+            "updated_at": "2015-05-20T22:40:28Z",
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI",
+            "watchers": 2481,
+            "watchers_count": 2481
+        },
+        "sha": "087cd743737a36f1c94df6497b5a1e0acf12c3a4",
+        "user": {
+            "avatar_url": "https://avatars.githubusercontent.com/u/1786115?v=3",
+            "events_url": "https://api.github.com/users/venomous0x/events{/privacy}",
+            "followers_url": "https://api.github.com/users/venomous0x/followers",
+            "following_url": "https://api.github.com/users/venomous0x/following{/other_user}",
+            "gists_url": "https://api.github.com/users/venomous0x/gists{/gist_id}",
+            "gravatar_id": "",
+            "html_url": "https://github.com/venomous0x",
+            "id": 1786115,
+            "login": "venomous0x",
+            "organizations_url": "https://api.github.com/users/venomous0x/orgs",
+            "received_events_url": "https://api.github.com/users/venomous0x/received_events",
+            "repos_url": "https://api.github.com/users/venomous0x/repos",
+            "site_admin": false,
+            "starred_url": "https://api.github.com/users/venomous0x/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/venomous0x/subscriptions",
+            "type": "Organization",
+            "url": "https://api.github.com/users/venomous0x"
+        }
+    },
+    "body": "Added Pong function (to respond on Whatsapp's PING request): http://xmpp.org/extensions/xep-0199.html#c2s server to client ping\nAdded IF to handle incoming PING requests in processInboundData",
+    "closed_at": "2012-09-17T05:40:23Z",
+    "comment_data": [],
+    "comments_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/66/comments",
+    "commit_data": [
+        {
+            "author": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/2151026?v=3",
+                "events_url": "https://api.github.com/users/arthursc/events{/privacy}",
+                "followers_url": "https://api.github.com/users/arthursc/followers",
+                "following_url": "https://api.github.com/users/arthursc/following{/other_user}",
+                "gists_url": "https://api.github.com/users/arthursc/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/arthursc",
+                "id": 2151026,
+                "login": "arthursc",
+                "organizations_url": "https://api.github.com/users/arthursc/orgs",
+                "received_events_url": "https://api.github.com/users/arthursc/received_events",
+                "repos_url": "https://api.github.com/users/arthursc/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/arthursc/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/arthursc/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/arthursc"
+            },
+            "comments_url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/537f4aed20318392845881a31f27e30c03e75873/comments",
+            "commit": {
+                "author": {
+                    "date": "2012-09-16T18:20:35Z",
+                    "email": "mail@arthurschaap.nl",
+                    "name": "arthursc"
+                },
+                "comment_count": 0,
+                "committer": {
+                    "date": "2012-09-16T18:20:35Z",
+                    "email": "mail@arthurschaap.nl",
+                    "name": "arthursc"
+                },
+                "message": "Update src/php/whatsprot.class.php\n\nAdded Pong function (to respond on Whatsapp's PING request): http://xmpp.org/extensions/xep-0199.html#c2s server to client ping\r\nAdded if statement to handle incoming PING requests in processInboundData",
+                "tree": {
+                    "sha": "be982583ab4b2282733cb9470da8987c7cd2fc28",
+                    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/git/trees/be982583ab4b2282733cb9470da8987c7cd2fc28"
+                },
+                "url": "https://api.github.com/repos/venomous0x/WhatsAPI/git/commits/537f4aed20318392845881a31f27e30c03e75873"
+            },
+            "committer": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/2151026?v=3",
+                "events_url": "https://api.github.com/users/arthursc/events{/privacy}",
+                "followers_url": "https://api.github.com/users/arthursc/followers",
+                "following_url": "https://api.github.com/users/arthursc/following{/other_user}",
+                "gists_url": "https://api.github.com/users/arthursc/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/arthursc",
+                "id": 2151026,
+                "login": "arthursc",
+                "organizations_url": "https://api.github.com/users/arthursc/orgs",
+                "received_events_url": "https://api.github.com/users/arthursc/received_events",
+                "repos_url": "https://api.github.com/users/arthursc/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/arthursc/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/arthursc/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/arthursc"
+            },
+            "html_url": "https://github.com/venomous0x/WhatsAPI/commit/537f4aed20318392845881a31f27e30c03e75873",
+            "parents": [
+                {
+                    "html_url": "https://github.com/venomous0x/WhatsAPI/commit/087cd743737a36f1c94df6497b5a1e0acf12c3a4",
+                    "sha": "087cd743737a36f1c94df6497b5a1e0acf12c3a4",
+                    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/087cd743737a36f1c94df6497b5a1e0acf12c3a4"
+                }
+            ],
+            "sha": "537f4aed20318392845881a31f27e30c03e75873",
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/537f4aed20318392845881a31f27e30c03e75873"
+        },
+        {
+            "author": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/2151026?v=3",
+                "events_url": "https://api.github.com/users/arthursc/events{/privacy}",
+                "followers_url": "https://api.github.com/users/arthursc/followers",
+                "following_url": "https://api.github.com/users/arthursc/following{/other_user}",
+                "gists_url": "https://api.github.com/users/arthursc/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/arthursc",
+                "id": 2151026,
+                "login": "arthursc",
+                "organizations_url": "https://api.github.com/users/arthursc/orgs",
+                "received_events_url": "https://api.github.com/users/arthursc/received_events",
+                "repos_url": "https://api.github.com/users/arthursc/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/arthursc/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/arthursc/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/arthursc"
+            },
+            "comments_url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/35de006daf9f29de56ed72daf1384f936544b717/comments",
+            "commit": {
+                "author": {
+                    "date": "2012-09-16T18:21:07Z",
+                    "email": "mail@arthurschaap.nl",
+                    "name": "arthursc"
+                },
+                "comment_count": 0,
+                "committer": {
+                    "date": "2012-09-16T18:21:07Z",
+                    "email": "mail@arthurschaap.nl",
+                    "name": "arthursc"
+                },
+                "message": "Update src/php/whatsprot.class.php",
+                "tree": {
+                    "sha": "f6d51bcbf1d399b8db633c199868e914d6ca8514",
+                    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/git/trees/f6d51bcbf1d399b8db633c199868e914d6ca8514"
+                },
+                "url": "https://api.github.com/repos/venomous0x/WhatsAPI/git/commits/35de006daf9f29de56ed72daf1384f936544b717"
+            },
+            "committer": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/2151026?v=3",
+                "events_url": "https://api.github.com/users/arthursc/events{/privacy}",
+                "followers_url": "https://api.github.com/users/arthursc/followers",
+                "following_url": "https://api.github.com/users/arthursc/following{/other_user}",
+                "gists_url": "https://api.github.com/users/arthursc/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/arthursc",
+                "id": 2151026,
+                "login": "arthursc",
+                "organizations_url": "https://api.github.com/users/arthursc/orgs",
+                "received_events_url": "https://api.github.com/users/arthursc/received_events",
+                "repos_url": "https://api.github.com/users/arthursc/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/arthursc/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/arthursc/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/arthursc"
+            },
+            "html_url": "https://github.com/venomous0x/WhatsAPI/commit/35de006daf9f29de56ed72daf1384f936544b717",
+            "parents": [
+                {
+                    "html_url": "https://github.com/venomous0x/WhatsAPI/commit/537f4aed20318392845881a31f27e30c03e75873",
+                    "sha": "537f4aed20318392845881a31f27e30c03e75873",
+                    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/537f4aed20318392845881a31f27e30c03e75873"
+                }
+            ],
+            "sha": "35de006daf9f29de56ed72daf1384f936544b717",
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/35de006daf9f29de56ed72daf1384f936544b717"
+        }
+    ],
+    "commits_url": "https://api.github.com/repos/venomous0x/WhatsAPI/pulls/66/commits",
+    "created_at": "2012-09-16T18:33:22Z",
+    "diff_url": "https://github.com/venomous0x/WhatsAPI/pull/66.diff",
+    "head": {
+        "label": "arthursc:master",
+        "ref": "master",
+        "repo": null,
+        "sha": "35de006daf9f29de56ed72daf1384f936544b717",
+        "user": {
+            "avatar_url": "https://avatars.githubusercontent.com/u/2151026?v=3",
+            "events_url": "https://api.github.com/users/arthursc/events{/privacy}",
+            "followers_url": "https://api.github.com/users/arthursc/followers",
+            "following_url": "https://api.github.com/users/arthursc/following{/other_user}",
+            "gists_url": "https://api.github.com/users/arthursc/gists{/gist_id}",
+            "gravatar_id": "",
+            "html_url": "https://github.com/arthursc",
+            "id": 2151026,
+            "login": "arthursc",
+            "organizations_url": "https://api.github.com/users/arthursc/orgs",
+            "received_events_url": "https://api.github.com/users/arthursc/received_events",
+            "repos_url": "https://api.github.com/users/arthursc/repos",
+            "site_admin": false,
+            "starred_url": "https://api.github.com/users/arthursc/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/arthursc/subscriptions",
+            "type": "User",
+            "url": "https://api.github.com/users/arthursc"
+        }
+    },
+    "html_url": "https://github.com/venomous0x/WhatsAPI/pull/66",
+    "id": 2355269,
+    "issue_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/66",
+    "locked": false,
+    "merge_commit_sha": "29a1027804d0e17a493e2abf5968760b143f58f1",
+    "merged_at": "2012-09-17T05:40:23Z",
+    "milestone": null,
+    "number": 66,
+    "patch_url": "https://github.com/venomous0x/WhatsAPI/pull/66.patch",
+    "review_comment_url": "https://api.github.com/repos/venomous0x/WhatsAPI/pulls/comments{/number}",
+    "review_comments_url": "https://api.github.com/repos/venomous0x/WhatsAPI/pulls/66/comments",
+    "state": "closed",
+    "statuses_url": "https://api.github.com/repos/venomous0x/WhatsAPI/statuses/35de006daf9f29de56ed72daf1384f936544b717",
+    "title": "Added ping response to keep the connection open",
+    "updated_at": "2014-06-18T10:39:55Z",
+    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/pulls/66",
+    "user": {
+        "avatar_url": "https://avatars.githubusercontent.com/u/2151026?v=3",
+        "events_url": "https://api.github.com/users/arthursc/events{/privacy}",
+        "followers_url": "https://api.github.com/users/arthursc/followers",
+        "following_url": "https://api.github.com/users/arthursc/following{/other_user}",
+        "gists_url": "https://api.github.com/users/arthursc/gists{/gist_id}",
+        "gravatar_id": "",
+        "html_url": "https://github.com/arthursc",
+        "id": 2151026,
+        "login": "arthursc",
+        "organizations_url": "https://api.github.com/users/arthursc/orgs",
+        "received_events_url": "https://api.github.com/users/arthursc/received_events",
+        "repos_url": "https://api.github.com/users/arthursc/repos",
+        "site_admin": false,
+        "starred_url": "https://api.github.com/users/arthursc/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/arthursc/subscriptions",
+        "type": "User",
+        "url": "https://api.github.com/users/arthursc"
+    }
+}

@@ -1,0 +1,163 @@
+{
+    "assignee": null,
+    "body": "Hey,\r\nI tried different methods, but I was never able to send a message from a webserver (I open a .php file and the file sends the message), so, is this possible with the WhatsAPI?\r\n\r\nGreets from Germany \r\nghac",
+    "closed_at": null,
+    "comment_data": [
+        {
+            "body": "To do that, is WHATSAPI. ._.\r\n",
+            "created_at": "2014-03-23T18:54:21Z",
+            "html_url": "https://github.com/venomous0x/WhatsAPI/issues/639#issuecomment-38392812",
+            "id": 38392812,
+            "issue_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/639",
+            "updated_at": "2014-03-23T18:54:21Z",
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/comments/38392812",
+            "user": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/6652374?v=3",
+                "events_url": "https://api.github.com/users/sbalgas/events{/privacy}",
+                "followers_url": "https://api.github.com/users/sbalgas/followers",
+                "following_url": "https://api.github.com/users/sbalgas/following{/other_user}",
+                "gists_url": "https://api.github.com/users/sbalgas/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/sbalgas",
+                "id": 6652374,
+                "login": "sbalgas",
+                "organizations_url": "https://api.github.com/users/sbalgas/orgs",
+                "received_events_url": "https://api.github.com/users/sbalgas/received_events",
+                "repos_url": "https://api.github.com/users/sbalgas/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/sbalgas/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/sbalgas/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/sbalgas"
+            }
+        },
+        {
+            "body": "Guck dir die mitgelieferten Beispiele mal an, genau das kannst du mit WhatsAPI nämlich.",
+            "created_at": "2014-03-23T19:21:32Z",
+            "html_url": "https://github.com/venomous0x/WhatsAPI/issues/639#issuecomment-38393939",
+            "id": 38393939,
+            "issue_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/639",
+            "updated_at": "2014-03-23T19:21:32Z",
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/comments/38393939",
+            "user": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/604766?v=3",
+                "events_url": "https://api.github.com/users/DurtyFree/events{/privacy}",
+                "followers_url": "https://api.github.com/users/DurtyFree/followers",
+                "following_url": "https://api.github.com/users/DurtyFree/following{/other_user}",
+                "gists_url": "https://api.github.com/users/DurtyFree/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/DurtyFree",
+                "id": 604766,
+                "login": "DurtyFree",
+                "organizations_url": "https://api.github.com/users/DurtyFree/orgs",
+                "received_events_url": "https://api.github.com/users/DurtyFree/received_events",
+                "repos_url": "https://api.github.com/users/DurtyFree/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/DurtyFree/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/DurtyFree/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/DurtyFree"
+            }
+        },
+        {
+            "body": "Yes. Take a look at exampleFunctional.php",
+            "created_at": "2014-03-23T23:04:29Z",
+            "html_url": "https://github.com/venomous0x/WhatsAPI/issues/639#issuecomment-38400986",
+            "id": 38400986,
+            "issue_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/639",
+            "updated_at": "2014-03-23T23:04:29Z",
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/comments/38400986",
+            "user": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1610953?v=3",
+                "events_url": "https://api.github.com/users/shirioko/events{/privacy}",
+                "followers_url": "https://api.github.com/users/shirioko/followers",
+                "following_url": "https://api.github.com/users/shirioko/following{/other_user}",
+                "gists_url": "https://api.github.com/users/shirioko/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/shirioko",
+                "id": 1610953,
+                "login": "shirioko",
+                "organizations_url": "https://api.github.com/users/shirioko/orgs",
+                "received_events_url": "https://api.github.com/users/shirioko/received_events",
+                "repos_url": "https://api.github.com/users/shirioko/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/shirioko/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/shirioko/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/shirioko"
+            }
+        }
+    ],
+    "comments": 3,
+    "comments_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/639/comments",
+    "created_at": "2014-03-22T19:43:42Z",
+    "event_data": [
+        {
+            "actor": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1610953?v=3",
+                "events_url": "https://api.github.com/users/shirioko/events{/privacy}",
+                "followers_url": "https://api.github.com/users/shirioko/followers",
+                "following_url": "https://api.github.com/users/shirioko/following{/other_user}",
+                "gists_url": "https://api.github.com/users/shirioko/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/shirioko",
+                "id": 1610953,
+                "login": "shirioko",
+                "organizations_url": "https://api.github.com/users/shirioko/orgs",
+                "received_events_url": "https://api.github.com/users/shirioko/received_events",
+                "repos_url": "https://api.github.com/users/shirioko/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/shirioko/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/shirioko/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/shirioko"
+            },
+            "commit_id": null,
+            "created_at": "2014-03-28T11:02:32Z",
+            "event": "labeled",
+            "id": 106418317,
+            "label": {
+                "color": "cc317c",
+                "name": "question"
+            },
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/events/106418317"
+        }
+    ],
+    "events_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/639/events",
+    "html_url": "https://github.com/venomous0x/WhatsAPI/issues/639",
+    "id": 29971011,
+    "labels": [
+        {
+            "color": "cc317c",
+            "name": "question",
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/labels/question"
+        }
+    ],
+    "labels_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/639/labels{/name}",
+    "locked": false,
+    "milestone": null,
+    "number": 639,
+    "state": "open",
+    "title": "Send message with PHP",
+    "updated_at": "2014-03-28T11:02:32Z",
+    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/639",
+    "user": {
+        "avatar_url": "https://avatars.githubusercontent.com/u/5084100?v=3",
+        "events_url": "https://api.github.com/users/ghacproductions/events{/privacy}",
+        "followers_url": "https://api.github.com/users/ghacproductions/followers",
+        "following_url": "https://api.github.com/users/ghacproductions/following{/other_user}",
+        "gists_url": "https://api.github.com/users/ghacproductions/gists{/gist_id}",
+        "gravatar_id": "",
+        "html_url": "https://github.com/ghacproductions",
+        "id": 5084100,
+        "login": "ghacproductions",
+        "organizations_url": "https://api.github.com/users/ghacproductions/orgs",
+        "received_events_url": "https://api.github.com/users/ghacproductions/received_events",
+        "repos_url": "https://api.github.com/users/ghacproductions/repos",
+        "site_admin": false,
+        "starred_url": "https://api.github.com/users/ghacproductions/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/ghacproductions/subscriptions",
+        "type": "User",
+        "url": "https://api.github.com/users/ghacproductions"
+    }
+}

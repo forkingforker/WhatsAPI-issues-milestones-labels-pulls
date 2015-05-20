@@ -1,0 +1,163 @@
+{
+    "assignee": null,
+    "body": "Hey guys, whatsapp :)\r\nFirst of all, my task is to login sometimes from my number, send some statistic to existent numbers and sometimes add new numbers (its not many messages, im sure its greater than 17 messages)\r\nI'm little bit confused about using sync, because thats no info when to use a certain type of sync.\r\nI know that there is 3 types of sync:\r\n\r\n    mode=\"full\"&context=\"registration\": runs after registration -- I guess its automatic?\r\n    mode=\"full\"&context=\"background\": scheduled nightly sync -- what does it mean, when should I do it?\r\n    mode=\"delta\"&context=\"background\": triggered by adding a contact with phone number to the phone -- I have to sync all my contact book when im adding new contact?\r\n\r\nThe question is how to make it work properly.\r\nIt'd nice to see scheme like:\r\nLogin -> sync contacts (which type of sync? should I keep my contact book the same every time I login or its not critical?) -> Send Presence Suscription and so on...\r\n\r\nAnd when I want to add contact to send him messsages should I:\r\n1) Login\r\n2) Sync mode full, context background\r\n3) Sync mode delta context background (same as 2, but plus my new contact or in another way?)\r\n\r\nThanks for your answers.\r\n",
+    "closed_at": null,
+    "comment_data": [
+        {
+            "body": "Maybe ill answer this, i understood the procedure and why/how its works.",
+            "created_at": "2014-08-08T20:30:48Z",
+            "html_url": "https://github.com/venomous0x/WhatsAPI/issues/869#issuecomment-51653562",
+            "id": 51653562,
+            "issue_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/869",
+            "updated_at": "2014-08-08T20:30:48Z",
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/comments/51653562",
+            "user": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/5390120?v=3",
+                "events_url": "https://api.github.com/users/mgp25/events{/privacy}",
+                "followers_url": "https://api.github.com/users/mgp25/followers",
+                "following_url": "https://api.github.com/users/mgp25/following{/other_user}",
+                "gists_url": "https://api.github.com/users/mgp25/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/mgp25",
+                "id": 5390120,
+                "login": "mgp25",
+                "organizations_url": "https://api.github.com/users/mgp25/orgs",
+                "received_events_url": "https://api.github.com/users/mgp25/received_events",
+                "repos_url": "https://api.github.com/users/mgp25/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/mgp25/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/mgp25/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/mgp25"
+            }
+        },
+        {
+            "body": "mgp25, It'd be awesome.\r\nYou can mail me personally as well.",
+            "created_at": "2014-08-08T20:41:03Z",
+            "html_url": "https://github.com/venomous0x/WhatsAPI/issues/869#issuecomment-51654697",
+            "id": 51654697,
+            "issue_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/869",
+            "updated_at": "2014-08-08T20:41:03Z",
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/comments/51654697",
+            "user": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/8258294?v=3",
+                "events_url": "https://api.github.com/users/CashCode/events{/privacy}",
+                "followers_url": "https://api.github.com/users/CashCode/followers",
+                "following_url": "https://api.github.com/users/CashCode/following{/other_user}",
+                "gists_url": "https://api.github.com/users/CashCode/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/CashCode",
+                "id": 8258294,
+                "login": "CashCode",
+                "organizations_url": "https://api.github.com/users/CashCode/orgs",
+                "received_events_url": "https://api.github.com/users/CashCode/received_events",
+                "repos_url": "https://api.github.com/users/CashCode/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/CashCode/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/CashCode/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/CashCode"
+            }
+        },
+        {
+            "body": "U WOT M8",
+            "created_at": "2014-08-08T20:41:07Z",
+            "html_url": "https://github.com/venomous0x/WhatsAPI/issues/869#issuecomment-51654703",
+            "id": 51654703,
+            "issue_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/869",
+            "updated_at": "2014-08-08T20:41:07Z",
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/comments/51654703",
+            "user": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1610953?v=3",
+                "events_url": "https://api.github.com/users/shirioko/events{/privacy}",
+                "followers_url": "https://api.github.com/users/shirioko/followers",
+                "following_url": "https://api.github.com/users/shirioko/following{/other_user}",
+                "gists_url": "https://api.github.com/users/shirioko/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/shirioko",
+                "id": 1610953,
+                "login": "shirioko",
+                "organizations_url": "https://api.github.com/users/shirioko/orgs",
+                "received_events_url": "https://api.github.com/users/shirioko/received_events",
+                "repos_url": "https://api.github.com/users/shirioko/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/shirioko/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/shirioko/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/shirioko"
+            }
+        }
+    ],
+    "comments": 3,
+    "comments_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/869/comments",
+    "created_at": "2014-08-08T13:56:27Z",
+    "event_data": [
+        {
+            "actor": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1610953?v=3",
+                "events_url": "https://api.github.com/users/shirioko/events{/privacy}",
+                "followers_url": "https://api.github.com/users/shirioko/followers",
+                "following_url": "https://api.github.com/users/shirioko/following{/other_user}",
+                "gists_url": "https://api.github.com/users/shirioko/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/shirioko",
+                "id": 1610953,
+                "login": "shirioko",
+                "organizations_url": "https://api.github.com/users/shirioko/orgs",
+                "received_events_url": "https://api.github.com/users/shirioko/received_events",
+                "repos_url": "https://api.github.com/users/shirioko/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/shirioko/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/shirioko/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/shirioko"
+            },
+            "commit_id": null,
+            "created_at": "2014-08-08T13:59:10Z",
+            "event": "labeled",
+            "id": 150751975,
+            "label": {
+                "color": "cc317c",
+                "name": "question"
+            },
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/events/150751975"
+        }
+    ],
+    "events_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/869/events",
+    "html_url": "https://github.com/venomous0x/WhatsAPI/issues/869",
+    "id": 39825221,
+    "labels": [
+        {
+            "color": "cc317c",
+            "name": "question",
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/labels/question"
+        }
+    ],
+    "labels_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/869/labels{/name}",
+    "locked": false,
+    "milestone": null,
+    "number": 869,
+    "state": "open",
+    "title": "SendSync types",
+    "updated_at": "2014-08-08T20:41:07Z",
+    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/869",
+    "user": {
+        "avatar_url": "https://avatars.githubusercontent.com/u/8258294?v=3",
+        "events_url": "https://api.github.com/users/CashCode/events{/privacy}",
+        "followers_url": "https://api.github.com/users/CashCode/followers",
+        "following_url": "https://api.github.com/users/CashCode/following{/other_user}",
+        "gists_url": "https://api.github.com/users/CashCode/gists{/gist_id}",
+        "gravatar_id": "",
+        "html_url": "https://github.com/CashCode",
+        "id": 8258294,
+        "login": "CashCode",
+        "organizations_url": "https://api.github.com/users/CashCode/orgs",
+        "received_events_url": "https://api.github.com/users/CashCode/received_events",
+        "repos_url": "https://api.github.com/users/CashCode/repos",
+        "site_admin": false,
+        "starred_url": "https://api.github.com/users/CashCode/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/CashCode/subscriptions",
+        "type": "User",
+        "url": "https://api.github.com/users/CashCode"
+    }
+}

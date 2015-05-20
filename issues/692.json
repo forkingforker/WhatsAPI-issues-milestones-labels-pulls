@@ -1,0 +1,142 @@
+{
+    "assignee": null,
+    "body": "hey guys \r\nyesterday sendSync working for me \r\ntoday i don't know what happen this is the debug xml\r\nany idea ??\r\n \r\n\r\ntx  <stream:features></stream:features>\r\n\r\ntx  <auth xmlns=\"urn:ietf:params:xml:ns:xmpp-sasl\" mechanism=\"WAUTH-2\" user=\"17193598780\">ë¤/\\17193598780j€ \u001aÒ†UA v<,‡\u0016¯zƒÚoã1397917848WhatsApp/2.11.209 Android/4.3 Device/GalaxyS3 MccMnc/310001</auth>\r\n\r\nrx  <start from=\"s.whatsapp.net\"></start>\r\n\r\nrx  <stream:features></stream:features>\r\n\r\nrx  <challenge>\u0014«î/R¿^üuÊ6mÄ,˜n\u0004/j</challenge>\r\n\r\ntx  <response xmlns=\"urn:ietf:params:xml:ns:xmpp-sasl\">GSõ»\u0003š\u0005‘p\"½AOVüW¾îØ\u0012\u0019GÜÏHƒ2mÞ‚ä</response>\r\n\r\nrx  <success t=\"1397917850\" kind=\"free\" status=\"active\" creation=\"1394994983\" expiration=\"1426530983\">²ÅÌF\u0001\"ã’Ò#Ò`l\fyPÙÿú</success>\r\n\r\nrx  <ib from=\"s.whatsapp.net\">\r\nrx    <offline count=\"0\"></offline>\r\nrx  </ib>\r\n\r\ntx  <presence name=\"WhatsApp\"></presence>\r\n\r\ntx  <iq to=\"17193598780@s.whatsapp.net\" type=\"get\" id=\"sendsync_-1397917855-1\" xmlns=\"urn:xmpp:whatsapp:sync\">\r\ntx    <sync mode=\"full\" context=\"registration\" sid=\"1.3042395055E+17\" index=\"0\" last=\"true\">\r\ntx      <user>+2011455******</user>\r\ntx      <user>+2011121******</user>\r\ntx    </sync>\r\ntx  </iq>\r\n\r\nrx  <presence from=\"17193598780@s.whatsapp.net\"></presence>\r\n\r\nrx  <iq from=\"17193598780@s.whatsapp.net\" id=\"sendsync_-1397917855-1\" type=\"error\">\r\nrx    <error code=\"501\" text=\"feature-not-implemented\" backoff=\"3600\"></error>\r\nrx  </iq>\r\n\r\nrx  <stream:error>\r\nrx    <conflict></conflict>\r\nrx    <text>Replaced by new connection</text>\r\nrx  </stream:error>\r\n",
+    "closed_at": null,
+    "comment_data": [
+        {
+            "body": "Replaced by new connection means that you're using your WhatsApp account in two places at the same time",
+            "created_at": "2014-04-28T08:19:36Z",
+            "html_url": "https://github.com/venomous0x/WhatsAPI/issues/692#issuecomment-41533461",
+            "id": 41533461,
+            "issue_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/692",
+            "updated_at": "2014-04-28T08:19:36Z",
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/comments/41533461",
+            "user": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1610953?v=3",
+                "events_url": "https://api.github.com/users/shirioko/events{/privacy}",
+                "followers_url": "https://api.github.com/users/shirioko/followers",
+                "following_url": "https://api.github.com/users/shirioko/following{/other_user}",
+                "gists_url": "https://api.github.com/users/shirioko/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/shirioko",
+                "id": 1610953,
+                "login": "shirioko",
+                "organizations_url": "https://api.github.com/users/shirioko/orgs",
+                "received_events_url": "https://api.github.com/users/shirioko/received_events",
+                "repos_url": "https://api.github.com/users/shirioko/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/shirioko/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/shirioko/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/shirioko"
+            }
+        }
+    ],
+    "comments": 1,
+    "comments_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/692/comments",
+    "created_at": "2014-04-19T14:36:22Z",
+    "event_data": [
+        {
+            "actor": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1610953?v=3",
+                "events_url": "https://api.github.com/users/shirioko/events{/privacy}",
+                "followers_url": "https://api.github.com/users/shirioko/followers",
+                "following_url": "https://api.github.com/users/shirioko/following{/other_user}",
+                "gists_url": "https://api.github.com/users/shirioko/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/shirioko",
+                "id": 1610953,
+                "login": "shirioko",
+                "organizations_url": "https://api.github.com/users/shirioko/orgs",
+                "received_events_url": "https://api.github.com/users/shirioko/received_events",
+                "repos_url": "https://api.github.com/users/shirioko/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/shirioko/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/shirioko/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/shirioko"
+            },
+            "commit_id": null,
+            "created_at": "2014-04-28T08:19:39Z",
+            "event": "labeled",
+            "id": 115602320,
+            "label": {
+                "color": "cc317c",
+                "name": "question"
+            },
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/events/115602320"
+        },
+        {
+            "actor": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1610953?v=3",
+                "events_url": "https://api.github.com/users/shirioko/events{/privacy}",
+                "followers_url": "https://api.github.com/users/shirioko/followers",
+                "following_url": "https://api.github.com/users/shirioko/following{/other_user}",
+                "gists_url": "https://api.github.com/users/shirioko/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/shirioko",
+                "id": 1610953,
+                "login": "shirioko",
+                "organizations_url": "https://api.github.com/users/shirioko/orgs",
+                "received_events_url": "https://api.github.com/users/shirioko/received_events",
+                "repos_url": "https://api.github.com/users/shirioko/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/shirioko/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/shirioko/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/shirioko"
+            },
+            "commit_id": null,
+            "created_at": "2014-04-28T08:19:41Z",
+            "event": "labeled",
+            "id": 115602322,
+            "label": {
+                "color": "ffffff",
+                "name": "wontfix"
+            },
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/events/115602322"
+        }
+    ],
+    "events_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/692/events",
+    "html_url": "https://github.com/venomous0x/WhatsAPI/issues/692",
+    "id": 31847771,
+    "labels": [
+        {
+            "color": "cc317c",
+            "name": "question",
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/labels/question"
+        },
+        {
+            "color": "ffffff",
+            "name": "wontfix",
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/labels/wontfix"
+        }
+    ],
+    "labels_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/692/labels{/name}",
+    "locked": false,
+    "milestone": null,
+    "number": 692,
+    "state": "open",
+    "title": "sendSync not work for me",
+    "updated_at": "2014-04-28T08:19:41Z",
+    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/692",
+    "user": {
+        "avatar_url": "https://avatars.githubusercontent.com/u/6398027?v=3",
+        "events_url": "https://api.github.com/users/ebrahimelsawy/events{/privacy}",
+        "followers_url": "https://api.github.com/users/ebrahimelsawy/followers",
+        "following_url": "https://api.github.com/users/ebrahimelsawy/following{/other_user}",
+        "gists_url": "https://api.github.com/users/ebrahimelsawy/gists{/gist_id}",
+        "gravatar_id": "",
+        "html_url": "https://github.com/ebrahimelsawy",
+        "id": 6398027,
+        "login": "ebrahimelsawy",
+        "organizations_url": "https://api.github.com/users/ebrahimelsawy/orgs",
+        "received_events_url": "https://api.github.com/users/ebrahimelsawy/received_events",
+        "repos_url": "https://api.github.com/users/ebrahimelsawy/repos",
+        "site_admin": false,
+        "starred_url": "https://api.github.com/users/ebrahimelsawy/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/ebrahimelsawy/subscriptions",
+        "type": "User",
+        "url": "https://api.github.com/users/ebrahimelsawy"
+    }
+}

@@ -1,0 +1,170 @@
+{
+    "assignee": null,
+    "body": "Is it possible to download profile images for 5000 telephone numbers with sendGetProfilePicture and not get banned?",
+    "closed_at": null,
+    "comment_data": [
+        {
+            "body": "Only one way to find out",
+            "created_at": "2014-11-04T20:41:48Z",
+            "html_url": "https://github.com/venomous0x/WhatsAPI/issues/1022#issuecomment-61710725",
+            "id": 61710725,
+            "issue_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/1022",
+            "updated_at": "2014-11-04T20:41:48Z",
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/comments/61710725",
+            "user": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1610953?v=3",
+                "events_url": "https://api.github.com/users/shirioko/events{/privacy}",
+                "followers_url": "https://api.github.com/users/shirioko/followers",
+                "following_url": "https://api.github.com/users/shirioko/following{/other_user}",
+                "gists_url": "https://api.github.com/users/shirioko/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/shirioko",
+                "id": 1610953,
+                "login": "shirioko",
+                "organizations_url": "https://api.github.com/users/shirioko/orgs",
+                "received_events_url": "https://api.github.com/users/shirioko/received_events",
+                "repos_url": "https://api.github.com/users/shirioko/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/shirioko/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/shirioko/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/shirioko"
+            }
+        },
+        {
+            "body": "tests have over 25,000 numbers without blocking problems \r\nregards",
+            "created_at": "2014-11-05T09:27:41Z",
+            "html_url": "https://github.com/venomous0x/WhatsAPI/issues/1022#issuecomment-61780424",
+            "id": 61780424,
+            "issue_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/1022",
+            "updated_at": "2014-11-05T09:27:41Z",
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/comments/61780424",
+            "user": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/546949?v=3",
+                "events_url": "https://api.github.com/users/domingopa/events{/privacy}",
+                "followers_url": "https://api.github.com/users/domingopa/followers",
+                "following_url": "https://api.github.com/users/domingopa/following{/other_user}",
+                "gists_url": "https://api.github.com/users/domingopa/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/domingopa",
+                "id": 546949,
+                "login": "domingopa",
+                "organizations_url": "https://api.github.com/users/domingopa/orgs",
+                "received_events_url": "https://api.github.com/users/domingopa/received_events",
+                "repos_url": "https://api.github.com/users/domingopa/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/domingopa/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/domingopa/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/domingopa"
+            }
+        }
+    ],
+    "comments": 2,
+    "comments_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/1022/comments",
+    "created_at": "2014-11-01T17:29:16Z",
+    "event_data": [
+        {
+            "actor": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1610953?v=3",
+                "events_url": "https://api.github.com/users/shirioko/events{/privacy}",
+                "followers_url": "https://api.github.com/users/shirioko/followers",
+                "following_url": "https://api.github.com/users/shirioko/following{/other_user}",
+                "gists_url": "https://api.github.com/users/shirioko/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/shirioko",
+                "id": 1610953,
+                "login": "shirioko",
+                "organizations_url": "https://api.github.com/users/shirioko/orgs",
+                "received_events_url": "https://api.github.com/users/shirioko/received_events",
+                "repos_url": "https://api.github.com/users/shirioko/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/shirioko/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/shirioko/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/shirioko"
+            },
+            "commit_id": null,
+            "created_at": "2014-11-04T20:41:51Z",
+            "event": "labeled",
+            "id": 188286899,
+            "label": {
+                "color": "cc317c",
+                "name": "question"
+            },
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/events/188286899"
+        },
+        {
+            "actor": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1610953?v=3",
+                "events_url": "https://api.github.com/users/shirioko/events{/privacy}",
+                "followers_url": "https://api.github.com/users/shirioko/followers",
+                "following_url": "https://api.github.com/users/shirioko/following{/other_user}",
+                "gists_url": "https://api.github.com/users/shirioko/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/shirioko",
+                "id": 1610953,
+                "login": "shirioko",
+                "organizations_url": "https://api.github.com/users/shirioko/orgs",
+                "received_events_url": "https://api.github.com/users/shirioko/received_events",
+                "repos_url": "https://api.github.com/users/shirioko/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/shirioko/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/shirioko/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/shirioko"
+            },
+            "commit_id": null,
+            "created_at": "2014-11-04T20:41:51Z",
+            "event": "labeled",
+            "id": 188286906,
+            "label": {
+                "color": "ffffff",
+                "name": "wontfix"
+            },
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/events/188286906"
+        }
+    ],
+    "events_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/1022/events",
+    "html_url": "https://github.com/venomous0x/WhatsAPI/issues/1022",
+    "id": 47511445,
+    "labels": [
+        {
+            "color": "cc317c",
+            "name": "question",
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/labels/question"
+        },
+        {
+            "color": "ffffff",
+            "name": "wontfix",
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/labels/wontfix"
+        }
+    ],
+    "labels_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/1022/labels{/name}",
+    "locked": false,
+    "milestone": null,
+    "number": 1022,
+    "state": "open",
+    "title": "Getting profile images of 5000 telephone numbers",
+    "updated_at": "2014-11-05T09:27:41Z",
+    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/1022",
+    "user": {
+        "avatar_url": "https://avatars.githubusercontent.com/u/3976726?v=3",
+        "events_url": "https://api.github.com/users/farkhad81/events{/privacy}",
+        "followers_url": "https://api.github.com/users/farkhad81/followers",
+        "following_url": "https://api.github.com/users/farkhad81/following{/other_user}",
+        "gists_url": "https://api.github.com/users/farkhad81/gists{/gist_id}",
+        "gravatar_id": "",
+        "html_url": "https://github.com/farkhad81",
+        "id": 3976726,
+        "login": "farkhad81",
+        "organizations_url": "https://api.github.com/users/farkhad81/orgs",
+        "received_events_url": "https://api.github.com/users/farkhad81/received_events",
+        "repos_url": "https://api.github.com/users/farkhad81/repos",
+        "site_admin": false,
+        "starred_url": "https://api.github.com/users/farkhad81/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/farkhad81/subscriptions",
+        "type": "User",
+        "url": "https://api.github.com/users/farkhad81"
+    }
+}

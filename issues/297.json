@@ -1,0 +1,103 @@
+{
+    "assignee": null,
+    "body": "**Notice: Undefined index: id in E:\\web\\...\\whatsprot.class.php on line 342**\r\n\r\nThe node does not has attribute `$node->_attributeHash['id']`\r\nSee https://github.com/venomous0x/WhatsAPI/blob/master/src/php/whatsprot.class.php#L342\r\n\r\n```\r\nobject(ProtocolNode)#494 (4) {\r\n  [\"_tag\"]=>\r\n  string(7) \"message\"\r\n  [\"_attributeHash\"]=>\r\n  array(3) {\r\n    [\"from\"]=>\r\n    string(26) \"XXXXXXXXX@s.whatsapp.net\"\r\n    [\"type\"]=>\r\n    string(4) \"chat\"\r\n    [\"t\"]=>\r\n    string(10) \"1362627450\"\r\n  }\r\n  [\"_children\"]=>\r\n  array(1) {\r\n    [0]=>\r\n    object(ProtocolNode)#493 (4) {\r\n      [\"_tag\"]=>\r\n      string(9) \"composing\"\r\n      [\"_attributeHash\"]=>\r\n      array(1) {\r\n        [\"xmlns\"]=>\r\n        string(37) \"http://jabber.org/protocol/chatstates\"\r\n      }\r\n      [\"_children\"]=>\r\n      NULL\r\n      [\"_data\"]=>\r\n      string(0) \"\"\r\n    }\r\n  }\r\n  [\"_data\"]=>\r\n  string(0) \"\"\r\n}\r\n```\r\n\r\n**Notice: Undefined index: id in E:\\web\\...\\whatsprot.class.php on line 349**\r\n\r\nThe node does not has attribute `$node->_attributeHash['id']`\r\nsee https://github.com/venomous0x/WhatsAPI/blob/master/src/php/whatsprot.class.php#L349\r\n\r\n```\r\nobject(ProtocolNode)#489 (4) {\r\n  [\"_tag\"]=>\r\n  string(7) \"message\"\r\n  [\"_attributeHash\"]=>\r\n  array(3) {\r\n    [\"from\"]=>\r\n    string(26) \"XXXXXXXXX@s.whatsapp.net\"\r\n    [\"type\"]=>\r\n    string(4) \"chat\"\r\n    [\"t\"]=>\r\n    string(10) \"1362627037\"\r\n  }\r\n  [\"_children\"]=>\r\n  array(1) {\r\n    [0]=>\r\n    object(ProtocolNode)#488 (4) {\r\n      [\"_tag\"]=>\r\n      string(6) \"paused\"\r\n      [\"_attributeHash\"]=>\r\n      array(1) {\r\n        [\"xmlns\"]=>\r\n        string(37) \"http://jabber.org/protocol/chatstates\"\r\n      }\r\n      [\"_children\"]=>\r\n      NULL\r\n      [\"_data\"]=>\r\n      string(0) \"\"\r\n    }\r\n  }\r\n  [\"_data\"]=>\r\n  string(0) \"\"\r\n}\r\n```",
+    "closed_at": "2013-06-18T20:47:49Z",
+    "comment_data": [
+        {
+            "body": "Already merged through my fork :)",
+            "created_at": "2013-06-18T20:47:49Z",
+            "html_url": "https://github.com/venomous0x/WhatsAPI/pull/297#issuecomment-19640886",
+            "id": 19640886,
+            "issue_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/297",
+            "updated_at": "2013-06-18T20:47:49Z",
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/comments/19640886",
+            "user": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1610953?v=3",
+                "events_url": "https://api.github.com/users/shirioko/events{/privacy}",
+                "followers_url": "https://api.github.com/users/shirioko/followers",
+                "following_url": "https://api.github.com/users/shirioko/following{/other_user}",
+                "gists_url": "https://api.github.com/users/shirioko/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/shirioko",
+                "id": 1610953,
+                "login": "shirioko",
+                "organizations_url": "https://api.github.com/users/shirioko/orgs",
+                "received_events_url": "https://api.github.com/users/shirioko/received_events",
+                "repos_url": "https://api.github.com/users/shirioko/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/shirioko/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/shirioko/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/shirioko"
+            }
+        }
+    ],
+    "comments": 1,
+    "comments_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/297/comments",
+    "created_at": "2013-03-07T04:07:52Z",
+    "event_data": [
+        {
+            "actor": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1610953?v=3",
+                "events_url": "https://api.github.com/users/shirioko/events{/privacy}",
+                "followers_url": "https://api.github.com/users/shirioko/followers",
+                "following_url": "https://api.github.com/users/shirioko/following{/other_user}",
+                "gists_url": "https://api.github.com/users/shirioko/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/shirioko",
+                "id": 1610953,
+                "login": "shirioko",
+                "organizations_url": "https://api.github.com/users/shirioko/orgs",
+                "received_events_url": "https://api.github.com/users/shirioko/received_events",
+                "repos_url": "https://api.github.com/users/shirioko/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/shirioko/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/shirioko/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/shirioko"
+            },
+            "commit_id": null,
+            "created_at": "2013-06-18T20:47:49Z",
+            "event": "closed",
+            "id": 53158688,
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/events/53158688"
+        }
+    ],
+    "events_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/297/events",
+    "html_url": "https://github.com/venomous0x/WhatsAPI/pull/297",
+    "id": 11745374,
+    "labels": [],
+    "labels_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/297/labels{/name}",
+    "locked": false,
+    "milestone": null,
+    "number": 297,
+    "pull_request": {
+        "diff_url": "https://github.com/venomous0x/WhatsAPI/pull/297.diff",
+        "html_url": "https://github.com/venomous0x/WhatsAPI/pull/297",
+        "patch_url": "https://github.com/venomous0x/WhatsAPI/pull/297.patch",
+        "url": "https://api.github.com/repos/venomous0x/WhatsAPI/pulls/297"
+    },
+    "state": "closed",
+    "title": "Fix php notice: undefined index id",
+    "updated_at": "2013-06-18T20:47:49Z",
+    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/297",
+    "user": {
+        "avatar_url": "https://avatars.githubusercontent.com/u/2189764?v=3",
+        "events_url": "https://api.github.com/users/atans/events{/privacy}",
+        "followers_url": "https://api.github.com/users/atans/followers",
+        "following_url": "https://api.github.com/users/atans/following{/other_user}",
+        "gists_url": "https://api.github.com/users/atans/gists{/gist_id}",
+        "gravatar_id": "",
+        "html_url": "https://github.com/atans",
+        "id": 2189764,
+        "login": "atans",
+        "organizations_url": "https://api.github.com/users/atans/orgs",
+        "received_events_url": "https://api.github.com/users/atans/received_events",
+        "repos_url": "https://api.github.com/users/atans/repos",
+        "site_admin": false,
+        "starred_url": "https://api.github.com/users/atans/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/atans/subscriptions",
+        "type": "User",
+        "url": "https://api.github.com/users/atans"
+    }
+}

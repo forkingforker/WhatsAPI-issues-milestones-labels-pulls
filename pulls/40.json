@@ -1,0 +1,279 @@
+{
+    "_links": {
+        "comments": {
+            "href": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/40/comments"
+        },
+        "commits": {
+            "href": "https://api.github.com/repos/venomous0x/WhatsAPI/pulls/40/commits"
+        },
+        "html": {
+            "href": "https://github.com/venomous0x/WhatsAPI/pull/40"
+        },
+        "issue": {
+            "href": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/40"
+        },
+        "review_comment": {
+            "href": "https://api.github.com/repos/venomous0x/WhatsAPI/pulls/comments{/number}"
+        },
+        "review_comments": {
+            "href": "https://api.github.com/repos/venomous0x/WhatsAPI/pulls/40/comments"
+        },
+        "self": {
+            "href": "https://api.github.com/repos/venomous0x/WhatsAPI/pulls/40"
+        },
+        "statuses": {
+            "href": "https://api.github.com/repos/venomous0x/WhatsAPI/statuses/75a3ec4cd5bcc2ea4024555d83bbf19f153c4043"
+        }
+    },
+    "assignee": null,
+    "base": {
+        "label": "venomous0x:master",
+        "ref": "master",
+        "repo": {
+            "archive_url": "https://api.github.com/repos/venomous0x/WhatsAPI/{archive_format}{/ref}",
+            "assignees_url": "https://api.github.com/repos/venomous0x/WhatsAPI/assignees{/user}",
+            "blobs_url": "https://api.github.com/repos/venomous0x/WhatsAPI/git/blobs{/sha}",
+            "branches_url": "https://api.github.com/repos/venomous0x/WhatsAPI/branches{/branch}",
+            "clone_url": "https://github.com/venomous0x/WhatsAPI.git",
+            "collaborators_url": "https://api.github.com/repos/venomous0x/WhatsAPI/collaborators{/collaborator}",
+            "comments_url": "https://api.github.com/repos/venomous0x/WhatsAPI/comments{/number}",
+            "commits_url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits{/sha}",
+            "compare_url": "https://api.github.com/repos/venomous0x/WhatsAPI/compare/{base}...{head}",
+            "contents_url": "https://api.github.com/repos/venomous0x/WhatsAPI/contents/{+path}",
+            "contributors_url": "https://api.github.com/repos/venomous0x/WhatsAPI/contributors",
+            "created_at": "2012-05-28T16:29:46Z",
+            "default_branch": "master",
+            "description": "Interface to WhatsApp Messenger",
+            "downloads_url": "https://api.github.com/repos/venomous0x/WhatsAPI/downloads",
+            "events_url": "https://api.github.com/repos/venomous0x/WhatsAPI/events",
+            "fork": false,
+            "forks": 1935,
+            "forks_count": 1935,
+            "forks_url": "https://api.github.com/repos/venomous0x/WhatsAPI/forks",
+            "full_name": "venomous0x/WhatsAPI",
+            "git_commits_url": "https://api.github.com/repos/venomous0x/WhatsAPI/git/commits{/sha}",
+            "git_refs_url": "https://api.github.com/repos/venomous0x/WhatsAPI/git/refs{/sha}",
+            "git_tags_url": "https://api.github.com/repos/venomous0x/WhatsAPI/git/tags{/sha}",
+            "git_url": "git://github.com/venomous0x/WhatsAPI.git",
+            "has_downloads": true,
+            "has_issues": true,
+            "has_pages": false,
+            "has_wiki": true,
+            "homepage": "",
+            "hooks_url": "https://api.github.com/repos/venomous0x/WhatsAPI/hooks",
+            "html_url": "https://github.com/venomous0x/WhatsAPI",
+            "id": 4472401,
+            "issue_comment_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/comments{/number}",
+            "issue_events_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/events{/number}",
+            "issues_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues{/number}",
+            "keys_url": "https://api.github.com/repos/venomous0x/WhatsAPI/keys{/key_id}",
+            "labels_url": "https://api.github.com/repos/venomous0x/WhatsAPI/labels{/name}",
+            "language": null,
+            "languages_url": "https://api.github.com/repos/venomous0x/WhatsAPI/languages",
+            "merges_url": "https://api.github.com/repos/venomous0x/WhatsAPI/merges",
+            "milestones_url": "https://api.github.com/repos/venomous0x/WhatsAPI/milestones{/number}",
+            "mirror_url": null,
+            "name": "WhatsAPI",
+            "notifications_url": "https://api.github.com/repos/venomous0x/WhatsAPI/notifications{?since,all,participating}",
+            "open_issues": 528,
+            "open_issues_count": 528,
+            "owner": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1786115?v=3",
+                "events_url": "https://api.github.com/users/venomous0x/events{/privacy}",
+                "followers_url": "https://api.github.com/users/venomous0x/followers",
+                "following_url": "https://api.github.com/users/venomous0x/following{/other_user}",
+                "gists_url": "https://api.github.com/users/venomous0x/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/venomous0x",
+                "id": 1786115,
+                "login": "venomous0x",
+                "organizations_url": "https://api.github.com/users/venomous0x/orgs",
+                "received_events_url": "https://api.github.com/users/venomous0x/received_events",
+                "repos_url": "https://api.github.com/users/venomous0x/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/venomous0x/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/venomous0x/subscriptions",
+                "type": "Organization",
+                "url": "https://api.github.com/users/venomous0x"
+            },
+            "private": false,
+            "pulls_url": "https://api.github.com/repos/venomous0x/WhatsAPI/pulls{/number}",
+            "pushed_at": "2015-05-03T17:53:48Z",
+            "releases_url": "https://api.github.com/repos/venomous0x/WhatsAPI/releases{/id}",
+            "size": 3191,
+            "ssh_url": "git@github.com:venomous0x/WhatsAPI.git",
+            "stargazers_count": 2481,
+            "stargazers_url": "https://api.github.com/repos/venomous0x/WhatsAPI/stargazers",
+            "statuses_url": "https://api.github.com/repos/venomous0x/WhatsAPI/statuses/{sha}",
+            "subscribers_url": "https://api.github.com/repos/venomous0x/WhatsAPI/subscribers",
+            "subscription_url": "https://api.github.com/repos/venomous0x/WhatsAPI/subscription",
+            "svn_url": "https://github.com/venomous0x/WhatsAPI",
+            "tags_url": "https://api.github.com/repos/venomous0x/WhatsAPI/tags",
+            "teams_url": "https://api.github.com/repos/venomous0x/WhatsAPI/teams",
+            "trees_url": "https://api.github.com/repos/venomous0x/WhatsAPI/git/trees{/sha}",
+            "updated_at": "2015-05-20T22:40:28Z",
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI",
+            "watchers": 2481,
+            "watchers_count": 2481
+        },
+        "sha": "5f3bdbc2fd0e8758ea813882135f4a467a363745",
+        "user": {
+            "avatar_url": "https://avatars.githubusercontent.com/u/1786115?v=3",
+            "events_url": "https://api.github.com/users/venomous0x/events{/privacy}",
+            "followers_url": "https://api.github.com/users/venomous0x/followers",
+            "following_url": "https://api.github.com/users/venomous0x/following{/other_user}",
+            "gists_url": "https://api.github.com/users/venomous0x/gists{/gist_id}",
+            "gravatar_id": "",
+            "html_url": "https://github.com/venomous0x",
+            "id": 1786115,
+            "login": "venomous0x",
+            "organizations_url": "https://api.github.com/users/venomous0x/orgs",
+            "received_events_url": "https://api.github.com/users/venomous0x/received_events",
+            "repos_url": "https://api.github.com/users/venomous0x/repos",
+            "site_admin": false,
+            "starred_url": "https://api.github.com/users/venomous0x/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/venomous0x/subscriptions",
+            "type": "Organization",
+            "url": "https://api.github.com/users/venomous0x"
+        }
+    },
+    "body": "Fixed the login issue. Changed the unknown two bytes after \"WA\" to (0x01,0x01)",
+    "closed_at": "2012-09-12T13:56:03Z",
+    "comment_data": [],
+    "comments_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/40/comments",
+    "commit_data": [
+        {
+            "author": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/392406?v=3",
+                "events_url": "https://api.github.com/users/zstars/events{/privacy}",
+                "followers_url": "https://api.github.com/users/zstars/followers",
+                "following_url": "https://api.github.com/users/zstars/following{/other_user}",
+                "gists_url": "https://api.github.com/users/zstars/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/zstars",
+                "id": 392406,
+                "login": "zstars",
+                "organizations_url": "https://api.github.com/users/zstars/orgs",
+                "received_events_url": "https://api.github.com/users/zstars/received_events",
+                "repos_url": "https://api.github.com/users/zstars/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/zstars/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/zstars/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/zstars"
+            },
+            "comments_url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/75a3ec4cd5bcc2ea4024555d83bbf19f153c4043/comments",
+            "commit": {
+                "author": {
+                    "date": "2012-09-10T16:30:02Z",
+                    "email": "luis.rodriguez@opendeusto.es",
+                    "name": "Luis Rodriguez"
+                },
+                "comment_count": 0,
+                "committer": {
+                    "date": "2012-09-10T16:30:02Z",
+                    "email": "luis.rodriguez@opendeusto.es",
+                    "name": "Luis Rodriguez"
+                },
+                "message": "Fixed login (updated two bytes of the \"WA\" login packet) for both the PHP and python versions.",
+                "tree": {
+                    "sha": "ff655a2bae0e2eaf819893ad622a4f721eb2ee5d",
+                    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/git/trees/ff655a2bae0e2eaf819893ad622a4f721eb2ee5d"
+                },
+                "url": "https://api.github.com/repos/venomous0x/WhatsAPI/git/commits/75a3ec4cd5bcc2ea4024555d83bbf19f153c4043"
+            },
+            "committer": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/392406?v=3",
+                "events_url": "https://api.github.com/users/zstars/events{/privacy}",
+                "followers_url": "https://api.github.com/users/zstars/followers",
+                "following_url": "https://api.github.com/users/zstars/following{/other_user}",
+                "gists_url": "https://api.github.com/users/zstars/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/zstars",
+                "id": 392406,
+                "login": "zstars",
+                "organizations_url": "https://api.github.com/users/zstars/orgs",
+                "received_events_url": "https://api.github.com/users/zstars/received_events",
+                "repos_url": "https://api.github.com/users/zstars/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/zstars/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/zstars/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/zstars"
+            },
+            "html_url": "https://github.com/venomous0x/WhatsAPI/commit/75a3ec4cd5bcc2ea4024555d83bbf19f153c4043",
+            "parents": [
+                {
+                    "html_url": "https://github.com/venomous0x/WhatsAPI/commit/5f3bdbc2fd0e8758ea813882135f4a467a363745",
+                    "sha": "5f3bdbc2fd0e8758ea813882135f4a467a363745",
+                    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/5f3bdbc2fd0e8758ea813882135f4a467a363745"
+                }
+            ],
+            "sha": "75a3ec4cd5bcc2ea4024555d83bbf19f153c4043",
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/75a3ec4cd5bcc2ea4024555d83bbf19f153c4043"
+        }
+    ],
+    "commits_url": "https://api.github.com/repos/venomous0x/WhatsAPI/pulls/40/commits",
+    "created_at": "2012-09-10T16:49:57Z",
+    "diff_url": "https://github.com/venomous0x/WhatsAPI/pull/40.diff",
+    "head": {
+        "label": "zstars:master",
+        "ref": "master",
+        "repo": null,
+        "sha": "75a3ec4cd5bcc2ea4024555d83bbf19f153c4043",
+        "user": {
+            "avatar_url": "https://avatars.githubusercontent.com/u/392406?v=3",
+            "events_url": "https://api.github.com/users/zstars/events{/privacy}",
+            "followers_url": "https://api.github.com/users/zstars/followers",
+            "following_url": "https://api.github.com/users/zstars/following{/other_user}",
+            "gists_url": "https://api.github.com/users/zstars/gists{/gist_id}",
+            "gravatar_id": "",
+            "html_url": "https://github.com/zstars",
+            "id": 392406,
+            "login": "zstars",
+            "organizations_url": "https://api.github.com/users/zstars/orgs",
+            "received_events_url": "https://api.github.com/users/zstars/received_events",
+            "repos_url": "https://api.github.com/users/zstars/repos",
+            "site_admin": false,
+            "starred_url": "https://api.github.com/users/zstars/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/zstars/subscriptions",
+            "type": "User",
+            "url": "https://api.github.com/users/zstars"
+        }
+    },
+    "html_url": "https://github.com/venomous0x/WhatsAPI/pull/40",
+    "id": 2295567,
+    "issue_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/40",
+    "locked": false,
+    "merge_commit_sha": "e6832c664386b6b2989a92ccb8306838d957aa40",
+    "merged_at": null,
+    "milestone": null,
+    "number": 40,
+    "patch_url": "https://github.com/venomous0x/WhatsAPI/pull/40.patch",
+    "review_comment_url": "https://api.github.com/repos/venomous0x/WhatsAPI/pulls/comments{/number}",
+    "review_comments_url": "https://api.github.com/repos/venomous0x/WhatsAPI/pulls/40/comments",
+    "state": "closed",
+    "statuses_url": "https://api.github.com/repos/venomous0x/WhatsAPI/statuses/75a3ec4cd5bcc2ea4024555d83bbf19f153c4043",
+    "title": "Fixed / updated login ",
+    "updated_at": "2014-07-07T02:47:25Z",
+    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/pulls/40",
+    "user": {
+        "avatar_url": "https://avatars.githubusercontent.com/u/392406?v=3",
+        "events_url": "https://api.github.com/users/zstars/events{/privacy}",
+        "followers_url": "https://api.github.com/users/zstars/followers",
+        "following_url": "https://api.github.com/users/zstars/following{/other_user}",
+        "gists_url": "https://api.github.com/users/zstars/gists{/gist_id}",
+        "gravatar_id": "",
+        "html_url": "https://github.com/zstars",
+        "id": 392406,
+        "login": "zstars",
+        "organizations_url": "https://api.github.com/users/zstars/orgs",
+        "received_events_url": "https://api.github.com/users/zstars/received_events",
+        "repos_url": "https://api.github.com/users/zstars/repos",
+        "site_admin": false,
+        "starred_url": "https://api.github.com/users/zstars/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/zstars/subscriptions",
+        "type": "User",
+        "url": "https://api.github.com/users/zstars"
+    }
+}

@@ -1,0 +1,57 @@
+[
+    {
+        "color": "fc2929",
+        "name": "bug",
+        "url": "https://api.github.com/repos/venomous0x/WhatsAPI/labels/bug"
+    },
+    {
+        "color": "cccccc",
+        "name": "duplicate",
+        "url": "https://api.github.com/repos/venomous0x/WhatsAPI/labels/duplicate"
+    },
+    {
+        "color": "84b6eb",
+        "name": "enhancement",
+        "url": "https://api.github.com/repos/venomous0x/WhatsAPI/labels/enhancement"
+    },
+    {
+        "color": "e6e6e6",
+        "name": "invalid",
+        "url": "https://api.github.com/repos/venomous0x/WhatsAPI/labels/invalid"
+    },
+    {
+        "color": "cc317c",
+        "name": "question",
+        "url": "https://api.github.com/repos/venomous0x/WhatsAPI/labels/question"
+    },
+    {
+        "color": "ffffff",
+        "name": "wontfix",
+        "url": "https://api.github.com/repos/venomous0x/WhatsAPI/labels/wontfix"
+    },
+    {
+        "color": "ff44ff",
+        "name": "spam",
+        "url": "https://api.github.com/repos/venomous0x/WhatsAPI/labels/spam"
+    },
+    {
+        "color": "006b75",
+        "name": "User error",
+        "url": "https://api.github.com/repos/venomous0x/WhatsAPI/labels/User%20error"
+    },
+    {
+        "color": "5319e7",
+        "name": "idiot",
+        "url": "https://api.github.com/repos/venomous0x/WhatsAPI/labels/idiot"
+    },
+    {
+        "color": "0052cc",
+        "name": "TODO",
+        "url": "https://api.github.com/repos/venomous0x/WhatsAPI/labels/TODO"
+    },
+    {
+        "color": "fbca04",
+        "name": "I don't even",
+        "url": "https://api.github.com/repos/venomous0x/WhatsAPI/labels/I%20don't%20even"
+    }
+]

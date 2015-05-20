@@ -1,0 +1,104 @@
+{
+    "assignee": null,
+    "body": "when i use \"sendBulk\" from bulk.php, the number has been blocked? is there any way to send bulk message without blocking the number? i need the way not code",
+    "closed_at": "2014-03-30T10:48:09Z",
+    "comment_data": [],
+    "comments": 0,
+    "comments_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/653/comments",
+    "created_at": "2014-03-30T07:59:33Z",
+    "event_data": [
+        {
+            "actor": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1610953?v=3",
+                "events_url": "https://api.github.com/users/shirioko/events{/privacy}",
+                "followers_url": "https://api.github.com/users/shirioko/followers",
+                "following_url": "https://api.github.com/users/shirioko/following{/other_user}",
+                "gists_url": "https://api.github.com/users/shirioko/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/shirioko",
+                "id": 1610953,
+                "login": "shirioko",
+                "organizations_url": "https://api.github.com/users/shirioko/orgs",
+                "received_events_url": "https://api.github.com/users/shirioko/received_events",
+                "repos_url": "https://api.github.com/users/shirioko/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/shirioko/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/shirioko/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/shirioko"
+            },
+            "commit_id": null,
+            "created_at": "2014-03-30T10:48:04Z",
+            "event": "labeled",
+            "id": 106810636,
+            "label": {
+                "color": "ffffff",
+                "name": "wontfix"
+            },
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/events/106810636"
+        },
+        {
+            "actor": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1610953?v=3",
+                "events_url": "https://api.github.com/users/shirioko/events{/privacy}",
+                "followers_url": "https://api.github.com/users/shirioko/followers",
+                "following_url": "https://api.github.com/users/shirioko/following{/other_user}",
+                "gists_url": "https://api.github.com/users/shirioko/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/shirioko",
+                "id": 1610953,
+                "login": "shirioko",
+                "organizations_url": "https://api.github.com/users/shirioko/orgs",
+                "received_events_url": "https://api.github.com/users/shirioko/received_events",
+                "repos_url": "https://api.github.com/users/shirioko/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/shirioko/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/shirioko/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/shirioko"
+            },
+            "commit_id": null,
+            "created_at": "2014-03-30T10:48:09Z",
+            "event": "closed",
+            "id": 106810638,
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/events/106810638"
+        }
+    ],
+    "events_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/653/events",
+    "html_url": "https://github.com/venomous0x/WhatsAPI/issues/653",
+    "id": 30461087,
+    "labels": [
+        {
+            "color": "ffffff",
+            "name": "wontfix",
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/labels/wontfix"
+        }
+    ],
+    "labels_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/653/labels{/name}",
+    "locked": false,
+    "milestone": null,
+    "number": 653,
+    "state": "closed",
+    "title": "when using sendBulk the number has been blocked",
+    "updated_at": "2014-03-30T10:48:09Z",
+    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/653",
+    "user": {
+        "avatar_url": "https://avatars.githubusercontent.com/u/6004654?v=3",
+        "events_url": "https://api.github.com/users/alaanasreng/events{/privacy}",
+        "followers_url": "https://api.github.com/users/alaanasreng/followers",
+        "following_url": "https://api.github.com/users/alaanasreng/following{/other_user}",
+        "gists_url": "https://api.github.com/users/alaanasreng/gists{/gist_id}",
+        "gravatar_id": "",
+        "html_url": "https://github.com/alaanasreng",
+        "id": 6004654,
+        "login": "alaanasreng",
+        "organizations_url": "https://api.github.com/users/alaanasreng/orgs",
+        "received_events_url": "https://api.github.com/users/alaanasreng/received_events",
+        "repos_url": "https://api.github.com/users/alaanasreng/repos",
+        "site_admin": false,
+        "starred_url": "https://api.github.com/users/alaanasreng/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/alaanasreng/subscriptions",
+        "type": "User",
+        "url": "https://api.github.com/users/alaanasreng"
+    }
+}

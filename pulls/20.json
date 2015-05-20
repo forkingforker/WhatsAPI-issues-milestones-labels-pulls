@@ -1,0 +1,2824 @@
+{
+    "_links": {
+        "comments": {
+            "href": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/20/comments"
+        },
+        "commits": {
+            "href": "https://api.github.com/repos/venomous0x/WhatsAPI/pulls/20/commits"
+        },
+        "html": {
+            "href": "https://github.com/venomous0x/WhatsAPI/pull/20"
+        },
+        "issue": {
+            "href": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/20"
+        },
+        "review_comment": {
+            "href": "https://api.github.com/repos/venomous0x/WhatsAPI/pulls/comments{/number}"
+        },
+        "review_comments": {
+            "href": "https://api.github.com/repos/venomous0x/WhatsAPI/pulls/20/comments"
+        },
+        "self": {
+            "href": "https://api.github.com/repos/venomous0x/WhatsAPI/pulls/20"
+        },
+        "statuses": {
+            "href": "https://api.github.com/repos/venomous0x/WhatsAPI/statuses/064ec5556ecbcb2392546e7cc937e36f7c2d4716"
+        }
+    },
+    "assignee": null,
+    "base": {
+        "label": "venomous0x:master",
+        "ref": "master",
+        "repo": {
+            "archive_url": "https://api.github.com/repos/venomous0x/WhatsAPI/{archive_format}{/ref}",
+            "assignees_url": "https://api.github.com/repos/venomous0x/WhatsAPI/assignees{/user}",
+            "blobs_url": "https://api.github.com/repos/venomous0x/WhatsAPI/git/blobs{/sha}",
+            "branches_url": "https://api.github.com/repos/venomous0x/WhatsAPI/branches{/branch}",
+            "clone_url": "https://github.com/venomous0x/WhatsAPI.git",
+            "collaborators_url": "https://api.github.com/repos/venomous0x/WhatsAPI/collaborators{/collaborator}",
+            "comments_url": "https://api.github.com/repos/venomous0x/WhatsAPI/comments{/number}",
+            "commits_url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits{/sha}",
+            "compare_url": "https://api.github.com/repos/venomous0x/WhatsAPI/compare/{base}...{head}",
+            "contents_url": "https://api.github.com/repos/venomous0x/WhatsAPI/contents/{+path}",
+            "contributors_url": "https://api.github.com/repos/venomous0x/WhatsAPI/contributors",
+            "created_at": "2012-05-28T16:29:46Z",
+            "default_branch": "master",
+            "description": "Interface to WhatsApp Messenger",
+            "downloads_url": "https://api.github.com/repos/venomous0x/WhatsAPI/downloads",
+            "events_url": "https://api.github.com/repos/venomous0x/WhatsAPI/events",
+            "fork": false,
+            "forks": 1935,
+            "forks_count": 1935,
+            "forks_url": "https://api.github.com/repos/venomous0x/WhatsAPI/forks",
+            "full_name": "venomous0x/WhatsAPI",
+            "git_commits_url": "https://api.github.com/repos/venomous0x/WhatsAPI/git/commits{/sha}",
+            "git_refs_url": "https://api.github.com/repos/venomous0x/WhatsAPI/git/refs{/sha}",
+            "git_tags_url": "https://api.github.com/repos/venomous0x/WhatsAPI/git/tags{/sha}",
+            "git_url": "git://github.com/venomous0x/WhatsAPI.git",
+            "has_downloads": true,
+            "has_issues": true,
+            "has_pages": false,
+            "has_wiki": true,
+            "homepage": "",
+            "hooks_url": "https://api.github.com/repos/venomous0x/WhatsAPI/hooks",
+            "html_url": "https://github.com/venomous0x/WhatsAPI",
+            "id": 4472401,
+            "issue_comment_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/comments{/number}",
+            "issue_events_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/events{/number}",
+            "issues_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues{/number}",
+            "keys_url": "https://api.github.com/repos/venomous0x/WhatsAPI/keys{/key_id}",
+            "labels_url": "https://api.github.com/repos/venomous0x/WhatsAPI/labels{/name}",
+            "language": null,
+            "languages_url": "https://api.github.com/repos/venomous0x/WhatsAPI/languages",
+            "merges_url": "https://api.github.com/repos/venomous0x/WhatsAPI/merges",
+            "milestones_url": "https://api.github.com/repos/venomous0x/WhatsAPI/milestones{/number}",
+            "mirror_url": null,
+            "name": "WhatsAPI",
+            "notifications_url": "https://api.github.com/repos/venomous0x/WhatsAPI/notifications{?since,all,participating}",
+            "open_issues": 528,
+            "open_issues_count": 528,
+            "owner": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1786115?v=3",
+                "events_url": "https://api.github.com/users/venomous0x/events{/privacy}",
+                "followers_url": "https://api.github.com/users/venomous0x/followers",
+                "following_url": "https://api.github.com/users/venomous0x/following{/other_user}",
+                "gists_url": "https://api.github.com/users/venomous0x/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/venomous0x",
+                "id": 1786115,
+                "login": "venomous0x",
+                "organizations_url": "https://api.github.com/users/venomous0x/orgs",
+                "received_events_url": "https://api.github.com/users/venomous0x/received_events",
+                "repos_url": "https://api.github.com/users/venomous0x/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/venomous0x/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/venomous0x/subscriptions",
+                "type": "Organization",
+                "url": "https://api.github.com/users/venomous0x"
+            },
+            "private": false,
+            "pulls_url": "https://api.github.com/repos/venomous0x/WhatsAPI/pulls{/number}",
+            "pushed_at": "2015-05-03T17:53:48Z",
+            "releases_url": "https://api.github.com/repos/venomous0x/WhatsAPI/releases{/id}",
+            "size": 3191,
+            "ssh_url": "git@github.com:venomous0x/WhatsAPI.git",
+            "stargazers_count": 2481,
+            "stargazers_url": "https://api.github.com/repos/venomous0x/WhatsAPI/stargazers",
+            "statuses_url": "https://api.github.com/repos/venomous0x/WhatsAPI/statuses/{sha}",
+            "subscribers_url": "https://api.github.com/repos/venomous0x/WhatsAPI/subscribers",
+            "subscription_url": "https://api.github.com/repos/venomous0x/WhatsAPI/subscription",
+            "svn_url": "https://github.com/venomous0x/WhatsAPI",
+            "tags_url": "https://api.github.com/repos/venomous0x/WhatsAPI/tags",
+            "teams_url": "https://api.github.com/repos/venomous0x/WhatsAPI/teams",
+            "trees_url": "https://api.github.com/repos/venomous0x/WhatsAPI/git/trees{/sha}",
+            "updated_at": "2015-05-20T22:40:28Z",
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI",
+            "watchers": 2481,
+            "watchers_count": 2481
+        },
+        "sha": "5f3bdbc2fd0e8758ea813882135f4a467a363745",
+        "user": {
+            "avatar_url": "https://avatars.githubusercontent.com/u/1786115?v=3",
+            "events_url": "https://api.github.com/users/venomous0x/events{/privacy}",
+            "followers_url": "https://api.github.com/users/venomous0x/followers",
+            "following_url": "https://api.github.com/users/venomous0x/following{/other_user}",
+            "gists_url": "https://api.github.com/users/venomous0x/gists{/gist_id}",
+            "gravatar_id": "",
+            "html_url": "https://github.com/venomous0x",
+            "id": 1786115,
+            "login": "venomous0x",
+            "organizations_url": "https://api.github.com/users/venomous0x/orgs",
+            "received_events_url": "https://api.github.com/users/venomous0x/received_events",
+            "repos_url": "https://api.github.com/users/venomous0x/repos",
+            "site_admin": false,
+            "starred_url": "https://api.github.com/users/venomous0x/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/venomous0x/subscriptions",
+            "type": "Organization",
+            "url": "https://api.github.com/users/venomous0x"
+        }
+    },
+    "body": "",
+    "closed_at": "2012-09-10T18:27:02Z",
+    "comment_data": [],
+    "comments_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/20/comments",
+    "commit_data": [
+        {
+            "author": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1149188?v=3",
+                "events_url": "https://api.github.com/users/cdesjardins/events{/privacy}",
+                "followers_url": "https://api.github.com/users/cdesjardins/followers",
+                "following_url": "https://api.github.com/users/cdesjardins/following{/other_user}",
+                "gists_url": "https://api.github.com/users/cdesjardins/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/cdesjardins",
+                "id": 1149188,
+                "login": "cdesjardins",
+                "organizations_url": "https://api.github.com/users/cdesjardins/orgs",
+                "received_events_url": "https://api.github.com/users/cdesjardins/received_events",
+                "repos_url": "https://api.github.com/users/cdesjardins/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/cdesjardins/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/cdesjardins/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/cdesjardins"
+            },
+            "comments_url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/5b6bc23b68fcfeaa81a3088e7f14cd0a42861dad/comments",
+            "commit": {
+                "author": {
+                    "date": "2012-06-25T11:24:07Z",
+                    "email": "git@chrisd.info",
+                    "name": "Chris Desjardins"
+                },
+                "comment_count": 0,
+                "committer": {
+                    "date": "2012-06-25T11:24:07Z",
+                    "email": "git@chrisd.info",
+                    "name": "Chris Desjardins"
+                },
+                "message": "Adding code to handle incomplete messages",
+                "tree": {
+                    "sha": "d6372f9432c709b10767950b0d95cb1429d63bae",
+                    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/git/trees/d6372f9432c709b10767950b0d95cb1429d63bae"
+                },
+                "url": "https://api.github.com/repos/venomous0x/WhatsAPI/git/commits/5b6bc23b68fcfeaa81a3088e7f14cd0a42861dad"
+            },
+            "committer": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1149188?v=3",
+                "events_url": "https://api.github.com/users/cdesjardins/events{/privacy}",
+                "followers_url": "https://api.github.com/users/cdesjardins/followers",
+                "following_url": "https://api.github.com/users/cdesjardins/following{/other_user}",
+                "gists_url": "https://api.github.com/users/cdesjardins/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/cdesjardins",
+                "id": 1149188,
+                "login": "cdesjardins",
+                "organizations_url": "https://api.github.com/users/cdesjardins/orgs",
+                "received_events_url": "https://api.github.com/users/cdesjardins/received_events",
+                "repos_url": "https://api.github.com/users/cdesjardins/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/cdesjardins/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/cdesjardins/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/cdesjardins"
+            },
+            "html_url": "https://github.com/venomous0x/WhatsAPI/commit/5b6bc23b68fcfeaa81a3088e7f14cd0a42861dad",
+            "parents": [
+                {
+                    "html_url": "https://github.com/venomous0x/WhatsAPI/commit/48fdceaaafd0eb27c1d55fb2b20c226e43168721",
+                    "sha": "48fdceaaafd0eb27c1d55fb2b20c226e43168721",
+                    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/48fdceaaafd0eb27c1d55fb2b20c226e43168721"
+                }
+            ],
+            "sha": "5b6bc23b68fcfeaa81a3088e7f14cd0a42861dad",
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/5b6bc23b68fcfeaa81a3088e7f14cd0a42861dad"
+        },
+        {
+            "author": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1149188?v=3",
+                "events_url": "https://api.github.com/users/cdesjardins/events{/privacy}",
+                "followers_url": "https://api.github.com/users/cdesjardins/followers",
+                "following_url": "https://api.github.com/users/cdesjardins/following{/other_user}",
+                "gists_url": "https://api.github.com/users/cdesjardins/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/cdesjardins",
+                "id": 1149188,
+                "login": "cdesjardins",
+                "organizations_url": "https://api.github.com/users/cdesjardins/orgs",
+                "received_events_url": "https://api.github.com/users/cdesjardins/received_events",
+                "repos_url": "https://api.github.com/users/cdesjardins/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/cdesjardins/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/cdesjardins/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/cdesjardins"
+            },
+            "comments_url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/cbe57378261a94698be83a51010538517024d01f/comments",
+            "commit": {
+                "author": {
+                    "date": "2012-06-28T15:45:12Z",
+                    "email": "git@chrisd.info",
+                    "name": "Chris Desjardins"
+                },
+                "comment_count": 0,
+                "committer": {
+                    "date": "2012-06-28T15:45:12Z",
+                    "email": "git@chrisd.info",
+                    "name": "Chris Desjardins"
+                },
+                "message": "Adding message rx ack",
+                "tree": {
+                    "sha": "5f4a3d5566ced9782191225216d40fca3090ed0b",
+                    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/git/trees/5f4a3d5566ced9782191225216d40fca3090ed0b"
+                },
+                "url": "https://api.github.com/repos/venomous0x/WhatsAPI/git/commits/cbe57378261a94698be83a51010538517024d01f"
+            },
+            "committer": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1149188?v=3",
+                "events_url": "https://api.github.com/users/cdesjardins/events{/privacy}",
+                "followers_url": "https://api.github.com/users/cdesjardins/followers",
+                "following_url": "https://api.github.com/users/cdesjardins/following{/other_user}",
+                "gists_url": "https://api.github.com/users/cdesjardins/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/cdesjardins",
+                "id": 1149188,
+                "login": "cdesjardins",
+                "organizations_url": "https://api.github.com/users/cdesjardins/orgs",
+                "received_events_url": "https://api.github.com/users/cdesjardins/received_events",
+                "repos_url": "https://api.github.com/users/cdesjardins/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/cdesjardins/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/cdesjardins/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/cdesjardins"
+            },
+            "html_url": "https://github.com/venomous0x/WhatsAPI/commit/cbe57378261a94698be83a51010538517024d01f",
+            "parents": [
+                {
+                    "html_url": "https://github.com/venomous0x/WhatsAPI/commit/7fde19c59e8f916216c205e7fdb871e733b48a1e",
+                    "sha": "7fde19c59e8f916216c205e7fdb871e733b48a1e",
+                    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/7fde19c59e8f916216c205e7fdb871e733b48a1e"
+                }
+            ],
+            "sha": "cbe57378261a94698be83a51010538517024d01f",
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/cbe57378261a94698be83a51010538517024d01f"
+        },
+        {
+            "author": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1316439?v=3",
+                "events_url": "https://api.github.com/users/aesedepece/events{/privacy}",
+                "followers_url": "https://api.github.com/users/aesedepece/followers",
+                "following_url": "https://api.github.com/users/aesedepece/following{/other_user}",
+                "gists_url": "https://api.github.com/users/aesedepece/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/aesedepece",
+                "id": 1316439,
+                "login": "aesedepece",
+                "organizations_url": "https://api.github.com/users/aesedepece/orgs",
+                "received_events_url": "https://api.github.com/users/aesedepece/received_events",
+                "repos_url": "https://api.github.com/users/aesedepece/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/aesedepece/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/aesedepece/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/aesedepece"
+            },
+            "comments_url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/991a903aeb4295bba4b76a3765f7a2b3011ee101/comments",
+            "commit": {
+                "author": {
+                    "date": "2012-06-29T13:47:08Z",
+                    "email": "pedrocrespo@kadede.com",
+                    "name": "Adán Sánchez de Pedro Crespo"
+                },
+                "comment_count": 0,
+                "committer": {
+                    "date": "2012-06-29T13:47:08Z",
+                    "email": "pedrocrespo@kadede.com",
+                    "name": "Adán Sánchez de Pedro Crespo"
+                },
+                "message": "POST-JSON API",
+                "tree": {
+                    "sha": "95fd06562f5f6174f5b64ad6dc79ec5534348a26",
+                    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/git/trees/95fd06562f5f6174f5b64ad6dc79ec5534348a26"
+                },
+                "url": "https://api.github.com/repos/venomous0x/WhatsAPI/git/commits/991a903aeb4295bba4b76a3765f7a2b3011ee101"
+            },
+            "committer": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1316439?v=3",
+                "events_url": "https://api.github.com/users/aesedepece/events{/privacy}",
+                "followers_url": "https://api.github.com/users/aesedepece/followers",
+                "following_url": "https://api.github.com/users/aesedepece/following{/other_user}",
+                "gists_url": "https://api.github.com/users/aesedepece/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/aesedepece",
+                "id": 1316439,
+                "login": "aesedepece",
+                "organizations_url": "https://api.github.com/users/aesedepece/orgs",
+                "received_events_url": "https://api.github.com/users/aesedepece/received_events",
+                "repos_url": "https://api.github.com/users/aesedepece/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/aesedepece/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/aesedepece/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/aesedepece"
+            },
+            "html_url": "https://github.com/venomous0x/WhatsAPI/commit/991a903aeb4295bba4b76a3765f7a2b3011ee101",
+            "parents": [
+                {
+                    "html_url": "https://github.com/venomous0x/WhatsAPI/commit/a9fd065eb7266ed63e20e7546e22ce1c2c6571bf",
+                    "sha": "a9fd065eb7266ed63e20e7546e22ce1c2c6571bf",
+                    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/a9fd065eb7266ed63e20e7546e22ce1c2c6571bf"
+                }
+            ],
+            "sha": "991a903aeb4295bba4b76a3765f7a2b3011ee101",
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/991a903aeb4295bba4b76a3765f7a2b3011ee101"
+        },
+        {
+            "author": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1149188?v=3",
+                "events_url": "https://api.github.com/users/cdesjardins/events{/privacy}",
+                "followers_url": "https://api.github.com/users/cdesjardins/followers",
+                "following_url": "https://api.github.com/users/cdesjardins/following{/other_user}",
+                "gists_url": "https://api.github.com/users/cdesjardins/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/cdesjardins",
+                "id": 1149188,
+                "login": "cdesjardins",
+                "organizations_url": "https://api.github.com/users/cdesjardins/orgs",
+                "received_events_url": "https://api.github.com/users/cdesjardins/received_events",
+                "repos_url": "https://api.github.com/users/cdesjardins/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/cdesjardins/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/cdesjardins/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/cdesjardins"
+            },
+            "comments_url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/856daf3d5a4b289f81bb50e12e57d2919afb17ea/comments",
+            "commit": {
+                "author": {
+                    "date": "2012-06-30T17:37:03Z",
+                    "email": "git@chrisd.info",
+                    "name": "Chris Desjardins"
+                },
+                "comment_count": 0,
+                "committer": {
+                    "date": "2012-06-30T17:37:03Z",
+                    "email": "git@chrisd.info",
+                    "name": "Chris Desjardins"
+                },
+                "message": "Made the device, version, and port class member variables.",
+                "tree": {
+                    "sha": "820820fe408cc53210dc6abdc510cf304a915070",
+                    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/git/trees/820820fe408cc53210dc6abdc510cf304a915070"
+                },
+                "url": "https://api.github.com/repos/venomous0x/WhatsAPI/git/commits/856daf3d5a4b289f81bb50e12e57d2919afb17ea"
+            },
+            "committer": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1149188?v=3",
+                "events_url": "https://api.github.com/users/cdesjardins/events{/privacy}",
+                "followers_url": "https://api.github.com/users/cdesjardins/followers",
+                "following_url": "https://api.github.com/users/cdesjardins/following{/other_user}",
+                "gists_url": "https://api.github.com/users/cdesjardins/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/cdesjardins",
+                "id": 1149188,
+                "login": "cdesjardins",
+                "organizations_url": "https://api.github.com/users/cdesjardins/orgs",
+                "received_events_url": "https://api.github.com/users/cdesjardins/received_events",
+                "repos_url": "https://api.github.com/users/cdesjardins/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/cdesjardins/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/cdesjardins/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/cdesjardins"
+            },
+            "html_url": "https://github.com/venomous0x/WhatsAPI/commit/856daf3d5a4b289f81bb50e12e57d2919afb17ea",
+            "parents": [
+                {
+                    "html_url": "https://github.com/venomous0x/WhatsAPI/commit/cbe57378261a94698be83a51010538517024d01f",
+                    "sha": "cbe57378261a94698be83a51010538517024d01f",
+                    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/cbe57378261a94698be83a51010538517024d01f"
+                }
+            ],
+            "sha": "856daf3d5a4b289f81bb50e12e57d2919afb17ea",
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/856daf3d5a4b289f81bb50e12e57d2919afb17ea"
+        },
+        {
+            "author": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1316439?v=3",
+                "events_url": "https://api.github.com/users/aesedepece/events{/privacy}",
+                "followers_url": "https://api.github.com/users/aesedepece/followers",
+                "following_url": "https://api.github.com/users/aesedepece/following{/other_user}",
+                "gists_url": "https://api.github.com/users/aesedepece/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/aesedepece",
+                "id": 1316439,
+                "login": "aesedepece",
+                "organizations_url": "https://api.github.com/users/aesedepece/orgs",
+                "received_events_url": "https://api.github.com/users/aesedepece/received_events",
+                "repos_url": "https://api.github.com/users/aesedepece/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/aesedepece/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/aesedepece/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/aesedepece"
+            },
+            "comments_url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/f8caef00dc0bb5466408b200fdce74479e2e0762/comments",
+            "commit": {
+                "author": {
+                    "date": "2012-07-09T14:38:19Z",
+                    "email": "pedrocrespo@kadede.com",
+                    "name": "Adán Sánchez de Pedro Crespo"
+                },
+                "comment_count": 0,
+                "committer": {
+                    "date": "2012-07-09T14:38:19Z",
+                    "email": "pedrocrespo@kadede.com",
+                    "name": "Adán Sánchez de Pedro Crespo"
+                },
+                "message": "Fixes pull #1 by @satup",
+                "tree": {
+                    "sha": "f10213cca377b6e0c0d7864d81526ea88194d811",
+                    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/git/trees/f10213cca377b6e0c0d7864d81526ea88194d811"
+                },
+                "url": "https://api.github.com/repos/venomous0x/WhatsAPI/git/commits/f8caef00dc0bb5466408b200fdce74479e2e0762"
+            },
+            "committer": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1316439?v=3",
+                "events_url": "https://api.github.com/users/aesedepece/events{/privacy}",
+                "followers_url": "https://api.github.com/users/aesedepece/followers",
+                "following_url": "https://api.github.com/users/aesedepece/following{/other_user}",
+                "gists_url": "https://api.github.com/users/aesedepece/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/aesedepece",
+                "id": 1316439,
+                "login": "aesedepece",
+                "organizations_url": "https://api.github.com/users/aesedepece/orgs",
+                "received_events_url": "https://api.github.com/users/aesedepece/received_events",
+                "repos_url": "https://api.github.com/users/aesedepece/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/aesedepece/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/aesedepece/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/aesedepece"
+            },
+            "html_url": "https://github.com/venomous0x/WhatsAPI/commit/f8caef00dc0bb5466408b200fdce74479e2e0762",
+            "parents": [
+                {
+                    "html_url": "https://github.com/venomous0x/WhatsAPI/commit/991a903aeb4295bba4b76a3765f7a2b3011ee101",
+                    "sha": "991a903aeb4295bba4b76a3765f7a2b3011ee101",
+                    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/991a903aeb4295bba4b76a3765f7a2b3011ee101"
+                }
+            ],
+            "sha": "f8caef00dc0bb5466408b200fdce74479e2e0762",
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/f8caef00dc0bb5466408b200fdce74479e2e0762"
+        },
+        {
+            "author": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1316439?v=3",
+                "events_url": "https://api.github.com/users/aesedepece/events{/privacy}",
+                "followers_url": "https://api.github.com/users/aesedepece/followers",
+                "following_url": "https://api.github.com/users/aesedepece/following{/other_user}",
+                "gists_url": "https://api.github.com/users/aesedepece/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/aesedepece",
+                "id": 1316439,
+                "login": "aesedepece",
+                "organizations_url": "https://api.github.com/users/aesedepece/orgs",
+                "received_events_url": "https://api.github.com/users/aesedepece/received_events",
+                "repos_url": "https://api.github.com/users/aesedepece/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/aesedepece/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/aesedepece/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/aesedepece"
+            },
+            "comments_url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/4bf7738bad685593d0d573492c44c37420338f51/comments",
+            "commit": {
+                "author": {
+                    "date": "2012-07-09T23:30:49Z",
+                    "email": "pedrocrespo@kadede.com",
+                    "name": "Adán Sánchez de Pedro Crespo"
+                },
+                "comment_count": 0,
+                "committer": {
+                    "date": "2012-07-09T23:30:49Z",
+                    "email": "pedrocrespo@kadede.com",
+                    "name": "Adán Sánchez de Pedro Crespo"
+                },
+                "message": "This fixes #5 (nickname change)",
+                "tree": {
+                    "sha": "8d8e9a73d5d5a128d7cb0a1aaadd48ac6a7a871f",
+                    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/git/trees/8d8e9a73d5d5a128d7cb0a1aaadd48ac6a7a871f"
+                },
+                "url": "https://api.github.com/repos/venomous0x/WhatsAPI/git/commits/4bf7738bad685593d0d573492c44c37420338f51"
+            },
+            "committer": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1316439?v=3",
+                "events_url": "https://api.github.com/users/aesedepece/events{/privacy}",
+                "followers_url": "https://api.github.com/users/aesedepece/followers",
+                "following_url": "https://api.github.com/users/aesedepece/following{/other_user}",
+                "gists_url": "https://api.github.com/users/aesedepece/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/aesedepece",
+                "id": 1316439,
+                "login": "aesedepece",
+                "organizations_url": "https://api.github.com/users/aesedepece/orgs",
+                "received_events_url": "https://api.github.com/users/aesedepece/received_events",
+                "repos_url": "https://api.github.com/users/aesedepece/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/aesedepece/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/aesedepece/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/aesedepece"
+            },
+            "html_url": "https://github.com/venomous0x/WhatsAPI/commit/4bf7738bad685593d0d573492c44c37420338f51",
+            "parents": [
+                {
+                    "html_url": "https://github.com/venomous0x/WhatsAPI/commit/f8caef00dc0bb5466408b200fdce74479e2e0762",
+                    "sha": "f8caef00dc0bb5466408b200fdce74479e2e0762",
+                    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/f8caef00dc0bb5466408b200fdce74479e2e0762"
+                }
+            ],
+            "sha": "4bf7738bad685593d0d573492c44c37420338f51",
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/4bf7738bad685593d0d573492c44c37420338f51"
+        },
+        {
+            "author": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1316439?v=3",
+                "events_url": "https://api.github.com/users/aesedepece/events{/privacy}",
+                "followers_url": "https://api.github.com/users/aesedepece/followers",
+                "following_url": "https://api.github.com/users/aesedepece/following{/other_user}",
+                "gists_url": "https://api.github.com/users/aesedepece/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/aesedepece",
+                "id": 1316439,
+                "login": "aesedepece",
+                "organizations_url": "https://api.github.com/users/aesedepece/orgs",
+                "received_events_url": "https://api.github.com/users/aesedepece/received_events",
+                "repos_url": "https://api.github.com/users/aesedepece/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/aesedepece/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/aesedepece/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/aesedepece"
+            },
+            "comments_url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/242b038134951b8d75a40f726cdeee6bb707bce4/comments",
+            "commit": {
+                "author": {
+                    "date": "2012-07-09T23:32:31Z",
+                    "email": "pedrocrespo@kadede.com",
+                    "name": "Adán Sánchez de Pedro Crespo"
+                },
+                "comment_count": 0,
+                "committer": {
+                    "date": "2012-07-09T23:32:31Z",
+                    "email": "pedrocrespo@kadede.com",
+                    "name": "Adán Sánchez de Pedro Crespo"
+                },
+                "message": "Clean temporal error loggers",
+                "tree": {
+                    "sha": "1190e9ee56cf244a50b9813a2c2899368aeb5e4a",
+                    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/git/trees/1190e9ee56cf244a50b9813a2c2899368aeb5e4a"
+                },
+                "url": "https://api.github.com/repos/venomous0x/WhatsAPI/git/commits/242b038134951b8d75a40f726cdeee6bb707bce4"
+            },
+            "committer": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1316439?v=3",
+                "events_url": "https://api.github.com/users/aesedepece/events{/privacy}",
+                "followers_url": "https://api.github.com/users/aesedepece/followers",
+                "following_url": "https://api.github.com/users/aesedepece/following{/other_user}",
+                "gists_url": "https://api.github.com/users/aesedepece/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/aesedepece",
+                "id": 1316439,
+                "login": "aesedepece",
+                "organizations_url": "https://api.github.com/users/aesedepece/orgs",
+                "received_events_url": "https://api.github.com/users/aesedepece/received_events",
+                "repos_url": "https://api.github.com/users/aesedepece/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/aesedepece/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/aesedepece/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/aesedepece"
+            },
+            "html_url": "https://github.com/venomous0x/WhatsAPI/commit/242b038134951b8d75a40f726cdeee6bb707bce4",
+            "parents": [
+                {
+                    "html_url": "https://github.com/venomous0x/WhatsAPI/commit/4bf7738bad685593d0d573492c44c37420338f51",
+                    "sha": "4bf7738bad685593d0d573492c44c37420338f51",
+                    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/4bf7738bad685593d0d573492c44c37420338f51"
+                }
+            ],
+            "sha": "242b038134951b8d75a40f726cdeee6bb707bce4",
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/242b038134951b8d75a40f726cdeee6bb707bce4"
+        },
+        {
+            "author": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1316439?v=3",
+                "events_url": "https://api.github.com/users/aesedepece/events{/privacy}",
+                "followers_url": "https://api.github.com/users/aesedepece/followers",
+                "following_url": "https://api.github.com/users/aesedepece/following{/other_user}",
+                "gists_url": "https://api.github.com/users/aesedepece/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/aesedepece",
+                "id": 1316439,
+                "login": "aesedepece",
+                "organizations_url": "https://api.github.com/users/aesedepece/orgs",
+                "received_events_url": "https://api.github.com/users/aesedepece/received_events",
+                "repos_url": "https://api.github.com/users/aesedepece/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/aesedepece/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/aesedepece/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/aesedepece"
+            },
+            "comments_url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/5f04fc9d34ad90ddadf53a27d0eb3fd467cd19f5/comments",
+            "commit": {
+                "author": {
+                    "date": "2012-07-09T23:39:52Z",
+                    "email": "pedrocrespo@kadede.com",
+                    "name": "Adán Sánchez de Pedro Crespo"
+                },
+                "comment_count": 0,
+                "committer": {
+                    "date": "2012-07-09T23:39:52Z",
+                    "email": "pedrocrespo@kadede.com",
+                    "name": "Adán Sánchez de Pedro Crespo"
+                },
+                "message": "Fixes #17 with code suggestion from @schonhose",
+                "tree": {
+                    "sha": "6c4ff7c98d9de5ced46c7fc34493ccdb6d0f2c51",
+                    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/git/trees/6c4ff7c98d9de5ced46c7fc34493ccdb6d0f2c51"
+                },
+                "url": "https://api.github.com/repos/venomous0x/WhatsAPI/git/commits/5f04fc9d34ad90ddadf53a27d0eb3fd467cd19f5"
+            },
+            "committer": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1316439?v=3",
+                "events_url": "https://api.github.com/users/aesedepece/events{/privacy}",
+                "followers_url": "https://api.github.com/users/aesedepece/followers",
+                "following_url": "https://api.github.com/users/aesedepece/following{/other_user}",
+                "gists_url": "https://api.github.com/users/aesedepece/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/aesedepece",
+                "id": 1316439,
+                "login": "aesedepece",
+                "organizations_url": "https://api.github.com/users/aesedepece/orgs",
+                "received_events_url": "https://api.github.com/users/aesedepece/received_events",
+                "repos_url": "https://api.github.com/users/aesedepece/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/aesedepece/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/aesedepece/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/aesedepece"
+            },
+            "html_url": "https://github.com/venomous0x/WhatsAPI/commit/5f04fc9d34ad90ddadf53a27d0eb3fd467cd19f5",
+            "parents": [
+                {
+                    "html_url": "https://github.com/venomous0x/WhatsAPI/commit/242b038134951b8d75a40f726cdeee6bb707bce4",
+                    "sha": "242b038134951b8d75a40f726cdeee6bb707bce4",
+                    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/242b038134951b8d75a40f726cdeee6bb707bce4"
+                }
+            ],
+            "sha": "5f04fc9d34ad90ddadf53a27d0eb3fd467cd19f5",
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/5f04fc9d34ad90ddadf53a27d0eb3fd467cd19f5"
+        },
+        {
+            "author": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1316439?v=3",
+                "events_url": "https://api.github.com/users/aesedepece/events{/privacy}",
+                "followers_url": "https://api.github.com/users/aesedepece/followers",
+                "following_url": "https://api.github.com/users/aesedepece/following{/other_user}",
+                "gists_url": "https://api.github.com/users/aesedepece/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/aesedepece",
+                "id": 1316439,
+                "login": "aesedepece",
+                "organizations_url": "https://api.github.com/users/aesedepece/orgs",
+                "received_events_url": "https://api.github.com/users/aesedepece/received_events",
+                "repos_url": "https://api.github.com/users/aesedepece/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/aesedepece/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/aesedepece/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/aesedepece"
+            },
+            "comments_url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/48fdceaaafd0eb27c1d55fb2b20c226e43168721/comments",
+            "commit": {
+                "author": {
+                    "date": "2012-07-09T23:51:25Z",
+                    "email": "pedrocrespo@kadede.com",
+                    "name": "Adán Sánchez de Pedro Crespo"
+                },
+                "comment_count": 0,
+                "committer": {
+                    "date": "2012-07-09T23:51:25Z",
+                    "email": "pedrocrespo@kadede.com",
+                    "name": "Adán Sánchez de Pedro Crespo"
+                },
+                "message": "Adds nickname to call",
+                "tree": {
+                    "sha": "0aab96708d436f5039d49341d4255a4f0429e045",
+                    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/git/trees/0aab96708d436f5039d49341d4255a4f0429e045"
+                },
+                "url": "https://api.github.com/repos/venomous0x/WhatsAPI/git/commits/48fdceaaafd0eb27c1d55fb2b20c226e43168721"
+            },
+            "committer": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1316439?v=3",
+                "events_url": "https://api.github.com/users/aesedepece/events{/privacy}",
+                "followers_url": "https://api.github.com/users/aesedepece/followers",
+                "following_url": "https://api.github.com/users/aesedepece/following{/other_user}",
+                "gists_url": "https://api.github.com/users/aesedepece/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/aesedepece",
+                "id": 1316439,
+                "login": "aesedepece",
+                "organizations_url": "https://api.github.com/users/aesedepece/orgs",
+                "received_events_url": "https://api.github.com/users/aesedepece/received_events",
+                "repos_url": "https://api.github.com/users/aesedepece/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/aesedepece/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/aesedepece/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/aesedepece"
+            },
+            "html_url": "https://github.com/venomous0x/WhatsAPI/commit/48fdceaaafd0eb27c1d55fb2b20c226e43168721",
+            "parents": [
+                {
+                    "html_url": "https://github.com/venomous0x/WhatsAPI/commit/5f04fc9d34ad90ddadf53a27d0eb3fd467cd19f5",
+                    "sha": "5f04fc9d34ad90ddadf53a27d0eb3fd467cd19f5",
+                    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/5f04fc9d34ad90ddadf53a27d0eb3fd467cd19f5"
+                }
+            ],
+            "sha": "48fdceaaafd0eb27c1d55fb2b20c226e43168721",
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/48fdceaaafd0eb27c1d55fb2b20c226e43168721"
+        },
+        {
+            "author": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1149188?v=3",
+                "events_url": "https://api.github.com/users/cdesjardins/events{/privacy}",
+                "followers_url": "https://api.github.com/users/cdesjardins/followers",
+                "following_url": "https://api.github.com/users/cdesjardins/following{/other_user}",
+                "gists_url": "https://api.github.com/users/cdesjardins/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/cdesjardins",
+                "id": 1149188,
+                "login": "cdesjardins",
+                "organizations_url": "https://api.github.com/users/cdesjardins/orgs",
+                "received_events_url": "https://api.github.com/users/cdesjardins/received_events",
+                "repos_url": "https://api.github.com/users/cdesjardins/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/cdesjardins/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/cdesjardins/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/cdesjardins"
+            },
+            "comments_url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/7fde19c59e8f916216c205e7fdb871e733b48a1e/comments",
+            "commit": {
+                "author": {
+                    "date": "2012-07-11T07:39:01Z",
+                    "email": "git@chrisd.info",
+                    "name": "Chris Desjardins"
+                },
+                "comment_count": 0,
+                "committer": {
+                    "date": "2012-07-11T07:39:01Z",
+                    "email": "git@chrisd.info",
+                    "name": "Chris Desjardins"
+                },
+                "message": "Fixed small bug in the retry count handling.",
+                "tree": {
+                    "sha": "8a9ed6884db7e064df3305df030cf51ad9753f10",
+                    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/git/trees/8a9ed6884db7e064df3305df030cf51ad9753f10"
+                },
+                "url": "https://api.github.com/repos/venomous0x/WhatsAPI/git/commits/7fde19c59e8f916216c205e7fdb871e733b48a1e"
+            },
+            "committer": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1149188?v=3",
+                "events_url": "https://api.github.com/users/cdesjardins/events{/privacy}",
+                "followers_url": "https://api.github.com/users/cdesjardins/followers",
+                "following_url": "https://api.github.com/users/cdesjardins/following{/other_user}",
+                "gists_url": "https://api.github.com/users/cdesjardins/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/cdesjardins",
+                "id": 1149188,
+                "login": "cdesjardins",
+                "organizations_url": "https://api.github.com/users/cdesjardins/orgs",
+                "received_events_url": "https://api.github.com/users/cdesjardins/received_events",
+                "repos_url": "https://api.github.com/users/cdesjardins/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/cdesjardins/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/cdesjardins/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/cdesjardins"
+            },
+            "html_url": "https://github.com/venomous0x/WhatsAPI/commit/7fde19c59e8f916216c205e7fdb871e733b48a1e",
+            "parents": [
+                {
+                    "html_url": "https://github.com/venomous0x/WhatsAPI/commit/5b6bc23b68fcfeaa81a3088e7f14cd0a42861dad",
+                    "sha": "5b6bc23b68fcfeaa81a3088e7f14cd0a42861dad",
+                    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/5b6bc23b68fcfeaa81a3088e7f14cd0a42861dad"
+                }
+            ],
+            "sha": "7fde19c59e8f916216c205e7fdb871e733b48a1e",
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/7fde19c59e8f916216c205e7fdb871e733b48a1e"
+        },
+        {
+            "author": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1149188?v=3",
+                "events_url": "https://api.github.com/users/cdesjardins/events{/privacy}",
+                "followers_url": "https://api.github.com/users/cdesjardins/followers",
+                "following_url": "https://api.github.com/users/cdesjardins/following{/other_user}",
+                "gists_url": "https://api.github.com/users/cdesjardins/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/cdesjardins",
+                "id": 1149188,
+                "login": "cdesjardins",
+                "organizations_url": "https://api.github.com/users/cdesjardins/orgs",
+                "received_events_url": "https://api.github.com/users/cdesjardins/received_events",
+                "repos_url": "https://api.github.com/users/cdesjardins/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/cdesjardins/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/cdesjardins/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/cdesjardins"
+            },
+            "comments_url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/6f35a278a9d0a9fa14514cfe49bd0e8c3ebf52c2/comments",
+            "commit": {
+                "author": {
+                    "date": "2012-08-16T07:48:46Z",
+                    "email": "git@chrisd.info",
+                    "name": "Chris Desjardins"
+                },
+                "comment_count": 0,
+                "committer": {
+                    "date": "2012-08-16T07:48:46Z",
+                    "email": "git@chrisd.info",
+                    "name": "Chris Desjardins"
+                },
+                "message": "Put a more reasonable timeout on the socket reads.",
+                "tree": {
+                    "sha": "17aa9b266c0a73f0a6040538e439eb7ec7d5356c",
+                    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/git/trees/17aa9b266c0a73f0a6040538e439eb7ec7d5356c"
+                },
+                "url": "https://api.github.com/repos/venomous0x/WhatsAPI/git/commits/6f35a278a9d0a9fa14514cfe49bd0e8c3ebf52c2"
+            },
+            "committer": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1149188?v=3",
+                "events_url": "https://api.github.com/users/cdesjardins/events{/privacy}",
+                "followers_url": "https://api.github.com/users/cdesjardins/followers",
+                "following_url": "https://api.github.com/users/cdesjardins/following{/other_user}",
+                "gists_url": "https://api.github.com/users/cdesjardins/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/cdesjardins",
+                "id": 1149188,
+                "login": "cdesjardins",
+                "organizations_url": "https://api.github.com/users/cdesjardins/orgs",
+                "received_events_url": "https://api.github.com/users/cdesjardins/received_events",
+                "repos_url": "https://api.github.com/users/cdesjardins/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/cdesjardins/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/cdesjardins/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/cdesjardins"
+            },
+            "html_url": "https://github.com/venomous0x/WhatsAPI/commit/6f35a278a9d0a9fa14514cfe49bd0e8c3ebf52c2",
+            "parents": [
+                {
+                    "html_url": "https://github.com/venomous0x/WhatsAPI/commit/856daf3d5a4b289f81bb50e12e57d2919afb17ea",
+                    "sha": "856daf3d5a4b289f81bb50e12e57d2919afb17ea",
+                    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/856daf3d5a4b289f81bb50e12e57d2919afb17ea"
+                }
+            ],
+            "sha": "6f35a278a9d0a9fa14514cfe49bd0e8c3ebf52c2",
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/6f35a278a9d0a9fa14514cfe49bd0e8c3ebf52c2"
+        },
+        {
+            "author": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1149188?v=3",
+                "events_url": "https://api.github.com/users/cdesjardins/events{/privacy}",
+                "followers_url": "https://api.github.com/users/cdesjardins/followers",
+                "following_url": "https://api.github.com/users/cdesjardins/following{/other_user}",
+                "gists_url": "https://api.github.com/users/cdesjardins/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/cdesjardins",
+                "id": 1149188,
+                "login": "cdesjardins",
+                "organizations_url": "https://api.github.com/users/cdesjardins/orgs",
+                "received_events_url": "https://api.github.com/users/cdesjardins/received_events",
+                "repos_url": "https://api.github.com/users/cdesjardins/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/cdesjardins/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/cdesjardins/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/cdesjardins"
+            },
+            "comments_url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/f6523f12e9e3c3a0db86616553e44b7dbe2b5693/comments",
+            "commit": {
+                "author": {
+                    "date": "2012-08-16T07:51:41Z",
+                    "email": "git@chrisd.info",
+                    "name": "Chris Desjardins"
+                },
+                "comment_count": 0,
+                "committer": {
+                    "date": "2012-08-16T07:51:41Z",
+                    "email": "git@chrisd.info",
+                    "name": "Chris Desjardins"
+                },
+                "message": "Put annoying tabs in place.",
+                "tree": {
+                    "sha": "52f0cf60c38584ca5f10719a95e6e11a052148fc",
+                    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/git/trees/52f0cf60c38584ca5f10719a95e6e11a052148fc"
+                },
+                "url": "https://api.github.com/repos/venomous0x/WhatsAPI/git/commits/f6523f12e9e3c3a0db86616553e44b7dbe2b5693"
+            },
+            "committer": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1149188?v=3",
+                "events_url": "https://api.github.com/users/cdesjardins/events{/privacy}",
+                "followers_url": "https://api.github.com/users/cdesjardins/followers",
+                "following_url": "https://api.github.com/users/cdesjardins/following{/other_user}",
+                "gists_url": "https://api.github.com/users/cdesjardins/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/cdesjardins",
+                "id": 1149188,
+                "login": "cdesjardins",
+                "organizations_url": "https://api.github.com/users/cdesjardins/orgs",
+                "received_events_url": "https://api.github.com/users/cdesjardins/received_events",
+                "repos_url": "https://api.github.com/users/cdesjardins/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/cdesjardins/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/cdesjardins/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/cdesjardins"
+            },
+            "html_url": "https://github.com/venomous0x/WhatsAPI/commit/f6523f12e9e3c3a0db86616553e44b7dbe2b5693",
+            "parents": [
+                {
+                    "html_url": "https://github.com/venomous0x/WhatsAPI/commit/6f35a278a9d0a9fa14514cfe49bd0e8c3ebf52c2",
+                    "sha": "6f35a278a9d0a9fa14514cfe49bd0e8c3ebf52c2",
+                    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/6f35a278a9d0a9fa14514cfe49bd0e8c3ebf52c2"
+                }
+            ],
+            "sha": "f6523f12e9e3c3a0db86616553e44b7dbe2b5693",
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/f6523f12e9e3c3a0db86616553e44b7dbe2b5693"
+        },
+        {
+            "author": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1149188?v=3",
+                "events_url": "https://api.github.com/users/cdesjardins/events{/privacy}",
+                "followers_url": "https://api.github.com/users/cdesjardins/followers",
+                "following_url": "https://api.github.com/users/cdesjardins/following{/other_user}",
+                "gists_url": "https://api.github.com/users/cdesjardins/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/cdesjardins",
+                "id": 1149188,
+                "login": "cdesjardins",
+                "organizations_url": "https://api.github.com/users/cdesjardins/orgs",
+                "received_events_url": "https://api.github.com/users/cdesjardins/received_events",
+                "repos_url": "https://api.github.com/users/cdesjardins/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/cdesjardins/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/cdesjardins/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/cdesjardins"
+            },
+            "comments_url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/e8409698a06b413daf748c84b55b5b366a79aa34/comments",
+            "commit": {
+                "author": {
+                    "date": "2012-08-16T19:02:39Z",
+                    "email": "git@chrisd.info",
+                    "name": "Chris Desjardins"
+                },
+                "comment_count": 0,
+                "committer": {
+                    "date": "2012-08-16T19:02:39Z",
+                    "email": "git@chrisd.info",
+                    "name": "Chris Desjardins"
+                },
+                "message": "Made the socket read a bit smarter.",
+                "tree": {
+                    "sha": "da78528874d454614661b818bab39d89b0c23680",
+                    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/git/trees/da78528874d454614661b818bab39d89b0c23680"
+                },
+                "url": "https://api.github.com/repos/venomous0x/WhatsAPI/git/commits/e8409698a06b413daf748c84b55b5b366a79aa34"
+            },
+            "committer": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1149188?v=3",
+                "events_url": "https://api.github.com/users/cdesjardins/events{/privacy}",
+                "followers_url": "https://api.github.com/users/cdesjardins/followers",
+                "following_url": "https://api.github.com/users/cdesjardins/following{/other_user}",
+                "gists_url": "https://api.github.com/users/cdesjardins/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/cdesjardins",
+                "id": 1149188,
+                "login": "cdesjardins",
+                "organizations_url": "https://api.github.com/users/cdesjardins/orgs",
+                "received_events_url": "https://api.github.com/users/cdesjardins/received_events",
+                "repos_url": "https://api.github.com/users/cdesjardins/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/cdesjardins/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/cdesjardins/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/cdesjardins"
+            },
+            "html_url": "https://github.com/venomous0x/WhatsAPI/commit/e8409698a06b413daf748c84b55b5b366a79aa34",
+            "parents": [
+                {
+                    "html_url": "https://github.com/venomous0x/WhatsAPI/commit/f6523f12e9e3c3a0db86616553e44b7dbe2b5693",
+                    "sha": "f6523f12e9e3c3a0db86616553e44b7dbe2b5693",
+                    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/f6523f12e9e3c3a0db86616553e44b7dbe2b5693"
+                }
+            ],
+            "sha": "e8409698a06b413daf748c84b55b5b366a79aa34",
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/e8409698a06b413daf748c84b55b5b366a79aa34"
+        },
+        {
+            "author": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1149188?v=3",
+                "events_url": "https://api.github.com/users/cdesjardins/events{/privacy}",
+                "followers_url": "https://api.github.com/users/cdesjardins/followers",
+                "following_url": "https://api.github.com/users/cdesjardins/following{/other_user}",
+                "gists_url": "https://api.github.com/users/cdesjardins/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/cdesjardins",
+                "id": 1149188,
+                "login": "cdesjardins",
+                "organizations_url": "https://api.github.com/users/cdesjardins/orgs",
+                "received_events_url": "https://api.github.com/users/cdesjardins/received_events",
+                "repos_url": "https://api.github.com/users/cdesjardins/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/cdesjardins/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/cdesjardins/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/cdesjardins"
+            },
+            "comments_url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/948d77f8b5fd8bcac7702c8d44051d1b777262b2/comments",
+            "commit": {
+                "author": {
+                    "date": "2012-08-16T21:36:57Z",
+                    "email": "git@chrisd.info",
+                    "name": "Chris Desjardins"
+                },
+                "comment_count": 0,
+                "committer": {
+                    "date": "2012-08-16T21:36:57Z",
+                    "email": "git@chrisd.info",
+                    "name": "Chris Desjardins"
+                },
+                "message": "New protocol parser... not yet working!",
+                "tree": {
+                    "sha": "e8d25d2b1b8b1cb3d30889b8a4514341e0edcc1d",
+                    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/git/trees/e8d25d2b1b8b1cb3d30889b8a4514341e0edcc1d"
+                },
+                "url": "https://api.github.com/repos/venomous0x/WhatsAPI/git/commits/948d77f8b5fd8bcac7702c8d44051d1b777262b2"
+            },
+            "committer": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1149188?v=3",
+                "events_url": "https://api.github.com/users/cdesjardins/events{/privacy}",
+                "followers_url": "https://api.github.com/users/cdesjardins/followers",
+                "following_url": "https://api.github.com/users/cdesjardins/following{/other_user}",
+                "gists_url": "https://api.github.com/users/cdesjardins/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/cdesjardins",
+                "id": 1149188,
+                "login": "cdesjardins",
+                "organizations_url": "https://api.github.com/users/cdesjardins/orgs",
+                "received_events_url": "https://api.github.com/users/cdesjardins/received_events",
+                "repos_url": "https://api.github.com/users/cdesjardins/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/cdesjardins/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/cdesjardins/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/cdesjardins"
+            },
+            "html_url": "https://github.com/venomous0x/WhatsAPI/commit/948d77f8b5fd8bcac7702c8d44051d1b777262b2",
+            "parents": [
+                {
+                    "html_url": "https://github.com/venomous0x/WhatsAPI/commit/e8409698a06b413daf748c84b55b5b366a79aa34",
+                    "sha": "e8409698a06b413daf748c84b55b5b366a79aa34",
+                    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/e8409698a06b413daf748c84b55b5b366a79aa34"
+                }
+            ],
+            "sha": "948d77f8b5fd8bcac7702c8d44051d1b777262b2",
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/948d77f8b5fd8bcac7702c8d44051d1b777262b2"
+        },
+        {
+            "author": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1149188?v=3",
+                "events_url": "https://api.github.com/users/cdesjardins/events{/privacy}",
+                "followers_url": "https://api.github.com/users/cdesjardins/followers",
+                "following_url": "https://api.github.com/users/cdesjardins/following{/other_user}",
+                "gists_url": "https://api.github.com/users/cdesjardins/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/cdesjardins",
+                "id": 1149188,
+                "login": "cdesjardins",
+                "organizations_url": "https://api.github.com/users/cdesjardins/orgs",
+                "received_events_url": "https://api.github.com/users/cdesjardins/received_events",
+                "repos_url": "https://api.github.com/users/cdesjardins/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/cdesjardins/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/cdesjardins/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/cdesjardins"
+            },
+            "comments_url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/dc58f9c948cf47a8d871b60d00638c4240cb5036/comments",
+            "commit": {
+                "author": {
+                    "date": "2012-08-16T22:58:13Z",
+                    "email": "git@chrisd.info",
+                    "name": "Chris Desjardins"
+                },
+                "comment_count": 0,
+                "committer": {
+                    "date": "2012-08-16T22:58:13Z",
+                    "email": "git@chrisd.info",
+                    "name": "Chris Desjardins"
+                },
+                "message": "More work on protocol class",
+                "tree": {
+                    "sha": "afa44b89849076d237aae0f4515db5ce9f812d8b",
+                    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/git/trees/afa44b89849076d237aae0f4515db5ce9f812d8b"
+                },
+                "url": "https://api.github.com/repos/venomous0x/WhatsAPI/git/commits/dc58f9c948cf47a8d871b60d00638c4240cb5036"
+            },
+            "committer": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1149188?v=3",
+                "events_url": "https://api.github.com/users/cdesjardins/events{/privacy}",
+                "followers_url": "https://api.github.com/users/cdesjardins/followers",
+                "following_url": "https://api.github.com/users/cdesjardins/following{/other_user}",
+                "gists_url": "https://api.github.com/users/cdesjardins/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/cdesjardins",
+                "id": 1149188,
+                "login": "cdesjardins",
+                "organizations_url": "https://api.github.com/users/cdesjardins/orgs",
+                "received_events_url": "https://api.github.com/users/cdesjardins/received_events",
+                "repos_url": "https://api.github.com/users/cdesjardins/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/cdesjardins/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/cdesjardins/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/cdesjardins"
+            },
+            "html_url": "https://github.com/venomous0x/WhatsAPI/commit/dc58f9c948cf47a8d871b60d00638c4240cb5036",
+            "parents": [
+                {
+                    "html_url": "https://github.com/venomous0x/WhatsAPI/commit/948d77f8b5fd8bcac7702c8d44051d1b777262b2",
+                    "sha": "948d77f8b5fd8bcac7702c8d44051d1b777262b2",
+                    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/948d77f8b5fd8bcac7702c8d44051d1b777262b2"
+                }
+            ],
+            "sha": "dc58f9c948cf47a8d871b60d00638c4240cb5036",
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/dc58f9c948cf47a8d871b60d00638c4240cb5036"
+        },
+        {
+            "author": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1149188?v=3",
+                "events_url": "https://api.github.com/users/cdesjardins/events{/privacy}",
+                "followers_url": "https://api.github.com/users/cdesjardins/followers",
+                "following_url": "https://api.github.com/users/cdesjardins/following{/other_user}",
+                "gists_url": "https://api.github.com/users/cdesjardins/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/cdesjardins",
+                "id": 1149188,
+                "login": "cdesjardins",
+                "organizations_url": "https://api.github.com/users/cdesjardins/orgs",
+                "received_events_url": "https://api.github.com/users/cdesjardins/received_events",
+                "repos_url": "https://api.github.com/users/cdesjardins/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/cdesjardins/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/cdesjardins/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/cdesjardins"
+            },
+            "comments_url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/1fc4a70a50346326af1a3c0928305cd6556f56ac/comments",
+            "commit": {
+                "author": {
+                    "date": "2012-08-16T23:11:44Z",
+                    "email": "git@chrisd.info",
+                    "name": "Chris Desjardins"
+                },
+                "comment_count": 0,
+                "committer": {
+                    "date": "2012-08-16T23:11:44Z",
+                    "email": "git@chrisd.info",
+                    "name": "Chris Desjardins"
+                },
+                "message": "Small fixes",
+                "tree": {
+                    "sha": "bd5ae13bc677279b743eb10cd8ffe48589b7576a",
+                    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/git/trees/bd5ae13bc677279b743eb10cd8ffe48589b7576a"
+                },
+                "url": "https://api.github.com/repos/venomous0x/WhatsAPI/git/commits/1fc4a70a50346326af1a3c0928305cd6556f56ac"
+            },
+            "committer": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1149188?v=3",
+                "events_url": "https://api.github.com/users/cdesjardins/events{/privacy}",
+                "followers_url": "https://api.github.com/users/cdesjardins/followers",
+                "following_url": "https://api.github.com/users/cdesjardins/following{/other_user}",
+                "gists_url": "https://api.github.com/users/cdesjardins/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/cdesjardins",
+                "id": 1149188,
+                "login": "cdesjardins",
+                "organizations_url": "https://api.github.com/users/cdesjardins/orgs",
+                "received_events_url": "https://api.github.com/users/cdesjardins/received_events",
+                "repos_url": "https://api.github.com/users/cdesjardins/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/cdesjardins/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/cdesjardins/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/cdesjardins"
+            },
+            "html_url": "https://github.com/venomous0x/WhatsAPI/commit/1fc4a70a50346326af1a3c0928305cd6556f56ac",
+            "parents": [
+                {
+                    "html_url": "https://github.com/venomous0x/WhatsAPI/commit/dc58f9c948cf47a8d871b60d00638c4240cb5036",
+                    "sha": "dc58f9c948cf47a8d871b60d00638c4240cb5036",
+                    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/dc58f9c948cf47a8d871b60d00638c4240cb5036"
+                }
+            ],
+            "sha": "1fc4a70a50346326af1a3c0928305cd6556f56ac",
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/1fc4a70a50346326af1a3c0928305cd6556f56ac"
+        },
+        {
+            "author": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1149188?v=3",
+                "events_url": "https://api.github.com/users/cdesjardins/events{/privacy}",
+                "followers_url": "https://api.github.com/users/cdesjardins/followers",
+                "following_url": "https://api.github.com/users/cdesjardins/following{/other_user}",
+                "gists_url": "https://api.github.com/users/cdesjardins/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/cdesjardins",
+                "id": 1149188,
+                "login": "cdesjardins",
+                "organizations_url": "https://api.github.com/users/cdesjardins/orgs",
+                "received_events_url": "https://api.github.com/users/cdesjardins/received_events",
+                "repos_url": "https://api.github.com/users/cdesjardins/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/cdesjardins/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/cdesjardins/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/cdesjardins"
+            },
+            "comments_url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/d2bccfabb9fac7d543f87be4370300e992bf98ba/comments",
+            "commit": {
+                "author": {
+                    "date": "2012-08-17T00:11:11Z",
+                    "email": "git@chrisd.info",
+                    "name": "Chris Desjardins"
+                },
+                "comment_count": 0,
+                "committer": {
+                    "date": "2012-08-17T00:11:11Z",
+                    "email": "git@chrisd.info",
+                    "name": "Chris Desjardins"
+                },
+                "message": "More work on the protocol processor",
+                "tree": {
+                    "sha": "0d5daba036d2ca72ecd5b5be22d3565a1f29b75c",
+                    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/git/trees/0d5daba036d2ca72ecd5b5be22d3565a1f29b75c"
+                },
+                "url": "https://api.github.com/repos/venomous0x/WhatsAPI/git/commits/d2bccfabb9fac7d543f87be4370300e992bf98ba"
+            },
+            "committer": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1149188?v=3",
+                "events_url": "https://api.github.com/users/cdesjardins/events{/privacy}",
+                "followers_url": "https://api.github.com/users/cdesjardins/followers",
+                "following_url": "https://api.github.com/users/cdesjardins/following{/other_user}",
+                "gists_url": "https://api.github.com/users/cdesjardins/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/cdesjardins",
+                "id": 1149188,
+                "login": "cdesjardins",
+                "organizations_url": "https://api.github.com/users/cdesjardins/orgs",
+                "received_events_url": "https://api.github.com/users/cdesjardins/received_events",
+                "repos_url": "https://api.github.com/users/cdesjardins/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/cdesjardins/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/cdesjardins/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/cdesjardins"
+            },
+            "html_url": "https://github.com/venomous0x/WhatsAPI/commit/d2bccfabb9fac7d543f87be4370300e992bf98ba",
+            "parents": [
+                {
+                    "html_url": "https://github.com/venomous0x/WhatsAPI/commit/1fc4a70a50346326af1a3c0928305cd6556f56ac",
+                    "sha": "1fc4a70a50346326af1a3c0928305cd6556f56ac",
+                    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/1fc4a70a50346326af1a3c0928305cd6556f56ac"
+                }
+            ],
+            "sha": "d2bccfabb9fac7d543f87be4370300e992bf98ba",
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/d2bccfabb9fac7d543f87be4370300e992bf98ba"
+        },
+        {
+            "author": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1238981?v=3",
+                "events_url": "https://api.github.com/users/poliva/events{/privacy}",
+                "followers_url": "https://api.github.com/users/poliva/followers",
+                "following_url": "https://api.github.com/users/poliva/following{/other_user}",
+                "gists_url": "https://api.github.com/users/poliva/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/poliva",
+                "id": 1238981,
+                "login": "poliva",
+                "organizations_url": "https://api.github.com/users/poliva/orgs",
+                "received_events_url": "https://api.github.com/users/poliva/received_events",
+                "repos_url": "https://api.github.com/users/poliva/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/poliva/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/poliva/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/poliva"
+            },
+            "comments_url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/3ce21c5f14d89eedd64e0fe1a27c05f2215ab0c2/comments",
+            "commit": {
+                "author": {
+                    "date": "2012-08-17T11:41:25Z",
+                    "email": "pau@eslack.org",
+                    "name": "Pau Oliva"
+                },
+                "comment_count": 0,
+                "committer": {
+                    "date": "2012-08-17T11:41:25Z",
+                    "email": "pau@eslack.org",
+                    "name": "Pau Oliva"
+                },
+                "message": "add basic command line client in php",
+                "tree": {
+                    "sha": "179ddda5b775ac22f9a53b379e98fd5a57376935",
+                    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/git/trees/179ddda5b775ac22f9a53b379e98fd5a57376935"
+                },
+                "url": "https://api.github.com/repos/venomous0x/WhatsAPI/git/commits/3ce21c5f14d89eedd64e0fe1a27c05f2215ab0c2"
+            },
+            "committer": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1238981?v=3",
+                "events_url": "https://api.github.com/users/poliva/events{/privacy}",
+                "followers_url": "https://api.github.com/users/poliva/followers",
+                "following_url": "https://api.github.com/users/poliva/following{/other_user}",
+                "gists_url": "https://api.github.com/users/poliva/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/poliva",
+                "id": 1238981,
+                "login": "poliva",
+                "organizations_url": "https://api.github.com/users/poliva/orgs",
+                "received_events_url": "https://api.github.com/users/poliva/received_events",
+                "repos_url": "https://api.github.com/users/poliva/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/poliva/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/poliva/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/poliva"
+            },
+            "html_url": "https://github.com/venomous0x/WhatsAPI/commit/3ce21c5f14d89eedd64e0fe1a27c05f2215ab0c2",
+            "parents": [
+                {
+                    "html_url": "https://github.com/venomous0x/WhatsAPI/commit/948d77f8b5fd8bcac7702c8d44051d1b777262b2",
+                    "sha": "948d77f8b5fd8bcac7702c8d44051d1b777262b2",
+                    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/948d77f8b5fd8bcac7702c8d44051d1b777262b2"
+                }
+            ],
+            "sha": "3ce21c5f14d89eedd64e0fe1a27c05f2215ab0c2",
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/3ce21c5f14d89eedd64e0fe1a27c05f2215ab0c2"
+        },
+        {
+            "author": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1238981?v=3",
+                "events_url": "https://api.github.com/users/poliva/events{/privacy}",
+                "followers_url": "https://api.github.com/users/poliva/followers",
+                "following_url": "https://api.github.com/users/poliva/following{/other_user}",
+                "gists_url": "https://api.github.com/users/poliva/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/poliva",
+                "id": 1238981,
+                "login": "poliva",
+                "organizations_url": "https://api.github.com/users/poliva/orgs",
+                "received_events_url": "https://api.github.com/users/poliva/received_events",
+                "repos_url": "https://api.github.com/users/poliva/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/poliva/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/poliva/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/poliva"
+            },
+            "comments_url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/c29f3cb0188e6c957b77ce585ce585816de3af08/comments",
+            "commit": {
+                "author": {
+                    "date": "2012-08-17T11:43:19Z",
+                    "email": "pau@eslack.org",
+                    "name": "Pau Oliva"
+                },
+                "comment_count": 0,
+                "committer": {
+                    "date": "2012-08-17T11:43:19Z",
+                    "email": "pau@eslack.org",
+                    "name": "Pau Oliva"
+                },
+                "message": "change display of received messages (no raw json)",
+                "tree": {
+                    "sha": "f9028eecf808757ec67c6d7a39535b6db0220f6f",
+                    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/git/trees/f9028eecf808757ec67c6d7a39535b6db0220f6f"
+                },
+                "url": "https://api.github.com/repos/venomous0x/WhatsAPI/git/commits/c29f3cb0188e6c957b77ce585ce585816de3af08"
+            },
+            "committer": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1238981?v=3",
+                "events_url": "https://api.github.com/users/poliva/events{/privacy}",
+                "followers_url": "https://api.github.com/users/poliva/followers",
+                "following_url": "https://api.github.com/users/poliva/following{/other_user}",
+                "gists_url": "https://api.github.com/users/poliva/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/poliva",
+                "id": 1238981,
+                "login": "poliva",
+                "organizations_url": "https://api.github.com/users/poliva/orgs",
+                "received_events_url": "https://api.github.com/users/poliva/received_events",
+                "repos_url": "https://api.github.com/users/poliva/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/poliva/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/poliva/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/poliva"
+            },
+            "html_url": "https://github.com/venomous0x/WhatsAPI/commit/c29f3cb0188e6c957b77ce585ce585816de3af08",
+            "parents": [
+                {
+                    "html_url": "https://github.com/venomous0x/WhatsAPI/commit/3ce21c5f14d89eedd64e0fe1a27c05f2215ab0c2",
+                    "sha": "3ce21c5f14d89eedd64e0fe1a27c05f2215ab0c2",
+                    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/3ce21c5f14d89eedd64e0fe1a27c05f2215ab0c2"
+                }
+            ],
+            "sha": "c29f3cb0188e6c957b77ce585ce585816de3af08",
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/c29f3cb0188e6c957b77ce585ce585816de3af08"
+        },
+        {
+            "author": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1238981?v=3",
+                "events_url": "https://api.github.com/users/poliva/events{/privacy}",
+                "followers_url": "https://api.github.com/users/poliva/followers",
+                "following_url": "https://api.github.com/users/poliva/following{/other_user}",
+                "gists_url": "https://api.github.com/users/poliva/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/poliva",
+                "id": 1238981,
+                "login": "poliva",
+                "organizations_url": "https://api.github.com/users/poliva/orgs",
+                "received_events_url": "https://api.github.com/users/poliva/received_events",
+                "repos_url": "https://api.github.com/users/poliva/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/poliva/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/poliva/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/poliva"
+            },
+            "comments_url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/93e65c18b685f62554bb482430d754fa9caad4b4/comments",
+            "commit": {
+                "author": {
+                    "date": "2012-08-17T12:16:17Z",
+                    "email": "pau@eslack.org",
+                    "name": "Pau Oliva"
+                },
+                "comment_count": 0,
+                "committer": {
+                    "date": "2012-08-17T12:16:17Z",
+                    "email": "pau@eslack.org",
+                    "name": "Pau Oliva"
+                },
+                "message": "add basic commands support in interactive mode",
+                "tree": {
+                    "sha": "add650f252f994966020e319843580a16a944511",
+                    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/git/trees/add650f252f994966020e319843580a16a944511"
+                },
+                "url": "https://api.github.com/repos/venomous0x/WhatsAPI/git/commits/93e65c18b685f62554bb482430d754fa9caad4b4"
+            },
+            "committer": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1238981?v=3",
+                "events_url": "https://api.github.com/users/poliva/events{/privacy}",
+                "followers_url": "https://api.github.com/users/poliva/followers",
+                "following_url": "https://api.github.com/users/poliva/following{/other_user}",
+                "gists_url": "https://api.github.com/users/poliva/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/poliva",
+                "id": 1238981,
+                "login": "poliva",
+                "organizations_url": "https://api.github.com/users/poliva/orgs",
+                "received_events_url": "https://api.github.com/users/poliva/received_events",
+                "repos_url": "https://api.github.com/users/poliva/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/poliva/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/poliva/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/poliva"
+            },
+            "html_url": "https://github.com/venomous0x/WhatsAPI/commit/93e65c18b685f62554bb482430d754fa9caad4b4",
+            "parents": [
+                {
+                    "html_url": "https://github.com/venomous0x/WhatsAPI/commit/c29f3cb0188e6c957b77ce585ce585816de3af08",
+                    "sha": "c29f3cb0188e6c957b77ce585ce585816de3af08",
+                    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/c29f3cb0188e6c957b77ce585ce585816de3af08"
+                }
+            ],
+            "sha": "93e65c18b685f62554bb482430d754fa9caad4b4",
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/93e65c18b685f62554bb482430d754fa9caad4b4"
+        },
+        {
+            "author": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1238981?v=3",
+                "events_url": "https://api.github.com/users/poliva/events{/privacy}",
+                "followers_url": "https://api.github.com/users/poliva/followers",
+                "following_url": "https://api.github.com/users/poliva/following{/other_user}",
+                "gists_url": "https://api.github.com/users/poliva/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/poliva",
+                "id": 1238981,
+                "login": "poliva",
+                "organizations_url": "https://api.github.com/users/poliva/orgs",
+                "received_events_url": "https://api.github.com/users/poliva/received_events",
+                "repos_url": "https://api.github.com/users/poliva/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/poliva/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/poliva/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/poliva"
+            },
+            "comments_url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/0e907b583bcc0a6396c0dddc0bb27283ca582724/comments",
+            "commit": {
+                "author": {
+                    "date": "2012-08-17T12:17:27Z",
+                    "email": "pau@eslack.org",
+                    "name": "Pau Oliva"
+                },
+                "comment_count": 0,
+                "committer": {
+                    "date": "2012-08-17T12:17:27Z",
+                    "email": "pau@eslack.org",
+                    "name": "Pau Oliva"
+                },
+                "message": "remove comment",
+                "tree": {
+                    "sha": "ca686e1c0f70327a0ae9d3a6918e05e2e90a456a",
+                    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/git/trees/ca686e1c0f70327a0ae9d3a6918e05e2e90a456a"
+                },
+                "url": "https://api.github.com/repos/venomous0x/WhatsAPI/git/commits/0e907b583bcc0a6396c0dddc0bb27283ca582724"
+            },
+            "committer": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1238981?v=3",
+                "events_url": "https://api.github.com/users/poliva/events{/privacy}",
+                "followers_url": "https://api.github.com/users/poliva/followers",
+                "following_url": "https://api.github.com/users/poliva/following{/other_user}",
+                "gists_url": "https://api.github.com/users/poliva/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/poliva",
+                "id": 1238981,
+                "login": "poliva",
+                "organizations_url": "https://api.github.com/users/poliva/orgs",
+                "received_events_url": "https://api.github.com/users/poliva/received_events",
+                "repos_url": "https://api.github.com/users/poliva/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/poliva/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/poliva/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/poliva"
+            },
+            "html_url": "https://github.com/venomous0x/WhatsAPI/commit/0e907b583bcc0a6396c0dddc0bb27283ca582724",
+            "parents": [
+                {
+                    "html_url": "https://github.com/venomous0x/WhatsAPI/commit/93e65c18b685f62554bb482430d754fa9caad4b4",
+                    "sha": "93e65c18b685f62554bb482430d754fa9caad4b4",
+                    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/93e65c18b685f62554bb482430d754fa9caad4b4"
+                }
+            ],
+            "sha": "0e907b583bcc0a6396c0dddc0bb27283ca582724",
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/0e907b583bcc0a6396c0dddc0bb27283ca582724"
+        },
+        {
+            "author": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1149188?v=3",
+                "events_url": "https://api.github.com/users/cdesjardins/events{/privacy}",
+                "followers_url": "https://api.github.com/users/cdesjardins/followers",
+                "following_url": "https://api.github.com/users/cdesjardins/following{/other_user}",
+                "gists_url": "https://api.github.com/users/cdesjardins/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/cdesjardins",
+                "id": 1149188,
+                "login": "cdesjardins",
+                "organizations_url": "https://api.github.com/users/cdesjardins/orgs",
+                "received_events_url": "https://api.github.com/users/cdesjardins/received_events",
+                "repos_url": "https://api.github.com/users/cdesjardins/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/cdesjardins/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/cdesjardins/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/cdesjardins"
+            },
+            "comments_url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/e99dcda3eb9df5d727ed8579eb53287d99aa1b4a/comments",
+            "commit": {
+                "author": {
+                    "date": "2012-08-21T18:44:09Z",
+                    "email": "git@chrisd.info",
+                    "name": "Chris Desjardins"
+                },
+                "comment_count": 0,
+                "committer": {
+                    "date": "2012-08-21T18:44:09Z",
+                    "email": "git@chrisd.info",
+                    "name": "Chris Desjardins"
+                },
+                "message": "Can now login with the protocol parser",
+                "tree": {
+                    "sha": "79a6e96fe1d2904b63c27289b8cbf28711b9b860",
+                    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/git/trees/79a6e96fe1d2904b63c27289b8cbf28711b9b860"
+                },
+                "url": "https://api.github.com/repos/venomous0x/WhatsAPI/git/commits/e99dcda3eb9df5d727ed8579eb53287d99aa1b4a"
+            },
+            "committer": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1149188?v=3",
+                "events_url": "https://api.github.com/users/cdesjardins/events{/privacy}",
+                "followers_url": "https://api.github.com/users/cdesjardins/followers",
+                "following_url": "https://api.github.com/users/cdesjardins/following{/other_user}",
+                "gists_url": "https://api.github.com/users/cdesjardins/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/cdesjardins",
+                "id": 1149188,
+                "login": "cdesjardins",
+                "organizations_url": "https://api.github.com/users/cdesjardins/orgs",
+                "received_events_url": "https://api.github.com/users/cdesjardins/received_events",
+                "repos_url": "https://api.github.com/users/cdesjardins/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/cdesjardins/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/cdesjardins/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/cdesjardins"
+            },
+            "html_url": "https://github.com/venomous0x/WhatsAPI/commit/e99dcda3eb9df5d727ed8579eb53287d99aa1b4a",
+            "parents": [
+                {
+                    "html_url": "https://github.com/venomous0x/WhatsAPI/commit/d2bccfabb9fac7d543f87be4370300e992bf98ba",
+                    "sha": "d2bccfabb9fac7d543f87be4370300e992bf98ba",
+                    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/d2bccfabb9fac7d543f87be4370300e992bf98ba"
+                }
+            ],
+            "sha": "e99dcda3eb9df5d727ed8579eb53287d99aa1b4a",
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/e99dcda3eb9df5d727ed8579eb53287d99aa1b4a"
+        },
+        {
+            "author": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1149188?v=3",
+                "events_url": "https://api.github.com/users/cdesjardins/events{/privacy}",
+                "followers_url": "https://api.github.com/users/cdesjardins/followers",
+                "following_url": "https://api.github.com/users/cdesjardins/following{/other_user}",
+                "gists_url": "https://api.github.com/users/cdesjardins/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/cdesjardins",
+                "id": 1149188,
+                "login": "cdesjardins",
+                "organizations_url": "https://api.github.com/users/cdesjardins/orgs",
+                "received_events_url": "https://api.github.com/users/cdesjardins/received_events",
+                "repos_url": "https://api.github.com/users/cdesjardins/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/cdesjardins/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/cdesjardins/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/cdesjardins"
+            },
+            "comments_url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/4af7a6f7c7933cb17c4d5c20ba1ca0764421de5c/comments",
+            "commit": {
+                "author": {
+                    "date": "2012-08-21T19:43:16Z",
+                    "email": "git@chrisd.info",
+                    "name": "Chris Desjardins"
+                },
+                "comment_count": 0,
+                "committer": {
+                    "date": "2012-08-21T19:43:16Z",
+                    "email": "git@chrisd.info",
+                    "name": "Chris Desjardins"
+                },
+                "message": "Merge branch 'master' of git://github.com/poliva/WhatsAPI",
+                "tree": {
+                    "sha": "11e6d07ef8ca99fd01d51807cb148a7376d7dd56",
+                    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/git/trees/11e6d07ef8ca99fd01d51807cb148a7376d7dd56"
+                },
+                "url": "https://api.github.com/repos/venomous0x/WhatsAPI/git/commits/4af7a6f7c7933cb17c4d5c20ba1ca0764421de5c"
+            },
+            "committer": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1149188?v=3",
+                "events_url": "https://api.github.com/users/cdesjardins/events{/privacy}",
+                "followers_url": "https://api.github.com/users/cdesjardins/followers",
+                "following_url": "https://api.github.com/users/cdesjardins/following{/other_user}",
+                "gists_url": "https://api.github.com/users/cdesjardins/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/cdesjardins",
+                "id": 1149188,
+                "login": "cdesjardins",
+                "organizations_url": "https://api.github.com/users/cdesjardins/orgs",
+                "received_events_url": "https://api.github.com/users/cdesjardins/received_events",
+                "repos_url": "https://api.github.com/users/cdesjardins/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/cdesjardins/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/cdesjardins/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/cdesjardins"
+            },
+            "html_url": "https://github.com/venomous0x/WhatsAPI/commit/4af7a6f7c7933cb17c4d5c20ba1ca0764421de5c",
+            "parents": [
+                {
+                    "html_url": "https://github.com/venomous0x/WhatsAPI/commit/e99dcda3eb9df5d727ed8579eb53287d99aa1b4a",
+                    "sha": "e99dcda3eb9df5d727ed8579eb53287d99aa1b4a",
+                    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/e99dcda3eb9df5d727ed8579eb53287d99aa1b4a"
+                },
+                {
+                    "html_url": "https://github.com/venomous0x/WhatsAPI/commit/0e907b583bcc0a6396c0dddc0bb27283ca582724",
+                    "sha": "0e907b583bcc0a6396c0dddc0bb27283ca582724",
+                    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/0e907b583bcc0a6396c0dddc0bb27283ca582724"
+                }
+            ],
+            "sha": "4af7a6f7c7933cb17c4d5c20ba1ca0764421de5c",
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/4af7a6f7c7933cb17c4d5c20ba1ca0764421de5c"
+        },
+        {
+            "author": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1149188?v=3",
+                "events_url": "https://api.github.com/users/cdesjardins/events{/privacy}",
+                "followers_url": "https://api.github.com/users/cdesjardins/followers",
+                "following_url": "https://api.github.com/users/cdesjardins/following{/other_user}",
+                "gists_url": "https://api.github.com/users/cdesjardins/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/cdesjardins",
+                "id": 1149188,
+                "login": "cdesjardins",
+                "organizations_url": "https://api.github.com/users/cdesjardins/orgs",
+                "received_events_url": "https://api.github.com/users/cdesjardins/received_events",
+                "repos_url": "https://api.github.com/users/cdesjardins/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/cdesjardins/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/cdesjardins/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/cdesjardins"
+            },
+            "comments_url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/c947afddc7ae1c1b0a3746cb6f8364b94538a638/comments",
+            "commit": {
+                "author": {
+                    "date": "2012-08-21T21:11:08Z",
+                    "email": "git@chrisd.info",
+                    "name": "Chris Desjardins"
+                },
+                "comment_count": 0,
+                "committer": {
+                    "date": "2012-08-21T21:11:08Z",
+                    "email": "git@chrisd.info",
+                    "name": "Chris Desjardins"
+                },
+                "message": "More updates on the protocol parser",
+                "tree": {
+                    "sha": "0708d9cfed72a81543026ac6f83aa8e7b8b9c239",
+                    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/git/trees/0708d9cfed72a81543026ac6f83aa8e7b8b9c239"
+                },
+                "url": "https://api.github.com/repos/venomous0x/WhatsAPI/git/commits/c947afddc7ae1c1b0a3746cb6f8364b94538a638"
+            },
+            "committer": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1149188?v=3",
+                "events_url": "https://api.github.com/users/cdesjardins/events{/privacy}",
+                "followers_url": "https://api.github.com/users/cdesjardins/followers",
+                "following_url": "https://api.github.com/users/cdesjardins/following{/other_user}",
+                "gists_url": "https://api.github.com/users/cdesjardins/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/cdesjardins",
+                "id": 1149188,
+                "login": "cdesjardins",
+                "organizations_url": "https://api.github.com/users/cdesjardins/orgs",
+                "received_events_url": "https://api.github.com/users/cdesjardins/received_events",
+                "repos_url": "https://api.github.com/users/cdesjardins/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/cdesjardins/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/cdesjardins/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/cdesjardins"
+            },
+            "html_url": "https://github.com/venomous0x/WhatsAPI/commit/c947afddc7ae1c1b0a3746cb6f8364b94538a638",
+            "parents": [
+                {
+                    "html_url": "https://github.com/venomous0x/WhatsAPI/commit/4af7a6f7c7933cb17c4d5c20ba1ca0764421de5c",
+                    "sha": "4af7a6f7c7933cb17c4d5c20ba1ca0764421de5c",
+                    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/4af7a6f7c7933cb17c4d5c20ba1ca0764421de5c"
+                }
+            ],
+            "sha": "c947afddc7ae1c1b0a3746cb6f8364b94538a638",
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/c947afddc7ae1c1b0a3746cb6f8364b94538a638"
+        },
+        {
+            "author": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1149188?v=3",
+                "events_url": "https://api.github.com/users/cdesjardins/events{/privacy}",
+                "followers_url": "https://api.github.com/users/cdesjardins/followers",
+                "following_url": "https://api.github.com/users/cdesjardins/following{/other_user}",
+                "gists_url": "https://api.github.com/users/cdesjardins/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/cdesjardins",
+                "id": 1149188,
+                "login": "cdesjardins",
+                "organizations_url": "https://api.github.com/users/cdesjardins/orgs",
+                "received_events_url": "https://api.github.com/users/cdesjardins/received_events",
+                "repos_url": "https://api.github.com/users/cdesjardins/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/cdesjardins/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/cdesjardins/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/cdesjardins"
+            },
+            "comments_url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/c0d0865c10f972387f0a39332614680a052477a2/comments",
+            "commit": {
+                "author": {
+                    "date": "2012-08-21T21:28:38Z",
+                    "email": "git@chrisd.info",
+                    "name": "Chris Desjardins"
+                },
+                "comment_count": 0,
+                "committer": {
+                    "date": "2012-08-21T21:28:38Z",
+                    "email": "git@chrisd.info",
+                    "name": "Chris Desjardins"
+                },
+                "message": "Merge branch 'master' of git://github.com/renner96/WhatsAPI with some small changes\n\nConflicts:\n\tphp/protocol/protocol.class.php",
+                "tree": {
+                    "sha": "6201bbe9061696b14d5bc970ac1f9819c59bce67",
+                    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/git/trees/6201bbe9061696b14d5bc970ac1f9819c59bce67"
+                },
+                "url": "https://api.github.com/repos/venomous0x/WhatsAPI/git/commits/c0d0865c10f972387f0a39332614680a052477a2"
+            },
+            "committer": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1149188?v=3",
+                "events_url": "https://api.github.com/users/cdesjardins/events{/privacy}",
+                "followers_url": "https://api.github.com/users/cdesjardins/followers",
+                "following_url": "https://api.github.com/users/cdesjardins/following{/other_user}",
+                "gists_url": "https://api.github.com/users/cdesjardins/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/cdesjardins",
+                "id": 1149188,
+                "login": "cdesjardins",
+                "organizations_url": "https://api.github.com/users/cdesjardins/orgs",
+                "received_events_url": "https://api.github.com/users/cdesjardins/received_events",
+                "repos_url": "https://api.github.com/users/cdesjardins/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/cdesjardins/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/cdesjardins/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/cdesjardins"
+            },
+            "html_url": "https://github.com/venomous0x/WhatsAPI/commit/c0d0865c10f972387f0a39332614680a052477a2",
+            "parents": [
+                {
+                    "html_url": "https://github.com/venomous0x/WhatsAPI/commit/16cef7a8dc777fe546976e19f43aae437b9c48e8",
+                    "sha": "16cef7a8dc777fe546976e19f43aae437b9c48e8",
+                    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/16cef7a8dc777fe546976e19f43aae437b9c48e8"
+                },
+                {
+                    "html_url": "https://github.com/venomous0x/WhatsAPI/commit/b3597b04a0fe1328cb0ff8494234c5d6adc8f5e5",
+                    "sha": "b3597b04a0fe1328cb0ff8494234c5d6adc8f5e5",
+                    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/b3597b04a0fe1328cb0ff8494234c5d6adc8f5e5"
+                }
+            ],
+            "sha": "c0d0865c10f972387f0a39332614680a052477a2",
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/c0d0865c10f972387f0a39332614680a052477a2"
+        },
+        {
+            "author": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1470363?v=3",
+                "events_url": "https://api.github.com/users/reneraab/events{/privacy}",
+                "followers_url": "https://api.github.com/users/reneraab/followers",
+                "following_url": "https://api.github.com/users/reneraab/following{/other_user}",
+                "gists_url": "https://api.github.com/users/reneraab/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/reneraab",
+                "id": 1470363,
+                "login": "reneraab",
+                "organizations_url": "https://api.github.com/users/reneraab/orgs",
+                "received_events_url": "https://api.github.com/users/reneraab/received_events",
+                "repos_url": "https://api.github.com/users/reneraab/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/reneraab/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/reneraab/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/reneraab"
+            },
+            "comments_url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/ca281a25238fba05203c29effe579c9c2f057a32/comments",
+            "commit": {
+                "author": {
+                    "date": "2012-08-22T17:38:43Z",
+                    "email": "renner.raab@gmail.com",
+                    "name": "René Raab"
+                },
+                "comment_count": 0,
+                "committer": {
+                    "date": "2012-08-22T17:38:43Z",
+                    "email": "renner.raab@gmail.com",
+                    "name": "René Raab"
+                },
+                "message": "Update php/protocol/protocol.class.php\n\nif not needed... foreach only runs if there are elements...",
+                "tree": {
+                    "sha": "1a326b94db8893f3be0417869081153907b36f39",
+                    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/git/trees/1a326b94db8893f3be0417869081153907b36f39"
+                },
+                "url": "https://api.github.com/repos/venomous0x/WhatsAPI/git/commits/ca281a25238fba05203c29effe579c9c2f057a32"
+            },
+            "committer": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1470363?v=3",
+                "events_url": "https://api.github.com/users/reneraab/events{/privacy}",
+                "followers_url": "https://api.github.com/users/reneraab/followers",
+                "following_url": "https://api.github.com/users/reneraab/following{/other_user}",
+                "gists_url": "https://api.github.com/users/reneraab/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/reneraab",
+                "id": 1470363,
+                "login": "reneraab",
+                "organizations_url": "https://api.github.com/users/reneraab/orgs",
+                "received_events_url": "https://api.github.com/users/reneraab/received_events",
+                "repos_url": "https://api.github.com/users/reneraab/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/reneraab/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/reneraab/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/reneraab"
+            },
+            "html_url": "https://github.com/venomous0x/WhatsAPI/commit/ca281a25238fba05203c29effe579c9c2f057a32",
+            "parents": [
+                {
+                    "html_url": "https://github.com/venomous0x/WhatsAPI/commit/c947afddc7ae1c1b0a3746cb6f8364b94538a638",
+                    "sha": "c947afddc7ae1c1b0a3746cb6f8364b94538a638",
+                    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/c947afddc7ae1c1b0a3746cb6f8364b94538a638"
+                }
+            ],
+            "sha": "ca281a25238fba05203c29effe579c9c2f057a32",
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/ca281a25238fba05203c29effe579c9c2f057a32"
+        },
+        {
+            "author": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1149188?v=3",
+                "events_url": "https://api.github.com/users/cdesjardins/events{/privacy}",
+                "followers_url": "https://api.github.com/users/cdesjardins/followers",
+                "following_url": "https://api.github.com/users/cdesjardins/following{/other_user}",
+                "gists_url": "https://api.github.com/users/cdesjardins/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/cdesjardins",
+                "id": 1149188,
+                "login": "cdesjardins",
+                "organizations_url": "https://api.github.com/users/cdesjardins/orgs",
+                "received_events_url": "https://api.github.com/users/cdesjardins/received_events",
+                "repos_url": "https://api.github.com/users/cdesjardins/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/cdesjardins/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/cdesjardins/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/cdesjardins"
+            },
+            "comments_url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/16cef7a8dc777fe546976e19f43aae437b9c48e8/comments",
+            "commit": {
+                "author": {
+                    "date": "2012-08-22T17:42:21Z",
+                    "email": "git@chrisd.info",
+                    "name": "Chris Desjardins"
+                },
+                "comment_count": 0,
+                "committer": {
+                    "date": "2012-08-22T17:42:21Z",
+                    "email": "git@chrisd.info",
+                    "name": "Chris Desjardins"
+                },
+                "message": "Merge pull request #1 from renner96/patch-1\n\nUpdate php/protocol/protocol.class.php",
+                "tree": {
+                    "sha": "1a326b94db8893f3be0417869081153907b36f39",
+                    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/git/trees/1a326b94db8893f3be0417869081153907b36f39"
+                },
+                "url": "https://api.github.com/repos/venomous0x/WhatsAPI/git/commits/16cef7a8dc777fe546976e19f43aae437b9c48e8"
+            },
+            "committer": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1149188?v=3",
+                "events_url": "https://api.github.com/users/cdesjardins/events{/privacy}",
+                "followers_url": "https://api.github.com/users/cdesjardins/followers",
+                "following_url": "https://api.github.com/users/cdesjardins/following{/other_user}",
+                "gists_url": "https://api.github.com/users/cdesjardins/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/cdesjardins",
+                "id": 1149188,
+                "login": "cdesjardins",
+                "organizations_url": "https://api.github.com/users/cdesjardins/orgs",
+                "received_events_url": "https://api.github.com/users/cdesjardins/received_events",
+                "repos_url": "https://api.github.com/users/cdesjardins/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/cdesjardins/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/cdesjardins/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/cdesjardins"
+            },
+            "html_url": "https://github.com/venomous0x/WhatsAPI/commit/16cef7a8dc777fe546976e19f43aae437b9c48e8",
+            "parents": [
+                {
+                    "html_url": "https://github.com/venomous0x/WhatsAPI/commit/c947afddc7ae1c1b0a3746cb6f8364b94538a638",
+                    "sha": "c947afddc7ae1c1b0a3746cb6f8364b94538a638",
+                    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/c947afddc7ae1c1b0a3746cb6f8364b94538a638"
+                },
+                {
+                    "html_url": "https://github.com/venomous0x/WhatsAPI/commit/ca281a25238fba05203c29effe579c9c2f057a32",
+                    "sha": "ca281a25238fba05203c29effe579c9c2f057a32",
+                    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/ca281a25238fba05203c29effe579c9c2f057a32"
+                }
+            ],
+            "sha": "16cef7a8dc777fe546976e19f43aae437b9c48e8",
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/16cef7a8dc777fe546976e19f43aae437b9c48e8"
+        },
+        {
+            "author": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1470363?v=3",
+                "events_url": "https://api.github.com/users/reneraab/events{/privacy}",
+                "followers_url": "https://api.github.com/users/reneraab/followers",
+                "following_url": "https://api.github.com/users/reneraab/following{/other_user}",
+                "gists_url": "https://api.github.com/users/reneraab/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/reneraab",
+                "id": 1470363,
+                "login": "reneraab",
+                "organizations_url": "https://api.github.com/users/reneraab/orgs",
+                "received_events_url": "https://api.github.com/users/reneraab/received_events",
+                "repos_url": "https://api.github.com/users/reneraab/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/reneraab/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/reneraab/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/reneraab"
+            },
+            "comments_url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/04e9acb20164af83566fb6aaaf8dfbe8463e2a59/comments",
+            "commit": {
+                "author": {
+                    "date": "2012-08-22T17:52:36Z",
+                    "email": "renner.raab@gmail.com",
+                    "name": "René Raab"
+                },
+                "comment_count": 0,
+                "committer": {
+                    "date": "2012-08-22T17:52:36Z",
+                    "email": "renner.raab@gmail.com",
+                    "name": "René Raab"
+                },
+                "message": "Update php/protocol/protocol.class.php\n\nsurrounding if when using foreach is redundant",
+                "tree": {
+                    "sha": "3e63d20235e5e9cbf1aade0c7db07c448fb13c16",
+                    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/git/trees/3e63d20235e5e9cbf1aade0c7db07c448fb13c16"
+                },
+                "url": "https://api.github.com/repos/venomous0x/WhatsAPI/git/commits/04e9acb20164af83566fb6aaaf8dfbe8463e2a59"
+            },
+            "committer": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1470363?v=3",
+                "events_url": "https://api.github.com/users/reneraab/events{/privacy}",
+                "followers_url": "https://api.github.com/users/reneraab/followers",
+                "following_url": "https://api.github.com/users/reneraab/following{/other_user}",
+                "gists_url": "https://api.github.com/users/reneraab/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/reneraab",
+                "id": 1470363,
+                "login": "reneraab",
+                "organizations_url": "https://api.github.com/users/reneraab/orgs",
+                "received_events_url": "https://api.github.com/users/reneraab/received_events",
+                "repos_url": "https://api.github.com/users/reneraab/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/reneraab/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/reneraab/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/reneraab"
+            },
+            "html_url": "https://github.com/venomous0x/WhatsAPI/commit/04e9acb20164af83566fb6aaaf8dfbe8463e2a59",
+            "parents": [
+                {
+                    "html_url": "https://github.com/venomous0x/WhatsAPI/commit/c947afddc7ae1c1b0a3746cb6f8364b94538a638",
+                    "sha": "c947afddc7ae1c1b0a3746cb6f8364b94538a638",
+                    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/c947afddc7ae1c1b0a3746cb6f8364b94538a638"
+                }
+            ],
+            "sha": "04e9acb20164af83566fb6aaaf8dfbe8463e2a59",
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/04e9acb20164af83566fb6aaaf8dfbe8463e2a59"
+        },
+        {
+            "author": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1470363?v=3",
+                "events_url": "https://api.github.com/users/reneraab/events{/privacy}",
+                "followers_url": "https://api.github.com/users/reneraab/followers",
+                "following_url": "https://api.github.com/users/reneraab/following{/other_user}",
+                "gists_url": "https://api.github.com/users/reneraab/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/reneraab",
+                "id": 1470363,
+                "login": "reneraab",
+                "organizations_url": "https://api.github.com/users/reneraab/orgs",
+                "received_events_url": "https://api.github.com/users/reneraab/received_events",
+                "repos_url": "https://api.github.com/users/reneraab/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/reneraab/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/reneraab/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/reneraab"
+            },
+            "comments_url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/bcf751065016f467406a8e7b49a88d786b4fd942/comments",
+            "commit": {
+                "author": {
+                    "date": "2012-08-22T17:53:15Z",
+                    "email": "renner.raab@gmail.com",
+                    "name": "René Raab"
+                },
+                "comment_count": 0,
+                "committer": {
+                    "date": "2012-08-22T17:53:15Z",
+                    "email": "renner.raab@gmail.com",
+                    "name": "René Raab"
+                },
+                "message": "Update php/protocol/protocol.class.php\n\nuse the \"==\" operator for comparison",
+                "tree": {
+                    "sha": "ee44ea158599070cc098bb4384b12ff3cfd46e8f",
+                    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/git/trees/ee44ea158599070cc098bb4384b12ff3cfd46e8f"
+                },
+                "url": "https://api.github.com/repos/venomous0x/WhatsAPI/git/commits/bcf751065016f467406a8e7b49a88d786b4fd942"
+            },
+            "committer": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1470363?v=3",
+                "events_url": "https://api.github.com/users/reneraab/events{/privacy}",
+                "followers_url": "https://api.github.com/users/reneraab/followers",
+                "following_url": "https://api.github.com/users/reneraab/following{/other_user}",
+                "gists_url": "https://api.github.com/users/reneraab/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/reneraab",
+                "id": 1470363,
+                "login": "reneraab",
+                "organizations_url": "https://api.github.com/users/reneraab/orgs",
+                "received_events_url": "https://api.github.com/users/reneraab/received_events",
+                "repos_url": "https://api.github.com/users/reneraab/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/reneraab/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/reneraab/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/reneraab"
+            },
+            "html_url": "https://github.com/venomous0x/WhatsAPI/commit/bcf751065016f467406a8e7b49a88d786b4fd942",
+            "parents": [
+                {
+                    "html_url": "https://github.com/venomous0x/WhatsAPI/commit/04e9acb20164af83566fb6aaaf8dfbe8463e2a59",
+                    "sha": "04e9acb20164af83566fb6aaaf8dfbe8463e2a59",
+                    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/04e9acb20164af83566fb6aaaf8dfbe8463e2a59"
+                }
+            ],
+            "sha": "bcf751065016f467406a8e7b49a88d786b4fd942",
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/bcf751065016f467406a8e7b49a88d786b4fd942"
+        },
+        {
+            "author": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1470363?v=3",
+                "events_url": "https://api.github.com/users/reneraab/events{/privacy}",
+                "followers_url": "https://api.github.com/users/reneraab/followers",
+                "following_url": "https://api.github.com/users/reneraab/following{/other_user}",
+                "gists_url": "https://api.github.com/users/reneraab/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/reneraab",
+                "id": 1470363,
+                "login": "reneraab",
+                "organizations_url": "https://api.github.com/users/reneraab/orgs",
+                "received_events_url": "https://api.github.com/users/reneraab/received_events",
+                "repos_url": "https://api.github.com/users/reneraab/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/reneraab/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/reneraab/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/reneraab"
+            },
+            "comments_url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/1f387e3de9c669d127c83df8f9b2679137944d4a/comments",
+            "commit": {
+                "author": {
+                    "date": "2012-08-22T17:54:38Z",
+                    "email": "renner.raab@gmail.com",
+                    "name": "René Raab"
+                },
+                "comment_count": 0,
+                "committer": {
+                    "date": "2012-08-22T17:54:38Z",
+                    "email": "renner.raab@gmail.com",
+                    "name": "René Raab"
+                },
+                "message": "Update php/protocol/protocol.class.php\n\nlooks better ;) maybe slightly faster",
+                "tree": {
+                    "sha": "c72def2590c895b4f635370219cd3f00a9ca815a",
+                    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/git/trees/c72def2590c895b4f635370219cd3f00a9ca815a"
+                },
+                "url": "https://api.github.com/repos/venomous0x/WhatsAPI/git/commits/1f387e3de9c669d127c83df8f9b2679137944d4a"
+            },
+            "committer": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1470363?v=3",
+                "events_url": "https://api.github.com/users/reneraab/events{/privacy}",
+                "followers_url": "https://api.github.com/users/reneraab/followers",
+                "following_url": "https://api.github.com/users/reneraab/following{/other_user}",
+                "gists_url": "https://api.github.com/users/reneraab/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/reneraab",
+                "id": 1470363,
+                "login": "reneraab",
+                "organizations_url": "https://api.github.com/users/reneraab/orgs",
+                "received_events_url": "https://api.github.com/users/reneraab/received_events",
+                "repos_url": "https://api.github.com/users/reneraab/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/reneraab/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/reneraab/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/reneraab"
+            },
+            "html_url": "https://github.com/venomous0x/WhatsAPI/commit/1f387e3de9c669d127c83df8f9b2679137944d4a",
+            "parents": [
+                {
+                    "html_url": "https://github.com/venomous0x/WhatsAPI/commit/bcf751065016f467406a8e7b49a88d786b4fd942",
+                    "sha": "bcf751065016f467406a8e7b49a88d786b4fd942",
+                    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/bcf751065016f467406a8e7b49a88d786b4fd942"
+                }
+            ],
+            "sha": "1f387e3de9c669d127c83df8f9b2679137944d4a",
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/1f387e3de9c669d127c83df8f9b2679137944d4a"
+        },
+        {
+            "author": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1470363?v=3",
+                "events_url": "https://api.github.com/users/reneraab/events{/privacy}",
+                "followers_url": "https://api.github.com/users/reneraab/followers",
+                "following_url": "https://api.github.com/users/reneraab/following{/other_user}",
+                "gists_url": "https://api.github.com/users/reneraab/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/reneraab",
+                "id": 1470363,
+                "login": "reneraab",
+                "organizations_url": "https://api.github.com/users/reneraab/orgs",
+                "received_events_url": "https://api.github.com/users/reneraab/received_events",
+                "repos_url": "https://api.github.com/users/reneraab/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/reneraab/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/reneraab/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/reneraab"
+            },
+            "comments_url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/b3597b04a0fe1328cb0ff8494234c5d6adc8f5e5/comments",
+            "commit": {
+                "author": {
+                    "date": "2012-08-22T17:56:22Z",
+                    "email": "renner.raab@gmail.com",
+                    "name": "René Raab"
+                },
+                "comment_count": 0,
+                "committer": {
+                    "date": "2012-08-22T17:56:22Z",
+                    "email": "renner.raab@gmail.com",
+                    "name": "René Raab"
+                },
+                "message": "Update php/protocol/protocol.class.php",
+                "tree": {
+                    "sha": "f55cac73cb2850a082e120d6e1836debe5df003a",
+                    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/git/trees/f55cac73cb2850a082e120d6e1836debe5df003a"
+                },
+                "url": "https://api.github.com/repos/venomous0x/WhatsAPI/git/commits/b3597b04a0fe1328cb0ff8494234c5d6adc8f5e5"
+            },
+            "committer": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1470363?v=3",
+                "events_url": "https://api.github.com/users/reneraab/events{/privacy}",
+                "followers_url": "https://api.github.com/users/reneraab/followers",
+                "following_url": "https://api.github.com/users/reneraab/following{/other_user}",
+                "gists_url": "https://api.github.com/users/reneraab/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/reneraab",
+                "id": 1470363,
+                "login": "reneraab",
+                "organizations_url": "https://api.github.com/users/reneraab/orgs",
+                "received_events_url": "https://api.github.com/users/reneraab/received_events",
+                "repos_url": "https://api.github.com/users/reneraab/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/reneraab/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/reneraab/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/reneraab"
+            },
+            "html_url": "https://github.com/venomous0x/WhatsAPI/commit/b3597b04a0fe1328cb0ff8494234c5d6adc8f5e5",
+            "parents": [
+                {
+                    "html_url": "https://github.com/venomous0x/WhatsAPI/commit/1f387e3de9c669d127c83df8f9b2679137944d4a",
+                    "sha": "1f387e3de9c669d127c83df8f9b2679137944d4a",
+                    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/1f387e3de9c669d127c83df8f9b2679137944d4a"
+                }
+            ],
+            "sha": "b3597b04a0fe1328cb0ff8494234c5d6adc8f5e5",
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/b3597b04a0fe1328cb0ff8494234c5d6adc8f5e5"
+        },
+        {
+            "author": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1149188?v=3",
+                "events_url": "https://api.github.com/users/cdesjardins/events{/privacy}",
+                "followers_url": "https://api.github.com/users/cdesjardins/followers",
+                "following_url": "https://api.github.com/users/cdesjardins/following{/other_user}",
+                "gists_url": "https://api.github.com/users/cdesjardins/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/cdesjardins",
+                "id": 1149188,
+                "login": "cdesjardins",
+                "organizations_url": "https://api.github.com/users/cdesjardins/orgs",
+                "received_events_url": "https://api.github.com/users/cdesjardins/received_events",
+                "repos_url": "https://api.github.com/users/cdesjardins/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/cdesjardins/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/cdesjardins/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/cdesjardins"
+            },
+            "comments_url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/800c90c502ae9a4407539c79841d9ca67b208350/comments",
+            "commit": {
+                "author": {
+                    "date": "2012-08-30T10:08:29Z",
+                    "email": "git@chrisd.info",
+                    "name": "Chris Desjardins"
+                },
+                "comment_count": 0,
+                "committer": {
+                    "date": "2012-08-30T10:08:29Z",
+                    "email": "git@chrisd.info",
+                    "name": "Chris Desjardins"
+                },
+                "message": "Merge branch 'master' of git://github.com/venomous0x/WhatsAPI\n\nConflicts:\n\tphp/whatsapp.class.php",
+                "tree": {
+                    "sha": "9bc5c28fde82cbadfc2e424ef618b9da372c52b4",
+                    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/git/trees/9bc5c28fde82cbadfc2e424ef618b9da372c52b4"
+                },
+                "url": "https://api.github.com/repos/venomous0x/WhatsAPI/git/commits/800c90c502ae9a4407539c79841d9ca67b208350"
+            },
+            "committer": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1149188?v=3",
+                "events_url": "https://api.github.com/users/cdesjardins/events{/privacy}",
+                "followers_url": "https://api.github.com/users/cdesjardins/followers",
+                "following_url": "https://api.github.com/users/cdesjardins/following{/other_user}",
+                "gists_url": "https://api.github.com/users/cdesjardins/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/cdesjardins",
+                "id": 1149188,
+                "login": "cdesjardins",
+                "organizations_url": "https://api.github.com/users/cdesjardins/orgs",
+                "received_events_url": "https://api.github.com/users/cdesjardins/received_events",
+                "repos_url": "https://api.github.com/users/cdesjardins/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/cdesjardins/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/cdesjardins/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/cdesjardins"
+            },
+            "html_url": "https://github.com/venomous0x/WhatsAPI/commit/800c90c502ae9a4407539c79841d9ca67b208350",
+            "parents": [
+                {
+                    "html_url": "https://github.com/venomous0x/WhatsAPI/commit/c0d0865c10f972387f0a39332614680a052477a2",
+                    "sha": "c0d0865c10f972387f0a39332614680a052477a2",
+                    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/c0d0865c10f972387f0a39332614680a052477a2"
+                },
+                {
+                    "html_url": "https://github.com/venomous0x/WhatsAPI/commit/5f3bdbc2fd0e8758ea813882135f4a467a363745",
+                    "sha": "5f3bdbc2fd0e8758ea813882135f4a467a363745",
+                    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/5f3bdbc2fd0e8758ea813882135f4a467a363745"
+                }
+            ],
+            "sha": "800c90c502ae9a4407539c79841d9ca67b208350",
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/800c90c502ae9a4407539c79841d9ca67b208350"
+        },
+        {
+            "author": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1149188?v=3",
+                "events_url": "https://api.github.com/users/cdesjardins/events{/privacy}",
+                "followers_url": "https://api.github.com/users/cdesjardins/followers",
+                "following_url": "https://api.github.com/users/cdesjardins/following{/other_user}",
+                "gists_url": "https://api.github.com/users/cdesjardins/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/cdesjardins",
+                "id": 1149188,
+                "login": "cdesjardins",
+                "organizations_url": "https://api.github.com/users/cdesjardins/orgs",
+                "received_events_url": "https://api.github.com/users/cdesjardins/received_events",
+                "repos_url": "https://api.github.com/users/cdesjardins/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/cdesjardins/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/cdesjardins/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/cdesjardins"
+            },
+            "comments_url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/329e73da3d4c1a918b574b2db39ca3d24b02cec3/comments",
+            "commit": {
+                "author": {
+                    "date": "2012-09-06T17:42:16Z",
+                    "email": "git@chrisd.info",
+                    "name": "Chris Desjardins"
+                },
+                "comment_count": 0,
+                "committer": {
+                    "date": "2012-09-06T17:42:16Z",
+                    "email": "git@chrisd.info",
+                    "name": "Chris Desjardins"
+                },
+                "message": "Small updates to the protocol class",
+                "tree": {
+                    "sha": "7442b0ca43af47eb7d9e0f828f7f47fef7f4ae90",
+                    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/git/trees/7442b0ca43af47eb7d9e0f828f7f47fef7f4ae90"
+                },
+                "url": "https://api.github.com/repos/venomous0x/WhatsAPI/git/commits/329e73da3d4c1a918b574b2db39ca3d24b02cec3"
+            },
+            "committer": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1149188?v=3",
+                "events_url": "https://api.github.com/users/cdesjardins/events{/privacy}",
+                "followers_url": "https://api.github.com/users/cdesjardins/followers",
+                "following_url": "https://api.github.com/users/cdesjardins/following{/other_user}",
+                "gists_url": "https://api.github.com/users/cdesjardins/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/cdesjardins",
+                "id": 1149188,
+                "login": "cdesjardins",
+                "organizations_url": "https://api.github.com/users/cdesjardins/orgs",
+                "received_events_url": "https://api.github.com/users/cdesjardins/received_events",
+                "repos_url": "https://api.github.com/users/cdesjardins/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/cdesjardins/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/cdesjardins/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/cdesjardins"
+            },
+            "html_url": "https://github.com/venomous0x/WhatsAPI/commit/329e73da3d4c1a918b574b2db39ca3d24b02cec3",
+            "parents": [
+                {
+                    "html_url": "https://github.com/venomous0x/WhatsAPI/commit/800c90c502ae9a4407539c79841d9ca67b208350",
+                    "sha": "800c90c502ae9a4407539c79841d9ca67b208350",
+                    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/800c90c502ae9a4407539c79841d9ca67b208350"
+                }
+            ],
+            "sha": "329e73da3d4c1a918b574b2db39ca3d24b02cec3",
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/329e73da3d4c1a918b574b2db39ca3d24b02cec3"
+        },
+        {
+            "author": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1149188?v=3",
+                "events_url": "https://api.github.com/users/cdesjardins/events{/privacy}",
+                "followers_url": "https://api.github.com/users/cdesjardins/followers",
+                "following_url": "https://api.github.com/users/cdesjardins/following{/other_user}",
+                "gists_url": "https://api.github.com/users/cdesjardins/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/cdesjardins",
+                "id": 1149188,
+                "login": "cdesjardins",
+                "organizations_url": "https://api.github.com/users/cdesjardins/orgs",
+                "received_events_url": "https://api.github.com/users/cdesjardins/received_events",
+                "repos_url": "https://api.github.com/users/cdesjardins/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/cdesjardins/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/cdesjardins/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/cdesjardins"
+            },
+            "comments_url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/a0123f11cd4e29addea35ef1d1161503e57f83a2/comments",
+            "commit": {
+                "author": {
+                    "date": "2012-09-09T10:28:34Z",
+                    "email": "git@chrisd.info",
+                    "name": "Chris Desjardins"
+                },
+                "comment_count": 0,
+                "committer": {
+                    "date": "2012-09-09T10:28:34Z",
+                    "email": "git@chrisd.info",
+                    "name": "Chris Desjardins"
+                },
+                "message": "Merge branch 'master' of github.com:cdesjardins/WhatsAPI",
+                "tree": {
+                    "sha": "400aea982ce5fa95f6f2d03039663d4a6ed21b5e",
+                    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/git/trees/400aea982ce5fa95f6f2d03039663d4a6ed21b5e"
+                },
+                "url": "https://api.github.com/repos/venomous0x/WhatsAPI/git/commits/a0123f11cd4e29addea35ef1d1161503e57f83a2"
+            },
+            "committer": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1149188?v=3",
+                "events_url": "https://api.github.com/users/cdesjardins/events{/privacy}",
+                "followers_url": "https://api.github.com/users/cdesjardins/followers",
+                "following_url": "https://api.github.com/users/cdesjardins/following{/other_user}",
+                "gists_url": "https://api.github.com/users/cdesjardins/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/cdesjardins",
+                "id": 1149188,
+                "login": "cdesjardins",
+                "organizations_url": "https://api.github.com/users/cdesjardins/orgs",
+                "received_events_url": "https://api.github.com/users/cdesjardins/received_events",
+                "repos_url": "https://api.github.com/users/cdesjardins/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/cdesjardins/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/cdesjardins/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/cdesjardins"
+            },
+            "html_url": "https://github.com/venomous0x/WhatsAPI/commit/a0123f11cd4e29addea35ef1d1161503e57f83a2",
+            "parents": [
+                {
+                    "html_url": "https://github.com/venomous0x/WhatsAPI/commit/329e73da3d4c1a918b574b2db39ca3d24b02cec3",
+                    "sha": "329e73da3d4c1a918b574b2db39ca3d24b02cec3",
+                    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/329e73da3d4c1a918b574b2db39ca3d24b02cec3"
+                },
+                {
+                    "html_url": "https://github.com/venomous0x/WhatsAPI/commit/58af68702213c7d63ad6f00a904e58c46e2a6b72",
+                    "sha": "58af68702213c7d63ad6f00a904e58c46e2a6b72",
+                    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/58af68702213c7d63ad6f00a904e58c46e2a6b72"
+                }
+            ],
+            "sha": "a0123f11cd4e29addea35ef1d1161503e57f83a2",
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/a0123f11cd4e29addea35ef1d1161503e57f83a2"
+        },
+        {
+            "author": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1149188?v=3",
+                "events_url": "https://api.github.com/users/cdesjardins/events{/privacy}",
+                "followers_url": "https://api.github.com/users/cdesjardins/followers",
+                "following_url": "https://api.github.com/users/cdesjardins/following{/other_user}",
+                "gists_url": "https://api.github.com/users/cdesjardins/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/cdesjardins",
+                "id": 1149188,
+                "login": "cdesjardins",
+                "organizations_url": "https://api.github.com/users/cdesjardins/orgs",
+                "received_events_url": "https://api.github.com/users/cdesjardins/received_events",
+                "repos_url": "https://api.github.com/users/cdesjardins/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/cdesjardins/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/cdesjardins/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/cdesjardins"
+            },
+            "comments_url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/e6559ff6ed3584f110a61710b7b1bcca6e7c762a/comments",
+            "commit": {
+                "author": {
+                    "date": "2012-09-09T10:58:04Z",
+                    "email": "git@chrisd.info",
+                    "name": "Chris Desjardins"
+                },
+                "comment_count": 0,
+                "committer": {
+                    "date": "2012-09-09T10:58:04Z",
+                    "email": "git@chrisd.info",
+                    "name": "Chris Desjardins"
+                },
+                "message": "Added debug flag...",
+                "tree": {
+                    "sha": "e999c215f982605c31b7d4a7719549942eecaf83",
+                    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/git/trees/e999c215f982605c31b7d4a7719549942eecaf83"
+                },
+                "url": "https://api.github.com/repos/venomous0x/WhatsAPI/git/commits/e6559ff6ed3584f110a61710b7b1bcca6e7c762a"
+            },
+            "committer": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1149188?v=3",
+                "events_url": "https://api.github.com/users/cdesjardins/events{/privacy}",
+                "followers_url": "https://api.github.com/users/cdesjardins/followers",
+                "following_url": "https://api.github.com/users/cdesjardins/following{/other_user}",
+                "gists_url": "https://api.github.com/users/cdesjardins/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/cdesjardins",
+                "id": 1149188,
+                "login": "cdesjardins",
+                "organizations_url": "https://api.github.com/users/cdesjardins/orgs",
+                "received_events_url": "https://api.github.com/users/cdesjardins/received_events",
+                "repos_url": "https://api.github.com/users/cdesjardins/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/cdesjardins/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/cdesjardins/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/cdesjardins"
+            },
+            "html_url": "https://github.com/venomous0x/WhatsAPI/commit/e6559ff6ed3584f110a61710b7b1bcca6e7c762a",
+            "parents": [
+                {
+                    "html_url": "https://github.com/venomous0x/WhatsAPI/commit/a0123f11cd4e29addea35ef1d1161503e57f83a2",
+                    "sha": "a0123f11cd4e29addea35ef1d1161503e57f83a2",
+                    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/a0123f11cd4e29addea35ef1d1161503e57f83a2"
+                }
+            ],
+            "sha": "e6559ff6ed3584f110a61710b7b1bcca6e7c762a",
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/e6559ff6ed3584f110a61710b7b1bcca6e7c762a"
+        },
+        {
+            "author": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1149188?v=3",
+                "events_url": "https://api.github.com/users/cdesjardins/events{/privacy}",
+                "followers_url": "https://api.github.com/users/cdesjardins/followers",
+                "following_url": "https://api.github.com/users/cdesjardins/following{/other_user}",
+                "gists_url": "https://api.github.com/users/cdesjardins/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/cdesjardins",
+                "id": 1149188,
+                "login": "cdesjardins",
+                "organizations_url": "https://api.github.com/users/cdesjardins/orgs",
+                "received_events_url": "https://api.github.com/users/cdesjardins/received_events",
+                "repos_url": "https://api.github.com/users/cdesjardins/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/cdesjardins/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/cdesjardins/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/cdesjardins"
+            },
+            "comments_url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/58af68702213c7d63ad6f00a904e58c46e2a6b72/comments",
+            "commit": {
+                "author": {
+                    "date": "2012-09-10T08:21:37Z",
+                    "email": "git@chrisd.info",
+                    "name": "Chris Desjardins"
+                },
+                "comment_count": 0,
+                "committer": {
+                    "date": "2012-09-10T08:21:37Z",
+                    "email": "git@chrisd.info",
+                    "name": "Chris Desjardins"
+                },
+                "message": "Fixed login again",
+                "tree": {
+                    "sha": "f84ed95befb9c5c20fdcef4eef7cea001fc425bf",
+                    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/git/trees/f84ed95befb9c5c20fdcef4eef7cea001fc425bf"
+                },
+                "url": "https://api.github.com/repos/venomous0x/WhatsAPI/git/commits/58af68702213c7d63ad6f00a904e58c46e2a6b72"
+            },
+            "committer": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1149188?v=3",
+                "events_url": "https://api.github.com/users/cdesjardins/events{/privacy}",
+                "followers_url": "https://api.github.com/users/cdesjardins/followers",
+                "following_url": "https://api.github.com/users/cdesjardins/following{/other_user}",
+                "gists_url": "https://api.github.com/users/cdesjardins/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/cdesjardins",
+                "id": 1149188,
+                "login": "cdesjardins",
+                "organizations_url": "https://api.github.com/users/cdesjardins/orgs",
+                "received_events_url": "https://api.github.com/users/cdesjardins/received_events",
+                "repos_url": "https://api.github.com/users/cdesjardins/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/cdesjardins/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/cdesjardins/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/cdesjardins"
+            },
+            "html_url": "https://github.com/venomous0x/WhatsAPI/commit/58af68702213c7d63ad6f00a904e58c46e2a6b72",
+            "parents": [
+                {
+                    "html_url": "https://github.com/venomous0x/WhatsAPI/commit/800c90c502ae9a4407539c79841d9ca67b208350",
+                    "sha": "800c90c502ae9a4407539c79841d9ca67b208350",
+                    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/800c90c502ae9a4407539c79841d9ca67b208350"
+                }
+            ],
+            "sha": "58af68702213c7d63ad6f00a904e58c46e2a6b72",
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/58af68702213c7d63ad6f00a904e58c46e2a6b72"
+        },
+        {
+            "author": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1149188?v=3",
+                "events_url": "https://api.github.com/users/cdesjardins/events{/privacy}",
+                "followers_url": "https://api.github.com/users/cdesjardins/followers",
+                "following_url": "https://api.github.com/users/cdesjardins/following{/other_user}",
+                "gists_url": "https://api.github.com/users/cdesjardins/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/cdesjardins",
+                "id": 1149188,
+                "login": "cdesjardins",
+                "organizations_url": "https://api.github.com/users/cdesjardins/orgs",
+                "received_events_url": "https://api.github.com/users/cdesjardins/received_events",
+                "repos_url": "https://api.github.com/users/cdesjardins/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/cdesjardins/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/cdesjardins/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/cdesjardins"
+            },
+            "comments_url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/064ec5556ecbcb2392546e7cc937e36f7c2d4716/comments",
+            "commit": {
+                "author": {
+                    "date": "2012-09-10T17:28:15Z",
+                    "email": "git@chrisd.info",
+                    "name": "Chris Desjardins"
+                },
+                "comment_count": 0,
+                "committer": {
+                    "date": "2012-09-10T17:28:15Z",
+                    "email": "git@chrisd.info",
+                    "name": "Chris Desjardins"
+                },
+                "message": "get rid of the protocol directory in prep for merge.",
+                "tree": {
+                    "sha": "64025e7ebbb794f2012a77142c982b5f259fdad3",
+                    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/git/trees/64025e7ebbb794f2012a77142c982b5f259fdad3"
+                },
+                "url": "https://api.github.com/repos/venomous0x/WhatsAPI/git/commits/064ec5556ecbcb2392546e7cc937e36f7c2d4716"
+            },
+            "committer": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1149188?v=3",
+                "events_url": "https://api.github.com/users/cdesjardins/events{/privacy}",
+                "followers_url": "https://api.github.com/users/cdesjardins/followers",
+                "following_url": "https://api.github.com/users/cdesjardins/following{/other_user}",
+                "gists_url": "https://api.github.com/users/cdesjardins/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/cdesjardins",
+                "id": 1149188,
+                "login": "cdesjardins",
+                "organizations_url": "https://api.github.com/users/cdesjardins/orgs",
+                "received_events_url": "https://api.github.com/users/cdesjardins/received_events",
+                "repos_url": "https://api.github.com/users/cdesjardins/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/cdesjardins/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/cdesjardins/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/cdesjardins"
+            },
+            "html_url": "https://github.com/venomous0x/WhatsAPI/commit/064ec5556ecbcb2392546e7cc937e36f7c2d4716",
+            "parents": [
+                {
+                    "html_url": "https://github.com/venomous0x/WhatsAPI/commit/e6559ff6ed3584f110a61710b7b1bcca6e7c762a",
+                    "sha": "e6559ff6ed3584f110a61710b7b1bcca6e7c762a",
+                    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/e6559ff6ed3584f110a61710b7b1bcca6e7c762a"
+                }
+            ],
+            "sha": "064ec5556ecbcb2392546e7cc937e36f7c2d4716",
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/064ec5556ecbcb2392546e7cc937e36f7c2d4716"
+        }
+    ],
+    "commits_url": "https://api.github.com/repos/venomous0x/WhatsAPI/pulls/20/commits",
+    "created_at": "2012-07-10T07:05:19Z",
+    "diff_url": "https://github.com/venomous0x/WhatsAPI/pull/20.diff",
+    "head": {
+        "label": "cdesjardins:master",
+        "ref": "master",
+        "repo": null,
+        "sha": "064ec5556ecbcb2392546e7cc937e36f7c2d4716",
+        "user": {
+            "avatar_url": "https://avatars.githubusercontent.com/u/1149188?v=3",
+            "events_url": "https://api.github.com/users/cdesjardins/events{/privacy}",
+            "followers_url": "https://api.github.com/users/cdesjardins/followers",
+            "following_url": "https://api.github.com/users/cdesjardins/following{/other_user}",
+            "gists_url": "https://api.github.com/users/cdesjardins/gists{/gist_id}",
+            "gravatar_id": "",
+            "html_url": "https://github.com/cdesjardins",
+            "id": 1149188,
+            "login": "cdesjardins",
+            "organizations_url": "https://api.github.com/users/cdesjardins/orgs",
+            "received_events_url": "https://api.github.com/users/cdesjardins/received_events",
+            "repos_url": "https://api.github.com/users/cdesjardins/repos",
+            "site_admin": false,
+            "starred_url": "https://api.github.com/users/cdesjardins/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/cdesjardins/subscriptions",
+            "type": "User",
+            "url": "https://api.github.com/users/cdesjardins"
+        }
+    },
+    "html_url": "https://github.com/venomous0x/WhatsAPI/pull/20",
+    "id": 1753582,
+    "issue_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/20",
+    "locked": false,
+    "merge_commit_sha": "db4c689790bb52f5eced5d0cd0ad9e17a5360ce0",
+    "merged_at": "2012-09-10T18:27:02Z",
+    "milestone": null,
+    "number": 20,
+    "patch_url": "https://github.com/venomous0x/WhatsAPI/pull/20.patch",
+    "review_comment_url": "https://api.github.com/repos/venomous0x/WhatsAPI/pulls/comments{/number}",
+    "review_comments_url": "https://api.github.com/repos/venomous0x/WhatsAPI/pulls/20/comments",
+    "state": "closed",
+    "statuses_url": "https://api.github.com/repos/venomous0x/WhatsAPI/statuses/064ec5556ecbcb2392546e7cc937e36f7c2d4716",
+    "title": "Add code to handle incomplete messages",
+    "updated_at": "2014-06-16T14:40:10Z",
+    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/pulls/20",
+    "user": {
+        "avatar_url": "https://avatars.githubusercontent.com/u/1149188?v=3",
+        "events_url": "https://api.github.com/users/cdesjardins/events{/privacy}",
+        "followers_url": "https://api.github.com/users/cdesjardins/followers",
+        "following_url": "https://api.github.com/users/cdesjardins/following{/other_user}",
+        "gists_url": "https://api.github.com/users/cdesjardins/gists{/gist_id}",
+        "gravatar_id": "",
+        "html_url": "https://github.com/cdesjardins",
+        "id": 1149188,
+        "login": "cdesjardins",
+        "organizations_url": "https://api.github.com/users/cdesjardins/orgs",
+        "received_events_url": "https://api.github.com/users/cdesjardins/received_events",
+        "repos_url": "https://api.github.com/users/cdesjardins/repos",
+        "site_admin": false,
+        "starred_url": "https://api.github.com/users/cdesjardins/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/cdesjardins/subscriptions",
+        "type": "User",
+        "url": "https://api.github.com/users/cdesjardins"
+    }
+}

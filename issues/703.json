@@ -1,0 +1,133 @@
+{
+    "assignee": null,
+    "body": "Hi, an error sometimes occured when try to login with password. Error message:\r\n\r\nNotice: fwrite(): send of 35 bytes failed with errno=32 Broken pipe in /opt/lampp/htdocs/cmd/whatsprot.class.php on line 2628\r\n\r\nNotice: fwrite(): send of 6 bytes failed with errno=32 Broken pipe in /opt/lampp/htdocs/cmd/whatsprot.class.php on line 2628\r\n\r\nNotice: fwrite(): send of 130 bytes failed with errno=32 Broken pipe in /opt/lampp/htdocs/cmd/whatsprot.class.php on line 2628\r\n\r\n\r\nthen login fail, what can I do to solve this problem? thanks all",
+    "closed_at": "2014-07-06T12:17:07Z",
+    "comment_data": [
+        {
+            "body": "I found that the whatsapp banned my server's IP for a while.",
+            "created_at": "2014-04-28T05:54:43Z",
+            "html_url": "https://github.com/venomous0x/WhatsAPI/issues/703#issuecomment-41525238",
+            "id": 41525238,
+            "issue_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/703",
+            "updated_at": "2014-04-28T05:54:43Z",
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/comments/41525238",
+            "user": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/7278262?v=3",
+                "events_url": "https://api.github.com/users/blueslmj/events{/privacy}",
+                "followers_url": "https://api.github.com/users/blueslmj/followers",
+                "following_url": "https://api.github.com/users/blueslmj/following{/other_user}",
+                "gists_url": "https://api.github.com/users/blueslmj/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/blueslmj",
+                "id": 7278262,
+                "login": "blueslmj",
+                "organizations_url": "https://api.github.com/users/blueslmj/orgs",
+                "received_events_url": "https://api.github.com/users/blueslmj/received_events",
+                "repos_url": "https://api.github.com/users/blueslmj/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/blueslmj/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/blueslmj/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/blueslmj"
+            }
+        }
+    ],
+    "comments": 1,
+    "comments_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/703/comments",
+    "created_at": "2014-04-23T06:31:28Z",
+    "event_data": [
+        {
+            "actor": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1610953?v=3",
+                "events_url": "https://api.github.com/users/shirioko/events{/privacy}",
+                "followers_url": "https://api.github.com/users/shirioko/followers",
+                "following_url": "https://api.github.com/users/shirioko/following{/other_user}",
+                "gists_url": "https://api.github.com/users/shirioko/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/shirioko",
+                "id": 1610953,
+                "login": "shirioko",
+                "organizations_url": "https://api.github.com/users/shirioko/orgs",
+                "received_events_url": "https://api.github.com/users/shirioko/received_events",
+                "repos_url": "https://api.github.com/users/shirioko/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/shirioko/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/shirioko/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/shirioko"
+            },
+            "commit_id": null,
+            "created_at": "2014-04-28T08:12:50Z",
+            "event": "labeled",
+            "id": 115600539,
+            "label": {
+                "color": "ffffff",
+                "name": "wontfix"
+            },
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/events/115600539"
+        },
+        {
+            "actor": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/7278262?v=3",
+                "events_url": "https://api.github.com/users/blueslmj/events{/privacy}",
+                "followers_url": "https://api.github.com/users/blueslmj/followers",
+                "following_url": "https://api.github.com/users/blueslmj/following{/other_user}",
+                "gists_url": "https://api.github.com/users/blueslmj/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/blueslmj",
+                "id": 7278262,
+                "login": "blueslmj",
+                "organizations_url": "https://api.github.com/users/blueslmj/orgs",
+                "received_events_url": "https://api.github.com/users/blueslmj/received_events",
+                "repos_url": "https://api.github.com/users/blueslmj/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/blueslmj/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/blueslmj/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/blueslmj"
+            },
+            "commit_id": null,
+            "created_at": "2014-07-06T12:17:07Z",
+            "event": "closed",
+            "id": 138509357,
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/events/138509357"
+        }
+    ],
+    "events_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/703/events",
+    "html_url": "https://github.com/venomous0x/WhatsAPI/issues/703",
+    "id": 32035903,
+    "labels": [
+        {
+            "color": "ffffff",
+            "name": "wontfix",
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/labels/wontfix"
+        }
+    ],
+    "labels_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/703/labels{/name}",
+    "locked": false,
+    "milestone": null,
+    "number": 703,
+    "state": "closed",
+    "title": "Error when loginWithPassword",
+    "updated_at": "2014-07-06T12:17:07Z",
+    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/703",
+    "user": {
+        "avatar_url": "https://avatars.githubusercontent.com/u/7278262?v=3",
+        "events_url": "https://api.github.com/users/blueslmj/events{/privacy}",
+        "followers_url": "https://api.github.com/users/blueslmj/followers",
+        "following_url": "https://api.github.com/users/blueslmj/following{/other_user}",
+        "gists_url": "https://api.github.com/users/blueslmj/gists{/gist_id}",
+        "gravatar_id": "",
+        "html_url": "https://github.com/blueslmj",
+        "id": 7278262,
+        "login": "blueslmj",
+        "organizations_url": "https://api.github.com/users/blueslmj/orgs",
+        "received_events_url": "https://api.github.com/users/blueslmj/received_events",
+        "repos_url": "https://api.github.com/users/blueslmj/repos",
+        "site_admin": false,
+        "starred_url": "https://api.github.com/users/blueslmj/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/blueslmj/subscriptions",
+        "type": "User",
+        "url": "https://api.github.com/users/blueslmj"
+    }
+}

@@ -1,0 +1,133 @@
+{
+    "assignee": null,
+    "body": "",
+    "closed_at": "2014-03-28T11:06:12Z",
+    "comment_data": [
+        {
+            "body": "You can't. Only thing you can do is filter out all received messages which are not from your target number.",
+            "created_at": "2014-03-28T11:06:12Z",
+            "html_url": "https://github.com/venomous0x/WhatsAPI/issues/615#issuecomment-38908323",
+            "id": 38908323,
+            "issue_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/615",
+            "updated_at": "2014-03-28T11:06:12Z",
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/comments/38908323",
+            "user": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1610953?v=3",
+                "events_url": "https://api.github.com/users/shirioko/events{/privacy}",
+                "followers_url": "https://api.github.com/users/shirioko/followers",
+                "following_url": "https://api.github.com/users/shirioko/following{/other_user}",
+                "gists_url": "https://api.github.com/users/shirioko/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/shirioko",
+                "id": 1610953,
+                "login": "shirioko",
+                "organizations_url": "https://api.github.com/users/shirioko/orgs",
+                "received_events_url": "https://api.github.com/users/shirioko/received_events",
+                "repos_url": "https://api.github.com/users/shirioko/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/shirioko/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/shirioko/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/shirioko"
+            }
+        }
+    ],
+    "comments": 1,
+    "comments_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/615/comments",
+    "created_at": "2014-02-08T08:39:39Z",
+    "event_data": [
+        {
+            "actor": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1610953?v=3",
+                "events_url": "https://api.github.com/users/shirioko/events{/privacy}",
+                "followers_url": "https://api.github.com/users/shirioko/followers",
+                "following_url": "https://api.github.com/users/shirioko/following{/other_user}",
+                "gists_url": "https://api.github.com/users/shirioko/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/shirioko",
+                "id": 1610953,
+                "login": "shirioko",
+                "organizations_url": "https://api.github.com/users/shirioko/orgs",
+                "received_events_url": "https://api.github.com/users/shirioko/received_events",
+                "repos_url": "https://api.github.com/users/shirioko/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/shirioko/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/shirioko/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/shirioko"
+            },
+            "commit_id": null,
+            "created_at": "2014-03-28T11:06:12Z",
+            "event": "closed",
+            "id": 106419221,
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/events/106419221"
+        },
+        {
+            "actor": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1610953?v=3",
+                "events_url": "https://api.github.com/users/shirioko/events{/privacy}",
+                "followers_url": "https://api.github.com/users/shirioko/followers",
+                "following_url": "https://api.github.com/users/shirioko/following{/other_user}",
+                "gists_url": "https://api.github.com/users/shirioko/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/shirioko",
+                "id": 1610953,
+                "login": "shirioko",
+                "organizations_url": "https://api.github.com/users/shirioko/orgs",
+                "received_events_url": "https://api.github.com/users/shirioko/received_events",
+                "repos_url": "https://api.github.com/users/shirioko/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/shirioko/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/shirioko/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/shirioko"
+            },
+            "commit_id": null,
+            "created_at": "2014-03-28T11:06:14Z",
+            "event": "labeled",
+            "id": 106419235,
+            "label": {
+                "color": "cc317c",
+                "name": "question"
+            },
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/events/106419235"
+        }
+    ],
+    "events_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/615/events",
+    "html_url": "https://github.com/venomous0x/WhatsAPI/issues/615",
+    "id": 27196601,
+    "labels": [
+        {
+            "color": "cc317c",
+            "name": "question",
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/labels/question"
+        }
+    ],
+    "labels_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/615/labels{/name}",
+    "locked": false,
+    "milestone": null,
+    "number": 615,
+    "state": "closed",
+    "title": "How to receive message only from one number ? ",
+    "updated_at": "2014-03-28T11:06:14Z",
+    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/615",
+    "user": {
+        "avatar_url": "https://avatars.githubusercontent.com/u/1039281?v=3",
+        "events_url": "https://api.github.com/users/park23/events{/privacy}",
+        "followers_url": "https://api.github.com/users/park23/followers",
+        "following_url": "https://api.github.com/users/park23/following{/other_user}",
+        "gists_url": "https://api.github.com/users/park23/gists{/gist_id}",
+        "gravatar_id": "",
+        "html_url": "https://github.com/park23",
+        "id": 1039281,
+        "login": "park23",
+        "organizations_url": "https://api.github.com/users/park23/orgs",
+        "received_events_url": "https://api.github.com/users/park23/received_events",
+        "repos_url": "https://api.github.com/users/park23/repos",
+        "site_admin": false,
+        "starred_url": "https://api.github.com/users/park23/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/park23/subscriptions",
+        "type": "User",
+        "url": "https://api.github.com/users/park23"
+    }
+}

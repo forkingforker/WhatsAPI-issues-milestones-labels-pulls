@@ -1,0 +1,135 @@
+{
+    "assignee": null,
+    "body": "if i used Bulk.php to send messages to numbers Who didn't save my number ,will i get blocked by whatsapp ?",
+    "closed_at": null,
+    "comment_data": [
+        {
+            "body": "Probably.",
+            "created_at": "2014-07-25T11:58:21Z",
+            "html_url": "https://github.com/venomous0x/WhatsAPI/issues/851#issuecomment-50139855",
+            "id": 50139855,
+            "issue_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/851",
+            "updated_at": "2014-07-25T11:58:21Z",
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/comments/50139855",
+            "user": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1610953?v=3",
+                "events_url": "https://api.github.com/users/shirioko/events{/privacy}",
+                "followers_url": "https://api.github.com/users/shirioko/followers",
+                "following_url": "https://api.github.com/users/shirioko/following{/other_user}",
+                "gists_url": "https://api.github.com/users/shirioko/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/shirioko",
+                "id": 1610953,
+                "login": "shirioko",
+                "organizations_url": "https://api.github.com/users/shirioko/orgs",
+                "received_events_url": "https://api.github.com/users/shirioko/received_events",
+                "repos_url": "https://api.github.com/users/shirioko/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/shirioko/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/shirioko/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/shirioko"
+            }
+        },
+        {
+            "body": "maybe No , but if you use it multiple times for those people , it will blocked when you try to send more than 10 message , and it's will be spamming ",
+            "created_at": "2014-11-22T01:40:18Z",
+            "html_url": "https://github.com/venomous0x/WhatsAPI/issues/851#issuecomment-64063311",
+            "id": 64063311,
+            "issue_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/851",
+            "updated_at": "2014-11-22T01:40:18Z",
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/comments/64063311",
+            "user": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/9613683?v=3",
+                "events_url": "https://api.github.com/users/mrssam/events{/privacy}",
+                "followers_url": "https://api.github.com/users/mrssam/followers",
+                "following_url": "https://api.github.com/users/mrssam/following{/other_user}",
+                "gists_url": "https://api.github.com/users/mrssam/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/mrssam",
+                "id": 9613683,
+                "login": "mrssam",
+                "organizations_url": "https://api.github.com/users/mrssam/orgs",
+                "received_events_url": "https://api.github.com/users/mrssam/received_events",
+                "repos_url": "https://api.github.com/users/mrssam/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/mrssam/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/mrssam/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/mrssam"
+            }
+        }
+    ],
+    "comments": 2,
+    "comments_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/851/comments",
+    "created_at": "2014-07-25T11:32:17Z",
+    "event_data": [
+        {
+            "actor": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1610953?v=3",
+                "events_url": "https://api.github.com/users/shirioko/events{/privacy}",
+                "followers_url": "https://api.github.com/users/shirioko/followers",
+                "following_url": "https://api.github.com/users/shirioko/following{/other_user}",
+                "gists_url": "https://api.github.com/users/shirioko/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/shirioko",
+                "id": 1610953,
+                "login": "shirioko",
+                "organizations_url": "https://api.github.com/users/shirioko/orgs",
+                "received_events_url": "https://api.github.com/users/shirioko/received_events",
+                "repos_url": "https://api.github.com/users/shirioko/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/shirioko/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/shirioko/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/shirioko"
+            },
+            "commit_id": null,
+            "created_at": "2014-07-25T11:58:13Z",
+            "event": "labeled",
+            "id": 145561219,
+            "label": {
+                "color": "ff44ff",
+                "name": "spam"
+            },
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/events/145561219"
+        }
+    ],
+    "events_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/851/events",
+    "html_url": "https://github.com/venomous0x/WhatsAPI/issues/851",
+    "id": 38720977,
+    "labels": [
+        {
+            "color": "ff44ff",
+            "name": "spam",
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/labels/spam"
+        }
+    ],
+    "labels_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/851/labels{/name}",
+    "locked": false,
+    "milestone": null,
+    "number": 851,
+    "state": "open",
+    "title": "will Bulk.php block me ?",
+    "updated_at": "2014-11-22T01:40:18Z",
+    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/851",
+    "user": {
+        "avatar_url": "https://avatars.githubusercontent.com/u/8257088?v=3",
+        "events_url": "https://api.github.com/users/RanyaAhmad/events{/privacy}",
+        "followers_url": "https://api.github.com/users/RanyaAhmad/followers",
+        "following_url": "https://api.github.com/users/RanyaAhmad/following{/other_user}",
+        "gists_url": "https://api.github.com/users/RanyaAhmad/gists{/gist_id}",
+        "gravatar_id": "",
+        "html_url": "https://github.com/RanyaAhmad",
+        "id": 8257088,
+        "login": "RanyaAhmad",
+        "organizations_url": "https://api.github.com/users/RanyaAhmad/orgs",
+        "received_events_url": "https://api.github.com/users/RanyaAhmad/received_events",
+        "repos_url": "https://api.github.com/users/RanyaAhmad/repos",
+        "site_admin": false,
+        "starred_url": "https://api.github.com/users/RanyaAhmad/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/RanyaAhmad/subscriptions",
+        "type": "User",
+        "url": "https://api.github.com/users/RanyaAhmad"
+    }
+}

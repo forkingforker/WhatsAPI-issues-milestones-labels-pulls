@@ -1,0 +1,56 @@
+{
+    "assignee": null,
+    "body": "",
+    "closed_at": "2013-06-13T13:13:06Z",
+    "comment_data": [],
+    "comments": 0,
+    "comments_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/375/comments",
+    "created_at": "2013-06-13T12:47:45Z",
+    "event_data": [
+        {
+            "actor": null,
+            "commit_id": null,
+            "created_at": "2013-06-13T13:13:06Z",
+            "event": "closed",
+            "id": 52527577,
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/events/52527577"
+        }
+    ],
+    "events_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/375/events",
+    "html_url": "https://github.com/venomous0x/WhatsAPI/pull/375",
+    "id": 15503159,
+    "labels": [],
+    "labels_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/375/labels{/name}",
+    "locked": false,
+    "milestone": null,
+    "number": 375,
+    "pull_request": {
+        "diff_url": "https://github.com/venomous0x/WhatsAPI/pull/375.diff",
+        "html_url": "https://github.com/venomous0x/WhatsAPI/pull/375",
+        "patch_url": "https://github.com/venomous0x/WhatsAPI/pull/375.patch",
+        "url": "https://api.github.com/repos/venomous0x/WhatsAPI/pulls/375"
+    },
+    "state": "closed",
+    "title": "cantfindme88",
+    "updated_at": "2013-06-13T13:13:06Z",
+    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/375",
+    "user": {
+        "avatar_url": "https://avatars.githubusercontent.com/u/10137?v=3",
+        "events_url": "https://api.github.com/users/ghost/events{/privacy}",
+        "followers_url": "https://api.github.com/users/ghost/followers",
+        "following_url": "https://api.github.com/users/ghost/following{/other_user}",
+        "gists_url": "https://api.github.com/users/ghost/gists{/gist_id}",
+        "gravatar_id": "",
+        "html_url": "https://github.com/ghost",
+        "id": 10137,
+        "login": "ghost",
+        "organizations_url": "https://api.github.com/users/ghost/orgs",
+        "received_events_url": "https://api.github.com/users/ghost/received_events",
+        "repos_url": "https://api.github.com/users/ghost/repos",
+        "site_admin": false,
+        "starred_url": "https://api.github.com/users/ghost/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/ghost/subscriptions",
+        "type": "User",
+        "url": "https://api.github.com/users/ghost"
+    }
+}

@@ -1,0 +1,626 @@
+{
+    "_links": {
+        "comments": {
+            "href": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/318/comments"
+        },
+        "commits": {
+            "href": "https://api.github.com/repos/venomous0x/WhatsAPI/pulls/318/commits"
+        },
+        "html": {
+            "href": "https://github.com/venomous0x/WhatsAPI/pull/318"
+        },
+        "issue": {
+            "href": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/318"
+        },
+        "review_comment": {
+            "href": "https://api.github.com/repos/venomous0x/WhatsAPI/pulls/comments{/number}"
+        },
+        "review_comments": {
+            "href": "https://api.github.com/repos/venomous0x/WhatsAPI/pulls/318/comments"
+        },
+        "self": {
+            "href": "https://api.github.com/repos/venomous0x/WhatsAPI/pulls/318"
+        },
+        "statuses": {
+            "href": "https://api.github.com/repos/venomous0x/WhatsAPI/statuses/cb71f15286b8c12c8f3b3463593d8d6dfff70ade"
+        }
+    },
+    "assignee": null,
+    "base": {
+        "label": "venomous0x:master",
+        "ref": "master",
+        "repo": {
+            "archive_url": "https://api.github.com/repos/venomous0x/WhatsAPI/{archive_format}{/ref}",
+            "assignees_url": "https://api.github.com/repos/venomous0x/WhatsAPI/assignees{/user}",
+            "blobs_url": "https://api.github.com/repos/venomous0x/WhatsAPI/git/blobs{/sha}",
+            "branches_url": "https://api.github.com/repos/venomous0x/WhatsAPI/branches{/branch}",
+            "clone_url": "https://github.com/venomous0x/WhatsAPI.git",
+            "collaborators_url": "https://api.github.com/repos/venomous0x/WhatsAPI/collaborators{/collaborator}",
+            "comments_url": "https://api.github.com/repos/venomous0x/WhatsAPI/comments{/number}",
+            "commits_url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits{/sha}",
+            "compare_url": "https://api.github.com/repos/venomous0x/WhatsAPI/compare/{base}...{head}",
+            "contents_url": "https://api.github.com/repos/venomous0x/WhatsAPI/contents/{+path}",
+            "contributors_url": "https://api.github.com/repos/venomous0x/WhatsAPI/contributors",
+            "created_at": "2012-05-28T16:29:46Z",
+            "default_branch": "master",
+            "description": "Interface to WhatsApp Messenger",
+            "downloads_url": "https://api.github.com/repos/venomous0x/WhatsAPI/downloads",
+            "events_url": "https://api.github.com/repos/venomous0x/WhatsAPI/events",
+            "fork": false,
+            "forks": 1935,
+            "forks_count": 1935,
+            "forks_url": "https://api.github.com/repos/venomous0x/WhatsAPI/forks",
+            "full_name": "venomous0x/WhatsAPI",
+            "git_commits_url": "https://api.github.com/repos/venomous0x/WhatsAPI/git/commits{/sha}",
+            "git_refs_url": "https://api.github.com/repos/venomous0x/WhatsAPI/git/refs{/sha}",
+            "git_tags_url": "https://api.github.com/repos/venomous0x/WhatsAPI/git/tags{/sha}",
+            "git_url": "git://github.com/venomous0x/WhatsAPI.git",
+            "has_downloads": true,
+            "has_issues": true,
+            "has_pages": false,
+            "has_wiki": true,
+            "homepage": "",
+            "hooks_url": "https://api.github.com/repos/venomous0x/WhatsAPI/hooks",
+            "html_url": "https://github.com/venomous0x/WhatsAPI",
+            "id": 4472401,
+            "issue_comment_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/comments{/number}",
+            "issue_events_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/events{/number}",
+            "issues_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues{/number}",
+            "keys_url": "https://api.github.com/repos/venomous0x/WhatsAPI/keys{/key_id}",
+            "labels_url": "https://api.github.com/repos/venomous0x/WhatsAPI/labels{/name}",
+            "language": null,
+            "languages_url": "https://api.github.com/repos/venomous0x/WhatsAPI/languages",
+            "merges_url": "https://api.github.com/repos/venomous0x/WhatsAPI/merges",
+            "milestones_url": "https://api.github.com/repos/venomous0x/WhatsAPI/milestones{/number}",
+            "mirror_url": null,
+            "name": "WhatsAPI",
+            "notifications_url": "https://api.github.com/repos/venomous0x/WhatsAPI/notifications{?since,all,participating}",
+            "open_issues": 528,
+            "open_issues_count": 528,
+            "owner": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1786115?v=3",
+                "events_url": "https://api.github.com/users/venomous0x/events{/privacy}",
+                "followers_url": "https://api.github.com/users/venomous0x/followers",
+                "following_url": "https://api.github.com/users/venomous0x/following{/other_user}",
+                "gists_url": "https://api.github.com/users/venomous0x/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/venomous0x",
+                "id": 1786115,
+                "login": "venomous0x",
+                "organizations_url": "https://api.github.com/users/venomous0x/orgs",
+                "received_events_url": "https://api.github.com/users/venomous0x/received_events",
+                "repos_url": "https://api.github.com/users/venomous0x/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/venomous0x/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/venomous0x/subscriptions",
+                "type": "Organization",
+                "url": "https://api.github.com/users/venomous0x"
+            },
+            "private": false,
+            "pulls_url": "https://api.github.com/repos/venomous0x/WhatsAPI/pulls{/number}",
+            "pushed_at": "2015-05-03T17:53:48Z",
+            "releases_url": "https://api.github.com/repos/venomous0x/WhatsAPI/releases{/id}",
+            "size": 3191,
+            "ssh_url": "git@github.com:venomous0x/WhatsAPI.git",
+            "stargazers_count": 2481,
+            "stargazers_url": "https://api.github.com/repos/venomous0x/WhatsAPI/stargazers",
+            "statuses_url": "https://api.github.com/repos/venomous0x/WhatsAPI/statuses/{sha}",
+            "subscribers_url": "https://api.github.com/repos/venomous0x/WhatsAPI/subscribers",
+            "subscription_url": "https://api.github.com/repos/venomous0x/WhatsAPI/subscription",
+            "svn_url": "https://github.com/venomous0x/WhatsAPI",
+            "tags_url": "https://api.github.com/repos/venomous0x/WhatsAPI/tags",
+            "teams_url": "https://api.github.com/repos/venomous0x/WhatsAPI/teams",
+            "trees_url": "https://api.github.com/repos/venomous0x/WhatsAPI/git/trees{/sha}",
+            "updated_at": "2015-05-20T22:40:28Z",
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI",
+            "watchers": 2481,
+            "watchers_count": 2481
+        },
+        "sha": "42a83e832ecf1e27449711569ccca4f109557b86",
+        "user": {
+            "avatar_url": "https://avatars.githubusercontent.com/u/1786115?v=3",
+            "events_url": "https://api.github.com/users/venomous0x/events{/privacy}",
+            "followers_url": "https://api.github.com/users/venomous0x/followers",
+            "following_url": "https://api.github.com/users/venomous0x/following{/other_user}",
+            "gists_url": "https://api.github.com/users/venomous0x/gists{/gist_id}",
+            "gravatar_id": "",
+            "html_url": "https://github.com/venomous0x",
+            "id": 1786115,
+            "login": "venomous0x",
+            "organizations_url": "https://api.github.com/users/venomous0x/orgs",
+            "received_events_url": "https://api.github.com/users/venomous0x/received_events",
+            "repos_url": "https://api.github.com/users/venomous0x/repos",
+            "site_admin": false,
+            "starred_url": "https://api.github.com/users/venomous0x/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/venomous0x/subscriptions",
+            "type": "Organization",
+            "url": "https://api.github.com/users/venomous0x"
+        }
+    },
+    "body": "This just fixes php from complaining that whilst the $event_callbacks was declared statically, it was not being called that way.\r\n\r\nNo effect on usability.\r\n\r\nAlso a few erroneous spaces seemed to be removed when I code formatted the file.",
+    "closed_at": "2013-06-18T20:13:14Z",
+    "comment_data": [],
+    "comments_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/318/comments",
+    "commit_data": [
+        {
+            "author": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1146482?v=3",
+                "events_url": "https://api.github.com/users/adlerweb/events{/privacy}",
+                "followers_url": "https://api.github.com/users/adlerweb/followers",
+                "following_url": "https://api.github.com/users/adlerweb/following{/other_user}",
+                "gists_url": "https://api.github.com/users/adlerweb/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/adlerweb",
+                "id": 1146482,
+                "login": "adlerweb",
+                "organizations_url": "https://api.github.com/users/adlerweb/orgs",
+                "received_events_url": "https://api.github.com/users/adlerweb/received_events",
+                "repos_url": "https://api.github.com/users/adlerweb/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/adlerweb/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/adlerweb/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/adlerweb"
+            },
+            "comments_url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/41534486ea9db5e97324dbd5fdbccb53b5289b00/comments",
+            "commit": {
+                "author": {
+                    "date": "2013-06-13T08:16:48Z",
+                    "email": "git@adlerweb.info",
+                    "name": "Florian Knodt"
+                },
+                "comment_count": 0,
+                "committer": {
+                    "date": "2013-06-13T08:16:48Z",
+                    "email": "git@adlerweb.info",
+                    "name": "Florian Knodt"
+                },
+                "message": "Typo",
+                "tree": {
+                    "sha": "ad7bb5f0c4b9823c6b992cef4c2c4f583fe4b904",
+                    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/git/trees/ad7bb5f0c4b9823c6b992cef4c2c4f583fe4b904"
+                },
+                "url": "https://api.github.com/repos/venomous0x/WhatsAPI/git/commits/41534486ea9db5e97324dbd5fdbccb53b5289b00"
+            },
+            "committer": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1146482?v=3",
+                "events_url": "https://api.github.com/users/adlerweb/events{/privacy}",
+                "followers_url": "https://api.github.com/users/adlerweb/followers",
+                "following_url": "https://api.github.com/users/adlerweb/following{/other_user}",
+                "gists_url": "https://api.github.com/users/adlerweb/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/adlerweb",
+                "id": 1146482,
+                "login": "adlerweb",
+                "organizations_url": "https://api.github.com/users/adlerweb/orgs",
+                "received_events_url": "https://api.github.com/users/adlerweb/received_events",
+                "repos_url": "https://api.github.com/users/adlerweb/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/adlerweb/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/adlerweb/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/adlerweb"
+            },
+            "html_url": "https://github.com/venomous0x/WhatsAPI/commit/41534486ea9db5e97324dbd5fdbccb53b5289b00",
+            "parents": [
+                {
+                    "html_url": "https://github.com/venomous0x/WhatsAPI/commit/194cd694ee5dfbf0fee8ed7abf3acbb7a201e296",
+                    "sha": "194cd694ee5dfbf0fee8ed7abf3acbb7a201e296",
+                    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/194cd694ee5dfbf0fee8ed7abf3acbb7a201e296"
+                }
+            ],
+            "sha": "41534486ea9db5e97324dbd5fdbccb53b5289b00",
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/41534486ea9db5e97324dbd5fdbccb53b5289b00"
+        },
+        {
+            "author": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1146482?v=3",
+                "events_url": "https://api.github.com/users/adlerweb/events{/privacy}",
+                "followers_url": "https://api.github.com/users/adlerweb/followers",
+                "following_url": "https://api.github.com/users/adlerweb/following{/other_user}",
+                "gists_url": "https://api.github.com/users/adlerweb/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/adlerweb",
+                "id": 1146482,
+                "login": "adlerweb",
+                "organizations_url": "https://api.github.com/users/adlerweb/orgs",
+                "received_events_url": "https://api.github.com/users/adlerweb/received_events",
+                "repos_url": "https://api.github.com/users/adlerweb/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/adlerweb/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/adlerweb/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/adlerweb"
+            },
+            "comments_url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/738f81528bfa1658a2a1ccdf59adf76e050ff3ae/comments",
+            "commit": {
+                "author": {
+                    "date": "2013-06-13T08:19:05Z",
+                    "email": "git@adlerweb.info",
+                    "name": "Florian Knodt"
+                },
+                "comment_count": 0,
+                "committer": {
+                    "date": "2013-06-13T08:19:05Z",
+                    "email": "git@adlerweb.info",
+                    "name": "Florian Knodt"
+                },
+                "message": "Guess this was meant",
+                "tree": {
+                    "sha": "4b36724d1a099ccd35c8315227fc21e16869fbd9",
+                    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/git/trees/4b36724d1a099ccd35c8315227fc21e16869fbd9"
+                },
+                "url": "https://api.github.com/repos/venomous0x/WhatsAPI/git/commits/738f81528bfa1658a2a1ccdf59adf76e050ff3ae"
+            },
+            "committer": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1146482?v=3",
+                "events_url": "https://api.github.com/users/adlerweb/events{/privacy}",
+                "followers_url": "https://api.github.com/users/adlerweb/followers",
+                "following_url": "https://api.github.com/users/adlerweb/following{/other_user}",
+                "gists_url": "https://api.github.com/users/adlerweb/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/adlerweb",
+                "id": 1146482,
+                "login": "adlerweb",
+                "organizations_url": "https://api.github.com/users/adlerweb/orgs",
+                "received_events_url": "https://api.github.com/users/adlerweb/received_events",
+                "repos_url": "https://api.github.com/users/adlerweb/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/adlerweb/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/adlerweb/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/adlerweb"
+            },
+            "html_url": "https://github.com/venomous0x/WhatsAPI/commit/738f81528bfa1658a2a1ccdf59adf76e050ff3ae",
+            "parents": [
+                {
+                    "html_url": "https://github.com/venomous0x/WhatsAPI/commit/41534486ea9db5e97324dbd5fdbccb53b5289b00",
+                    "sha": "41534486ea9db5e97324dbd5fdbccb53b5289b00",
+                    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/41534486ea9db5e97324dbd5fdbccb53b5289b00"
+                }
+            ],
+            "sha": "738f81528bfa1658a2a1ccdf59adf76e050ff3ae",
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/738f81528bfa1658a2a1ccdf59adf76e050ff3ae"
+        },
+        {
+            "author": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1610953?v=3",
+                "events_url": "https://api.github.com/users/shirioko/events{/privacy}",
+                "followers_url": "https://api.github.com/users/shirioko/followers",
+                "following_url": "https://api.github.com/users/shirioko/following{/other_user}",
+                "gists_url": "https://api.github.com/users/shirioko/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/shirioko",
+                "id": 1610953,
+                "login": "shirioko",
+                "organizations_url": "https://api.github.com/users/shirioko/orgs",
+                "received_events_url": "https://api.github.com/users/shirioko/received_events",
+                "repos_url": "https://api.github.com/users/shirioko/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/shirioko/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/shirioko/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/shirioko"
+            },
+            "comments_url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/38c38855c7ccadd7a76a98f040573e5658819e36/comments",
+            "commit": {
+                "author": {
+                    "date": "2013-06-13T08:23:26Z",
+                    "email": "shirioko@gmail.com",
+                    "name": "Max Kovaljov"
+                },
+                "comment_count": 0,
+                "committer": {
+                    "date": "2013-06-13T08:23:26Z",
+                    "email": "shirioko@gmail.com",
+                    "name": "Max Kovaljov"
+                },
+                "message": "Merge pull request #10 from adlerweb/typo1\n\nTypo in whatsprot.class.php -> requestCode. Thanks :)",
+                "tree": {
+                    "sha": "4b36724d1a099ccd35c8315227fc21e16869fbd9",
+                    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/git/trees/4b36724d1a099ccd35c8315227fc21e16869fbd9"
+                },
+                "url": "https://api.github.com/repos/venomous0x/WhatsAPI/git/commits/38c38855c7ccadd7a76a98f040573e5658819e36"
+            },
+            "committer": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1610953?v=3",
+                "events_url": "https://api.github.com/users/shirioko/events{/privacy}",
+                "followers_url": "https://api.github.com/users/shirioko/followers",
+                "following_url": "https://api.github.com/users/shirioko/following{/other_user}",
+                "gists_url": "https://api.github.com/users/shirioko/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/shirioko",
+                "id": 1610953,
+                "login": "shirioko",
+                "organizations_url": "https://api.github.com/users/shirioko/orgs",
+                "received_events_url": "https://api.github.com/users/shirioko/received_events",
+                "repos_url": "https://api.github.com/users/shirioko/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/shirioko/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/shirioko/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/shirioko"
+            },
+            "html_url": "https://github.com/venomous0x/WhatsAPI/commit/38c38855c7ccadd7a76a98f040573e5658819e36",
+            "parents": [
+                {
+                    "html_url": "https://github.com/venomous0x/WhatsAPI/commit/194cd694ee5dfbf0fee8ed7abf3acbb7a201e296",
+                    "sha": "194cd694ee5dfbf0fee8ed7abf3acbb7a201e296",
+                    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/194cd694ee5dfbf0fee8ed7abf3acbb7a201e296"
+                },
+                {
+                    "html_url": "https://github.com/venomous0x/WhatsAPI/commit/738f81528bfa1658a2a1ccdf59adf76e050ff3ae",
+                    "sha": "738f81528bfa1658a2a1ccdf59adf76e050ff3ae",
+                    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/738f81528bfa1658a2a1ccdf59adf76e050ff3ae"
+                }
+            ],
+            "sha": "38c38855c7ccadd7a76a98f040573e5658819e36",
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/38c38855c7ccadd7a76a98f040573e5658819e36"
+        },
+        {
+            "author": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1610953?v=3",
+                "events_url": "https://api.github.com/users/shirioko/events{/privacy}",
+                "followers_url": "https://api.github.com/users/shirioko/followers",
+                "following_url": "https://api.github.com/users/shirioko/following{/other_user}",
+                "gists_url": "https://api.github.com/users/shirioko/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/shirioko",
+                "id": 1610953,
+                "login": "shirioko",
+                "organizations_url": "https://api.github.com/users/shirioko/orgs",
+                "received_events_url": "https://api.github.com/users/shirioko/received_events",
+                "repos_url": "https://api.github.com/users/shirioko/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/shirioko/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/shirioko/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/shirioko"
+            },
+            "comments_url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/80da485378c596224086e7d189128104306b0f19/comments",
+            "commit": {
+                "author": {
+                    "date": "2013-06-13T13:53:14Z",
+                    "email": "shirioko@gmail.com",
+                    "name": "Max Kovaljov"
+                },
+                "comment_count": 0,
+                "committer": {
+                    "date": "2013-06-13T13:53:14Z",
+                    "email": "shirioko@gmail.com",
+                    "name": "Max Kovaljov"
+                },
+                "message": "Merge pull request #11 from adlerweb/regcountry\n\nDetect country/language by phone number if not supplied by the user",
+                "tree": {
+                    "sha": "2a3870bf2e5ba66b676c9cc967e2e1d5002ba8c9",
+                    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/git/trees/2a3870bf2e5ba66b676c9cc967e2e1d5002ba8c9"
+                },
+                "url": "https://api.github.com/repos/venomous0x/WhatsAPI/git/commits/80da485378c596224086e7d189128104306b0f19"
+            },
+            "committer": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1610953?v=3",
+                "events_url": "https://api.github.com/users/shirioko/events{/privacy}",
+                "followers_url": "https://api.github.com/users/shirioko/followers",
+                "following_url": "https://api.github.com/users/shirioko/following{/other_user}",
+                "gists_url": "https://api.github.com/users/shirioko/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/shirioko",
+                "id": 1610953,
+                "login": "shirioko",
+                "organizations_url": "https://api.github.com/users/shirioko/orgs",
+                "received_events_url": "https://api.github.com/users/shirioko/received_events",
+                "repos_url": "https://api.github.com/users/shirioko/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/shirioko/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/shirioko/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/shirioko"
+            },
+            "html_url": "https://github.com/venomous0x/WhatsAPI/commit/80da485378c596224086e7d189128104306b0f19",
+            "parents": [
+                {
+                    "html_url": "https://github.com/venomous0x/WhatsAPI/commit/38c38855c7ccadd7a76a98f040573e5658819e36",
+                    "sha": "38c38855c7ccadd7a76a98f040573e5658819e36",
+                    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/38c38855c7ccadd7a76a98f040573e5658819e36"
+                },
+                {
+                    "html_url": "https://github.com/venomous0x/WhatsAPI/commit/08c7668fda1032ff6fd22d23afb0de68d15f0294",
+                    "sha": "08c7668fda1032ff6fd22d23afb0de68d15f0294",
+                    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/08c7668fda1032ff6fd22d23afb0de68d15f0294"
+                }
+            ],
+            "sha": "80da485378c596224086e7d189128104306b0f19",
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/80da485378c596224086e7d189128104306b0f19"
+        },
+        {
+            "author": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1610953?v=3",
+                "events_url": "https://api.github.com/users/shirioko/events{/privacy}",
+                "followers_url": "https://api.github.com/users/shirioko/followers",
+                "following_url": "https://api.github.com/users/shirioko/following{/other_user}",
+                "gists_url": "https://api.github.com/users/shirioko/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/shirioko",
+                "id": 1610953,
+                "login": "shirioko",
+                "organizations_url": "https://api.github.com/users/shirioko/orgs",
+                "received_events_url": "https://api.github.com/users/shirioko/received_events",
+                "repos_url": "https://api.github.com/users/shirioko/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/shirioko/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/shirioko/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/shirioko"
+            },
+            "comments_url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/cb0c4869600982119e75340cd7ec622b0bb177b7/comments",
+            "commit": {
+                "author": {
+                    "date": "2013-06-13T14:04:59Z",
+                    "email": "shirioko@gmail.com",
+                    "name": "Max Kovaljov"
+                },
+                "comment_count": 0,
+                "committer": {
+                    "date": "2013-06-13T14:04:59Z",
+                    "email": "shirioko@gmail.com",
+                    "name": "Max Kovaljov"
+                },
+                "message": "Merge pull request #12 from adlerweb/regcountry\n\nCountry-Detection: Fix Object<->Array-fail",
+                "tree": {
+                    "sha": "63020fc58822665b6ca9d168496d595bb782452c",
+                    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/git/trees/63020fc58822665b6ca9d168496d595bb782452c"
+                },
+                "url": "https://api.github.com/repos/venomous0x/WhatsAPI/git/commits/cb0c4869600982119e75340cd7ec622b0bb177b7"
+            },
+            "committer": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1610953?v=3",
+                "events_url": "https://api.github.com/users/shirioko/events{/privacy}",
+                "followers_url": "https://api.github.com/users/shirioko/followers",
+                "following_url": "https://api.github.com/users/shirioko/following{/other_user}",
+                "gists_url": "https://api.github.com/users/shirioko/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/shirioko",
+                "id": 1610953,
+                "login": "shirioko",
+                "organizations_url": "https://api.github.com/users/shirioko/orgs",
+                "received_events_url": "https://api.github.com/users/shirioko/received_events",
+                "repos_url": "https://api.github.com/users/shirioko/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/shirioko/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/shirioko/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/shirioko"
+            },
+            "html_url": "https://github.com/venomous0x/WhatsAPI/commit/cb0c4869600982119e75340cd7ec622b0bb177b7",
+            "parents": [
+                {
+                    "html_url": "https://github.com/venomous0x/WhatsAPI/commit/80da485378c596224086e7d189128104306b0f19",
+                    "sha": "80da485378c596224086e7d189128104306b0f19",
+                    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/80da485378c596224086e7d189128104306b0f19"
+                },
+                {
+                    "html_url": "https://github.com/venomous0x/WhatsAPI/commit/42a83e832ecf1e27449711569ccca4f109557b86",
+                    "sha": "42a83e832ecf1e27449711569ccca4f109557b86",
+                    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/42a83e832ecf1e27449711569ccca4f109557b86"
+                }
+            ],
+            "sha": "cb0c4869600982119e75340cd7ec622b0bb177b7",
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/cb0c4869600982119e75340cd7ec622b0bb177b7"
+        },
+        {
+            "author": null,
+            "comments_url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/cb71f15286b8c12c8f3b3463593d8d6dfff70ade/comments",
+            "commit": {
+                "author": {
+                    "date": "2013-06-13T14:09:15Z",
+                    "email": "jonathan@viper",
+                    "name": "Jonathan"
+                },
+                "comment_count": 0,
+                "committer": {
+                    "date": "2013-06-13T14:49:52Z",
+                    "email": "jonnywilliamson@gmail.com",
+                    "name": "Jonathan"
+                },
+                "message": "Bug fix. Prevents empty message being sent if previous text was in message box then removed.",
+                "tree": {
+                    "sha": "7d9c99294add0b4594edd1a79a1d5cb67a2e59e4",
+                    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/git/trees/7d9c99294add0b4594edd1a79a1d5cb67a2e59e4"
+                },
+                "url": "https://api.github.com/repos/venomous0x/WhatsAPI/git/commits/cb71f15286b8c12c8f3b3463593d8d6dfff70ade"
+            },
+            "committer": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/2513663?v=3",
+                "events_url": "https://api.github.com/users/jonnywilliamson/events{/privacy}",
+                "followers_url": "https://api.github.com/users/jonnywilliamson/followers",
+                "following_url": "https://api.github.com/users/jonnywilliamson/following{/other_user}",
+                "gists_url": "https://api.github.com/users/jonnywilliamson/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/jonnywilliamson",
+                "id": 2513663,
+                "login": "jonnywilliamson",
+                "organizations_url": "https://api.github.com/users/jonnywilliamson/orgs",
+                "received_events_url": "https://api.github.com/users/jonnywilliamson/received_events",
+                "repos_url": "https://api.github.com/users/jonnywilliamson/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/jonnywilliamson/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/jonnywilliamson/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/jonnywilliamson"
+            },
+            "html_url": "https://github.com/venomous0x/WhatsAPI/commit/cb71f15286b8c12c8f3b3463593d8d6dfff70ade",
+            "parents": [
+                {
+                    "html_url": "https://github.com/venomous0x/WhatsAPI/commit/cb0c4869600982119e75340cd7ec622b0bb177b7",
+                    "sha": "cb0c4869600982119e75340cd7ec622b0bb177b7",
+                    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/cb0c4869600982119e75340cd7ec622b0bb177b7"
+                }
+            ],
+            "sha": "cb71f15286b8c12c8f3b3463593d8d6dfff70ade",
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/commits/cb71f15286b8c12c8f3b3463593d8d6dfff70ade"
+        }
+    ],
+    "commits_url": "https://api.github.com/repos/venomous0x/WhatsAPI/pulls/318/commits",
+    "created_at": "2013-04-11T18:57:10Z",
+    "diff_url": "https://github.com/venomous0x/WhatsAPI/pull/318.diff",
+    "head": {
+        "label": "jonnywilliamson:master",
+        "ref": "master",
+        "repo": null,
+        "sha": "cb71f15286b8c12c8f3b3463593d8d6dfff70ade",
+        "user": {
+            "avatar_url": "https://avatars.githubusercontent.com/u/2513663?v=3",
+            "events_url": "https://api.github.com/users/jonnywilliamson/events{/privacy}",
+            "followers_url": "https://api.github.com/users/jonnywilliamson/followers",
+            "following_url": "https://api.github.com/users/jonnywilliamson/following{/other_user}",
+            "gists_url": "https://api.github.com/users/jonnywilliamson/gists{/gist_id}",
+            "gravatar_id": "",
+            "html_url": "https://github.com/jonnywilliamson",
+            "id": 2513663,
+            "login": "jonnywilliamson",
+            "organizations_url": "https://api.github.com/users/jonnywilliamson/orgs",
+            "received_events_url": "https://api.github.com/users/jonnywilliamson/received_events",
+            "repos_url": "https://api.github.com/users/jonnywilliamson/repos",
+            "site_admin": false,
+            "starred_url": "https://api.github.com/users/jonnywilliamson/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/jonnywilliamson/subscriptions",
+            "type": "User",
+            "url": "https://api.github.com/users/jonnywilliamson"
+        }
+    },
+    "html_url": "https://github.com/venomous0x/WhatsAPI/pull/318",
+    "id": 5114625,
+    "issue_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/318",
+    "locked": false,
+    "merge_commit_sha": "6c562e0d46d1e15757316d1365b9f1b28ee2d36f",
+    "merged_at": "2013-06-18T20:13:14Z",
+    "milestone": null,
+    "number": 318,
+    "patch_url": "https://github.com/venomous0x/WhatsAPI/pull/318.patch",
+    "review_comment_url": "https://api.github.com/repos/venomous0x/WhatsAPI/pulls/comments{/number}",
+    "review_comments_url": "https://api.github.com/repos/venomous0x/WhatsAPI/pulls/318/comments",
+    "state": "closed",
+    "statuses_url": "https://api.github.com/repos/venomous0x/WhatsAPI/statuses/cb71f15286b8c12c8f3b3463593d8d6dfff70ade",
+    "title": "Small fix to stop PHP strict complaining about calling a static property.",
+    "updated_at": "2014-07-07T00:42:23Z",
+    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/pulls/318",
+    "user": {
+        "avatar_url": "https://avatars.githubusercontent.com/u/2513663?v=3",
+        "events_url": "https://api.github.com/users/jonnywilliamson/events{/privacy}",
+        "followers_url": "https://api.github.com/users/jonnywilliamson/followers",
+        "following_url": "https://api.github.com/users/jonnywilliamson/following{/other_user}",
+        "gists_url": "https://api.github.com/users/jonnywilliamson/gists{/gist_id}",
+        "gravatar_id": "",
+        "html_url": "https://github.com/jonnywilliamson",
+        "id": 2513663,
+        "login": "jonnywilliamson",
+        "organizations_url": "https://api.github.com/users/jonnywilliamson/orgs",
+        "received_events_url": "https://api.github.com/users/jonnywilliamson/received_events",
+        "repos_url": "https://api.github.com/users/jonnywilliamson/repos",
+        "site_admin": false,
+        "starred_url": "https://api.github.com/users/jonnywilliamson/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/jonnywilliamson/subscriptions",
+        "type": "User",
+        "url": "https://api.github.com/users/jonnywilliamson"
+    }
+}

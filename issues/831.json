@@ -1,0 +1,162 @@
+{
+    "assignee": null,
+    "body": "",
+    "closed_at": "2014-07-17T14:39:41Z",
+    "comment_data": [],
+    "comments": 0,
+    "comments_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/831/comments",
+    "created_at": "2014-07-11T15:01:27Z",
+    "event_data": [
+        {
+            "actor": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1610953?v=3",
+                "events_url": "https://api.github.com/users/shirioko/events{/privacy}",
+                "followers_url": "https://api.github.com/users/shirioko/followers",
+                "following_url": "https://api.github.com/users/shirioko/following{/other_user}",
+                "gists_url": "https://api.github.com/users/shirioko/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/shirioko",
+                "id": 1610953,
+                "login": "shirioko",
+                "organizations_url": "https://api.github.com/users/shirioko/orgs",
+                "received_events_url": "https://api.github.com/users/shirioko/received_events",
+                "repos_url": "https://api.github.com/users/shirioko/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/shirioko/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/shirioko/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/shirioko"
+            },
+            "commit_id": "9d58d80bdf7ea7c4ee7d4333c435874950f31912",
+            "created_at": "2014-07-17T14:39:41Z",
+            "event": "referenced",
+            "id": 142675488,
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/events/142675488"
+        },
+        {
+            "actor": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1610953?v=3",
+                "events_url": "https://api.github.com/users/shirioko/events{/privacy}",
+                "followers_url": "https://api.github.com/users/shirioko/followers",
+                "following_url": "https://api.github.com/users/shirioko/following{/other_user}",
+                "gists_url": "https://api.github.com/users/shirioko/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/shirioko",
+                "id": 1610953,
+                "login": "shirioko",
+                "organizations_url": "https://api.github.com/users/shirioko/orgs",
+                "received_events_url": "https://api.github.com/users/shirioko/received_events",
+                "repos_url": "https://api.github.com/users/shirioko/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/shirioko/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/shirioko/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/shirioko"
+            },
+            "commit_id": "9d58d80bdf7ea7c4ee7d4333c435874950f31912",
+            "created_at": "2014-07-17T14:39:41Z",
+            "event": "merged",
+            "id": 142675489,
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/events/142675489"
+        },
+        {
+            "actor": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1610953?v=3",
+                "events_url": "https://api.github.com/users/shirioko/events{/privacy}",
+                "followers_url": "https://api.github.com/users/shirioko/followers",
+                "following_url": "https://api.github.com/users/shirioko/following{/other_user}",
+                "gists_url": "https://api.github.com/users/shirioko/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/shirioko",
+                "id": 1610953,
+                "login": "shirioko",
+                "organizations_url": "https://api.github.com/users/shirioko/orgs",
+                "received_events_url": "https://api.github.com/users/shirioko/received_events",
+                "repos_url": "https://api.github.com/users/shirioko/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/shirioko/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/shirioko/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/shirioko"
+            },
+            "commit_id": null,
+            "created_at": "2014-07-17T14:39:41Z",
+            "event": "closed",
+            "id": 142675490,
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/events/142675490"
+        },
+        {
+            "actor": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1610953?v=3",
+                "events_url": "https://api.github.com/users/shirioko/events{/privacy}",
+                "followers_url": "https://api.github.com/users/shirioko/followers",
+                "following_url": "https://api.github.com/users/shirioko/following{/other_user}",
+                "gists_url": "https://api.github.com/users/shirioko/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/shirioko",
+                "id": 1610953,
+                "login": "shirioko",
+                "organizations_url": "https://api.github.com/users/shirioko/orgs",
+                "received_events_url": "https://api.github.com/users/shirioko/received_events",
+                "repos_url": "https://api.github.com/users/shirioko/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/shirioko/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/shirioko/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/shirioko"
+            },
+            "commit_id": null,
+            "created_at": "2014-07-17T14:39:49Z",
+            "event": "labeled",
+            "id": 142675553,
+            "label": {
+                "color": "84b6eb",
+                "name": "enhancement"
+            },
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/events/142675553"
+        }
+    ],
+    "events_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/831/events",
+    "html_url": "https://github.com/venomous0x/WhatsAPI/pull/831",
+    "id": 37667936,
+    "labels": [
+        {
+            "color": "84b6eb",
+            "name": "enhancement",
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/labels/enhancement"
+        }
+    ],
+    "labels_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/831/labels{/name}",
+    "locked": false,
+    "milestone": null,
+    "number": 831,
+    "pull_request": {
+        "diff_url": "https://github.com/venomous0x/WhatsAPI/pull/831.diff",
+        "html_url": "https://github.com/venomous0x/WhatsAPI/pull/831",
+        "patch_url": "https://github.com/venomous0x/WhatsAPI/pull/831.patch",
+        "url": "https://api.github.com/repos/venomous0x/WhatsAPI/pulls/831"
+    },
+    "state": "closed",
+    "title": "Update event to let the user get filehash",
+    "updated_at": "2014-07-23T09:28:05Z",
+    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/831",
+    "user": {
+        "avatar_url": "https://avatars.githubusercontent.com/u/5390120?v=3",
+        "events_url": "https://api.github.com/users/mgp25/events{/privacy}",
+        "followers_url": "https://api.github.com/users/mgp25/followers",
+        "following_url": "https://api.github.com/users/mgp25/following{/other_user}",
+        "gists_url": "https://api.github.com/users/mgp25/gists{/gist_id}",
+        "gravatar_id": "",
+        "html_url": "https://github.com/mgp25",
+        "id": 5390120,
+        "login": "mgp25",
+        "organizations_url": "https://api.github.com/users/mgp25/orgs",
+        "received_events_url": "https://api.github.com/users/mgp25/received_events",
+        "repos_url": "https://api.github.com/users/mgp25/repos",
+        "site_admin": false,
+        "starred_url": "https://api.github.com/users/mgp25/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/mgp25/subscriptions",
+        "type": "User",
+        "url": "https://api.github.com/users/mgp25"
+    }
+}

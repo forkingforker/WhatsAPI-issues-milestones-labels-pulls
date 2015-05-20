@@ -1,0 +1,133 @@
+{
+    "assignee": null,
+    "body": "[] Logging in as 'YYYYYY' (xxxxxxxxxxxxx)\r\n[*] Connected to WhatsApp\r\n>\r\nNotice:  fwrite(): send of 101 bytes failed with errno=10053 An established connection was aborted by the software in your host machine. in C:\\xampp\\htdocs\\xxxxx\\src\\whatsprot.class.php on line 2727\r\n>\r\nNotice:  fwrite(): send of 118 bytes failed with errno=10053 An established connection was aborted by the software in your host machine.in C:\\xampp\\htdocs\\xxxxx\\src\\whatsprot.class.php on line 2727\r\n>\r\nNotice:  fwrite(): send of 126 bytes failed with errno=10053 An established connection was aborted by the software in your host machine.in C:\\xampp\\htdocs\\xxxxx\\src\\whatsprot.class.php on line 2727\r\n\r\nYou can also write and send messages to yyyyyyyyyyyyy(interactive conversation)\r\n> \r\nFatal error:  Maximum execution time of 30 seconds exceeded in C:\\xampp\\htdocs\\xxxxx\\examples\\exampleFunctional.php on line 31\r\n\r\nI just added\r\n>\r\n  define('STDIN',fopen(\"php://stdin\",\"r\"));\r\n\r\nin the file. and when i remove the line, the error messages are infinite.",
+    "closed_at": "2014-08-26T10:37:29Z",
+    "comment_data": [
+        {
+            "body": "That example files are for using in Terminal/shell/cmd not in web server",
+            "created_at": "2014-08-25T20:04:18Z",
+            "html_url": "https://github.com/venomous0x/WhatsAPI/issues/908#issuecomment-53320380",
+            "id": 53320380,
+            "issue_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/908",
+            "updated_at": "2014-08-25T20:04:18Z",
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/comments/53320380",
+            "user": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/5390120?v=3",
+                "events_url": "https://api.github.com/users/mgp25/events{/privacy}",
+                "followers_url": "https://api.github.com/users/mgp25/followers",
+                "following_url": "https://api.github.com/users/mgp25/following{/other_user}",
+                "gists_url": "https://api.github.com/users/mgp25/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/mgp25",
+                "id": 5390120,
+                "login": "mgp25",
+                "organizations_url": "https://api.github.com/users/mgp25/orgs",
+                "received_events_url": "https://api.github.com/users/mgp25/received_events",
+                "repos_url": "https://api.github.com/users/mgp25/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/mgp25/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/mgp25/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/mgp25"
+            }
+        }
+    ],
+    "comments": 1,
+    "comments_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/908/comments",
+    "created_at": "2014-08-25T09:55:41Z",
+    "event_data": [
+        {
+            "actor": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/8536771?v=3",
+                "events_url": "https://api.github.com/users/ioesandeep/events{/privacy}",
+                "followers_url": "https://api.github.com/users/ioesandeep/followers",
+                "following_url": "https://api.github.com/users/ioesandeep/following{/other_user}",
+                "gists_url": "https://api.github.com/users/ioesandeep/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/ioesandeep",
+                "id": 8536771,
+                "login": "ioesandeep",
+                "organizations_url": "https://api.github.com/users/ioesandeep/orgs",
+                "received_events_url": "https://api.github.com/users/ioesandeep/received_events",
+                "repos_url": "https://api.github.com/users/ioesandeep/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/ioesandeep/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/ioesandeep/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/ioesandeep"
+            },
+            "commit_id": null,
+            "created_at": "2014-08-26T10:37:29Z",
+            "event": "closed",
+            "id": 157231526,
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/events/157231526"
+        },
+        {
+            "actor": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1610953?v=3",
+                "events_url": "https://api.github.com/users/shirioko/events{/privacy}",
+                "followers_url": "https://api.github.com/users/shirioko/followers",
+                "following_url": "https://api.github.com/users/shirioko/following{/other_user}",
+                "gists_url": "https://api.github.com/users/shirioko/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/shirioko",
+                "id": 1610953,
+                "login": "shirioko",
+                "organizations_url": "https://api.github.com/users/shirioko/orgs",
+                "received_events_url": "https://api.github.com/users/shirioko/received_events",
+                "repos_url": "https://api.github.com/users/shirioko/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/shirioko/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/shirioko/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/shirioko"
+            },
+            "commit_id": null,
+            "created_at": "2014-08-26T13:01:19Z",
+            "event": "labeled",
+            "id": 157284696,
+            "label": {
+                "color": "ffffff",
+                "name": "wontfix"
+            },
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/events/157284696"
+        }
+    ],
+    "events_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/908/events",
+    "html_url": "https://github.com/venomous0x/WhatsAPI/issues/908",
+    "id": 41047784,
+    "labels": [
+        {
+            "color": "ffffff",
+            "name": "wontfix",
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/labels/wontfix"
+        }
+    ],
+    "labels_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/908/labels{/name}",
+    "locked": false,
+    "milestone": null,
+    "number": 908,
+    "state": "closed",
+    "title": "Message send error",
+    "updated_at": "2014-08-26T13:01:19Z",
+    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/908",
+    "user": {
+        "avatar_url": "https://avatars.githubusercontent.com/u/8536771?v=3",
+        "events_url": "https://api.github.com/users/ioesandeep/events{/privacy}",
+        "followers_url": "https://api.github.com/users/ioesandeep/followers",
+        "following_url": "https://api.github.com/users/ioesandeep/following{/other_user}",
+        "gists_url": "https://api.github.com/users/ioesandeep/gists{/gist_id}",
+        "gravatar_id": "",
+        "html_url": "https://github.com/ioesandeep",
+        "id": 8536771,
+        "login": "ioesandeep",
+        "organizations_url": "https://api.github.com/users/ioesandeep/orgs",
+        "received_events_url": "https://api.github.com/users/ioesandeep/received_events",
+        "repos_url": "https://api.github.com/users/ioesandeep/repos",
+        "site_admin": false,
+        "starred_url": "https://api.github.com/users/ioesandeep/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/ioesandeep/subscriptions",
+        "type": "User",
+        "url": "https://api.github.com/users/ioesandeep"
+    }
+}

@@ -1,0 +1,168 @@
+{
+    "assignee": null,
+    "body": "I tried this code to generate my password\r\n$imei = “myimei″;\r\n$androidWhatsAppPassword = md5(strrev($imei)); \r\n(I run whatsapp on an android device)\r\nThen I compiled /src/php/whatsapp.php like this\r\n$config['mynickname'] = array(\r\n    'id' => '[left as default as I dont know how to determine it]',\r\n    'fromNumber' => 'countrycode,myphonenumber',\r\n    'nick' => \"mynickname\",\r\n    'waPassword' => \"passwordobtainedbefore\",\r\n);\r\nand I run it. I inserted my password again and it tells me \r\n\"Sorry the password was invalid. Please try again.\"\r\nIs the method for generating the password correct? And how can I obtain my ID?",
+    "closed_at": "2014-04-04T08:46:02Z",
+    "comment_data": [
+        {
+            "body": "You can't generate passwords. Obtain them from the server.",
+            "created_at": "2014-04-04T08:46:02Z",
+            "html_url": "https://github.com/venomous0x/WhatsAPI/issues/667#issuecomment-39543485",
+            "id": 39543485,
+            "issue_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/667",
+            "updated_at": "2014-04-04T08:46:02Z",
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/comments/39543485",
+            "user": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1610953?v=3",
+                "events_url": "https://api.github.com/users/shirioko/events{/privacy}",
+                "followers_url": "https://api.github.com/users/shirioko/followers",
+                "following_url": "https://api.github.com/users/shirioko/following{/other_user}",
+                "gists_url": "https://api.github.com/users/shirioko/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/shirioko",
+                "id": 1610953,
+                "login": "shirioko",
+                "organizations_url": "https://api.github.com/users/shirioko/orgs",
+                "received_events_url": "https://api.github.com/users/shirioko/received_events",
+                "repos_url": "https://api.github.com/users/shirioko/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/shirioko/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/shirioko/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/shirioko"
+            }
+        }
+    ],
+    "comments": 1,
+    "comments_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/667/comments",
+    "created_at": "2014-04-03T16:52:48Z",
+    "event_data": [
+        {
+            "actor": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1610953?v=3",
+                "events_url": "https://api.github.com/users/shirioko/events{/privacy}",
+                "followers_url": "https://api.github.com/users/shirioko/followers",
+                "following_url": "https://api.github.com/users/shirioko/following{/other_user}",
+                "gists_url": "https://api.github.com/users/shirioko/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/shirioko",
+                "id": 1610953,
+                "login": "shirioko",
+                "organizations_url": "https://api.github.com/users/shirioko/orgs",
+                "received_events_url": "https://api.github.com/users/shirioko/received_events",
+                "repos_url": "https://api.github.com/users/shirioko/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/shirioko/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/shirioko/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/shirioko"
+            },
+            "commit_id": null,
+            "created_at": "2014-04-04T08:46:02Z",
+            "event": "closed",
+            "id": 108637279,
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/events/108637279"
+        },
+        {
+            "actor": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1610953?v=3",
+                "events_url": "https://api.github.com/users/shirioko/events{/privacy}",
+                "followers_url": "https://api.github.com/users/shirioko/followers",
+                "following_url": "https://api.github.com/users/shirioko/following{/other_user}",
+                "gists_url": "https://api.github.com/users/shirioko/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/shirioko",
+                "id": 1610953,
+                "login": "shirioko",
+                "organizations_url": "https://api.github.com/users/shirioko/orgs",
+                "received_events_url": "https://api.github.com/users/shirioko/received_events",
+                "repos_url": "https://api.github.com/users/shirioko/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/shirioko/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/shirioko/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/shirioko"
+            },
+            "commit_id": null,
+            "created_at": "2014-04-04T08:47:27Z",
+            "event": "labeled",
+            "id": 108637702,
+            "label": {
+                "color": "cc317c",
+                "name": "question"
+            },
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/events/108637702"
+        },
+        {
+            "actor": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1610953?v=3",
+                "events_url": "https://api.github.com/users/shirioko/events{/privacy}",
+                "followers_url": "https://api.github.com/users/shirioko/followers",
+                "following_url": "https://api.github.com/users/shirioko/following{/other_user}",
+                "gists_url": "https://api.github.com/users/shirioko/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/shirioko",
+                "id": 1610953,
+                "login": "shirioko",
+                "organizations_url": "https://api.github.com/users/shirioko/orgs",
+                "received_events_url": "https://api.github.com/users/shirioko/received_events",
+                "repos_url": "https://api.github.com/users/shirioko/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/shirioko/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/shirioko/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/shirioko"
+            },
+            "commit_id": null,
+            "created_at": "2014-04-04T08:47:28Z",
+            "event": "labeled",
+            "id": 108637710,
+            "label": {
+                "color": "ffffff",
+                "name": "wontfix"
+            },
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/events/108637710"
+        }
+    ],
+    "events_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/667/events",
+    "html_url": "https://github.com/venomous0x/WhatsAPI/issues/667",
+    "id": 30793082,
+    "labels": [
+        {
+            "color": "cc317c",
+            "name": "question",
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/labels/question"
+        },
+        {
+            "color": "ffffff",
+            "name": "wontfix",
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/labels/wontfix"
+        }
+    ],
+    "labels_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/667/labels{/name}",
+    "locked": false,
+    "milestone": null,
+    "number": 667,
+    "state": "closed",
+    "title": "Trouble generating my password and my id",
+    "updated_at": "2014-04-04T08:47:28Z",
+    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/667",
+    "user": {
+        "avatar_url": "https://avatars.githubusercontent.com/u/7152437?v=3",
+        "events_url": "https://api.github.com/users/Angelo3/events{/privacy}",
+        "followers_url": "https://api.github.com/users/Angelo3/followers",
+        "following_url": "https://api.github.com/users/Angelo3/following{/other_user}",
+        "gists_url": "https://api.github.com/users/Angelo3/gists{/gist_id}",
+        "gravatar_id": "",
+        "html_url": "https://github.com/Angelo3",
+        "id": 7152437,
+        "login": "Angelo3",
+        "organizations_url": "https://api.github.com/users/Angelo3/orgs",
+        "received_events_url": "https://api.github.com/users/Angelo3/received_events",
+        "repos_url": "https://api.github.com/users/Angelo3/repos",
+        "site_admin": false,
+        "starred_url": "https://api.github.com/users/Angelo3/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/Angelo3/subscriptions",
+        "type": "User",
+        "url": "https://api.github.com/users/Angelo3"
+    }
+}

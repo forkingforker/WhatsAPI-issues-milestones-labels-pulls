@@ -1,0 +1,133 @@
+{
+    "assignee": null,
+    "body": "Hi, i want to use SendPresnseSubscription, this method show us if target is online, tiping, last seen… Im a bit confused with its implementation to ajaxDemo.\r\n\r\nAnd, is there a event to get someones nick? I know we get his nick when the target send us a message, but a way to get when they message us.\r\n\r\nsocket.php\r\n```php\r\n$w->SendPresenceSubscription($target);\r\n```\r\n\r\nsocket.php\r\n```php\r\n$_SESSION[\"presence\"] = $presence;\r\n```\r\n\r\nindex.php\r\n```javascript\r\nfunction getMessages()\r\n    {\r\n        $.ajax({\r\n            url: \"ajax.php\",\r\n            cache: false,\r\n            dataType: \"json\",\r\n            method: \"POST\",\r\n            data: {\r\n                method: \"SendPresenceSubscription\",\r\n            }}).done(function(data) {\r\n            if (data)\r\n            {\r\n                if (data.presence != \"\")\r\n                {\r\n                     $(\"#presence\").val(data.presence);\r\n                }\r\n           }\r\n      });\r\n```\r\n\r\nUPDATE:\r\nwhat is this code for in index.php? Is related to PresenceSubscription?\r\n\r\n```html\r\n            <span id=\"contactname\"></span>\r\n            <br />\r\n            <span id=\"contactstatus\"></span>\r\n```",
+    "closed_at": "2014-05-30T15:01:20Z",
+    "comment_data": [
+        {
+            "body": "Yes those were meant to be used for contact nickname and presence, but I never got around to adding it to the demo.\r\n\r\nYou can use the event handler in socket.php to listen for presence updates just like it already does for profile pictures. Just make sure to unlock the session after writing e.g.\r\n```php\r\n    session_start();\r\n    $_SESSION[\"presence\"] = $presence;\r\n    session_write_close();\r\n```\r\nor you'll break the website. You have two files (index.php and socket.php) accessing the session simultaneously. Locking the session in one of the scripts will make the other script wait for it to be unlocked, and since socket.php has a timeout of 5 minutes, it will break index.php",
+            "created_at": "2014-06-03T09:31:19Z",
+            "html_url": "https://github.com/venomous0x/WhatsAPI/issues/497#issuecomment-44942844",
+            "id": 44942844,
+            "issue_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/497",
+            "updated_at": "2014-06-03T09:36:17Z",
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/comments/44942844",
+            "user": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1610953?v=3",
+                "events_url": "https://api.github.com/users/shirioko/events{/privacy}",
+                "followers_url": "https://api.github.com/users/shirioko/followers",
+                "following_url": "https://api.github.com/users/shirioko/following{/other_user}",
+                "gists_url": "https://api.github.com/users/shirioko/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/shirioko",
+                "id": 1610953,
+                "login": "shirioko",
+                "organizations_url": "https://api.github.com/users/shirioko/orgs",
+                "received_events_url": "https://api.github.com/users/shirioko/received_events",
+                "repos_url": "https://api.github.com/users/shirioko/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/shirioko/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/shirioko/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/shirioko"
+            }
+        }
+    ],
+    "comments": 1,
+    "comments_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/497/comments",
+    "created_at": "2013-10-19T14:54:59Z",
+    "event_data": [
+        {
+            "actor": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/5390120?v=3",
+                "events_url": "https://api.github.com/users/mgp25/events{/privacy}",
+                "followers_url": "https://api.github.com/users/mgp25/followers",
+                "following_url": "https://api.github.com/users/mgp25/following{/other_user}",
+                "gists_url": "https://api.github.com/users/mgp25/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/mgp25",
+                "id": 5390120,
+                "login": "mgp25",
+                "organizations_url": "https://api.github.com/users/mgp25/orgs",
+                "received_events_url": "https://api.github.com/users/mgp25/received_events",
+                "repos_url": "https://api.github.com/users/mgp25/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/mgp25/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/mgp25/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/mgp25"
+            },
+            "commit_id": null,
+            "created_at": "2014-05-30T15:01:20Z",
+            "event": "closed",
+            "id": 126458117,
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/events/126458117"
+        },
+        {
+            "actor": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1610953?v=3",
+                "events_url": "https://api.github.com/users/shirioko/events{/privacy}",
+                "followers_url": "https://api.github.com/users/shirioko/followers",
+                "following_url": "https://api.github.com/users/shirioko/following{/other_user}",
+                "gists_url": "https://api.github.com/users/shirioko/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/shirioko",
+                "id": 1610953,
+                "login": "shirioko",
+                "organizations_url": "https://api.github.com/users/shirioko/orgs",
+                "received_events_url": "https://api.github.com/users/shirioko/received_events",
+                "repos_url": "https://api.github.com/users/shirioko/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/shirioko/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/shirioko/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/shirioko"
+            },
+            "commit_id": null,
+            "created_at": "2014-06-03T09:31:24Z",
+            "event": "labeled",
+            "id": 127387688,
+            "label": {
+                "color": "cc317c",
+                "name": "question"
+            },
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/events/127387688"
+        }
+    ],
+    "events_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/497/events",
+    "html_url": "https://github.com/venomous0x/WhatsAPI/issues/497",
+    "id": 21263108,
+    "labels": [
+        {
+            "color": "cc317c",
+            "name": "question",
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/labels/question"
+        }
+    ],
+    "labels_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/497/labels{/name}",
+    "locked": false,
+    "milestone": null,
+    "number": 497,
+    "state": "closed",
+    "title": "Proper way to call SendPresenceSubscription",
+    "updated_at": "2014-06-03T09:36:17Z",
+    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/497",
+    "user": {
+        "avatar_url": "https://avatars.githubusercontent.com/u/5390120?v=3",
+        "events_url": "https://api.github.com/users/mgp25/events{/privacy}",
+        "followers_url": "https://api.github.com/users/mgp25/followers",
+        "following_url": "https://api.github.com/users/mgp25/following{/other_user}",
+        "gists_url": "https://api.github.com/users/mgp25/gists{/gist_id}",
+        "gravatar_id": "",
+        "html_url": "https://github.com/mgp25",
+        "id": 5390120,
+        "login": "mgp25",
+        "organizations_url": "https://api.github.com/users/mgp25/orgs",
+        "received_events_url": "https://api.github.com/users/mgp25/received_events",
+        "repos_url": "https://api.github.com/users/mgp25/repos",
+        "site_admin": false,
+        "starred_url": "https://api.github.com/users/mgp25/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/mgp25/subscriptions",
+        "type": "User",
+        "url": "https://api.github.com/users/mgp25"
+    }
+}

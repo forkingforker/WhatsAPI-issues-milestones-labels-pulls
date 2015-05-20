@@ -1,0 +1,107 @@
+{
+    "assignee": null,
+    "body": "I saw that whatsApp know when a user have as contact other user because you can see the picture. My bot never add any contact of all people that he speak. When my bot speak with 50 new persons this account its blocked. Maybe this can be because my bot not have this persons as contact?\r\nThanks.",
+    "closed_at": null,
+    "comment_data": [
+        {
+            "body": "Yes. Sync your contacts beforehand.",
+            "created_at": "2014-05-21T09:10:19Z",
+            "html_url": "https://github.com/venomous0x/WhatsAPI/issues/737#issuecomment-43731610",
+            "id": 43731610,
+            "issue_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/737",
+            "updated_at": "2014-05-21T09:10:19Z",
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/comments/43731610",
+            "user": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1610953?v=3",
+                "events_url": "https://api.github.com/users/shirioko/events{/privacy}",
+                "followers_url": "https://api.github.com/users/shirioko/followers",
+                "following_url": "https://api.github.com/users/shirioko/following{/other_user}",
+                "gists_url": "https://api.github.com/users/shirioko/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/shirioko",
+                "id": 1610953,
+                "login": "shirioko",
+                "organizations_url": "https://api.github.com/users/shirioko/orgs",
+                "received_events_url": "https://api.github.com/users/shirioko/received_events",
+                "repos_url": "https://api.github.com/users/shirioko/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/shirioko/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/shirioko/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/shirioko"
+            }
+        }
+    ],
+    "comments": 1,
+    "comments_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/737/comments",
+    "created_at": "2014-05-20T17:33:33Z",
+    "event_data": [
+        {
+            "actor": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1610953?v=3",
+                "events_url": "https://api.github.com/users/shirioko/events{/privacy}",
+                "followers_url": "https://api.github.com/users/shirioko/followers",
+                "following_url": "https://api.github.com/users/shirioko/following{/other_user}",
+                "gists_url": "https://api.github.com/users/shirioko/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/shirioko",
+                "id": 1610953,
+                "login": "shirioko",
+                "organizations_url": "https://api.github.com/users/shirioko/orgs",
+                "received_events_url": "https://api.github.com/users/shirioko/received_events",
+                "repos_url": "https://api.github.com/users/shirioko/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/shirioko/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/shirioko/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/shirioko"
+            },
+            "commit_id": null,
+            "created_at": "2014-05-21T09:09:08Z",
+            "event": "labeled",
+            "id": 123261775,
+            "label": {
+                "color": "cc317c",
+                "name": "question"
+            },
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/events/123261775"
+        }
+    ],
+    "events_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/737/events",
+    "html_url": "https://github.com/venomous0x/WhatsAPI/issues/737",
+    "id": 33911377,
+    "labels": [
+        {
+            "color": "cc317c",
+            "name": "question",
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/labels/question"
+        }
+    ],
+    "labels_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/737/labels{/name}",
+    "locked": false,
+    "milestone": null,
+    "number": 737,
+    "state": "open",
+    "title": "Can I add a contact?",
+    "updated_at": "2014-05-21T09:10:19Z",
+    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/737",
+    "user": {
+        "avatar_url": "https://avatars.githubusercontent.com/u/5639337?v=3",
+        "events_url": "https://api.github.com/users/widplay/events{/privacy}",
+        "followers_url": "https://api.github.com/users/widplay/followers",
+        "following_url": "https://api.github.com/users/widplay/following{/other_user}",
+        "gists_url": "https://api.github.com/users/widplay/gists{/gist_id}",
+        "gravatar_id": "",
+        "html_url": "https://github.com/widplay",
+        "id": 5639337,
+        "login": "widplay",
+        "organizations_url": "https://api.github.com/users/widplay/orgs",
+        "received_events_url": "https://api.github.com/users/widplay/received_events",
+        "repos_url": "https://api.github.com/users/widplay/repos",
+        "site_admin": false,
+        "starred_url": "https://api.github.com/users/widplay/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/widplay/subscriptions",
+        "type": "User",
+        "url": "https://api.github.com/users/widplay"
+    }
+}

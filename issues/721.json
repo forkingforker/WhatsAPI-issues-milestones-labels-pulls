@@ -1,0 +1,107 @@
+{
+    "assignee": null,
+    "body": "Your support is much appreciated especially for Newbies like me ;)\r\nIs there a way in which i can fill the whatsapp.php form from the URL? i mean something like \"whatsapp.php?from=...&to=...&msg=... and so on?\"\r\n",
+    "closed_at": null,
+    "comment_data": [
+        {
+            "body": "This is beyond newbie, I'm not going to explain PHP basics\r\nhttp://www.php.net/manual/en/reserved.variables.get.php",
+            "created_at": "2014-05-04T13:38:54Z",
+            "html_url": "https://github.com/venomous0x/WhatsAPI/issues/721#issuecomment-42133145",
+            "id": 42133145,
+            "issue_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/721",
+            "updated_at": "2014-05-04T13:38:54Z",
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/comments/42133145",
+            "user": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1610953?v=3",
+                "events_url": "https://api.github.com/users/shirioko/events{/privacy}",
+                "followers_url": "https://api.github.com/users/shirioko/followers",
+                "following_url": "https://api.github.com/users/shirioko/following{/other_user}",
+                "gists_url": "https://api.github.com/users/shirioko/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/shirioko",
+                "id": 1610953,
+                "login": "shirioko",
+                "organizations_url": "https://api.github.com/users/shirioko/orgs",
+                "received_events_url": "https://api.github.com/users/shirioko/received_events",
+                "repos_url": "https://api.github.com/users/shirioko/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/shirioko/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/shirioko/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/shirioko"
+            }
+        }
+    ],
+    "comments": 1,
+    "comments_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/721/comments",
+    "created_at": "2014-05-04T06:28:21Z",
+    "event_data": [
+        {
+            "actor": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1610953?v=3",
+                "events_url": "https://api.github.com/users/shirioko/events{/privacy}",
+                "followers_url": "https://api.github.com/users/shirioko/followers",
+                "following_url": "https://api.github.com/users/shirioko/following{/other_user}",
+                "gists_url": "https://api.github.com/users/shirioko/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/shirioko",
+                "id": 1610953,
+                "login": "shirioko",
+                "organizations_url": "https://api.github.com/users/shirioko/orgs",
+                "received_events_url": "https://api.github.com/users/shirioko/received_events",
+                "repos_url": "https://api.github.com/users/shirioko/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/shirioko/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/shirioko/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/shirioko"
+            },
+            "commit_id": null,
+            "created_at": "2014-05-04T13:39:02Z",
+            "event": "labeled",
+            "id": 117645636,
+            "label": {
+                "color": "e6e6e6",
+                "name": "invalid"
+            },
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/events/117645636"
+        }
+    ],
+    "events_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/721/events",
+    "html_url": "https://github.com/venomous0x/WhatsAPI/issues/721",
+    "id": 32762686,
+    "labels": [
+        {
+            "color": "e6e6e6",
+            "name": "invalid",
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/labels/invalid"
+        }
+    ],
+    "labels_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/721/labels{/name}",
+    "locked": false,
+    "milestone": null,
+    "number": 721,
+    "state": "open",
+    "title": "fill/send using the browser URL?",
+    "updated_at": "2014-05-04T13:39:02Z",
+    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/721",
+    "user": {
+        "avatar_url": "https://avatars.githubusercontent.com/u/7478486?v=3",
+        "events_url": "https://api.github.com/users/osbamail/events{/privacy}",
+        "followers_url": "https://api.github.com/users/osbamail/followers",
+        "following_url": "https://api.github.com/users/osbamail/following{/other_user}",
+        "gists_url": "https://api.github.com/users/osbamail/gists{/gist_id}",
+        "gravatar_id": "",
+        "html_url": "https://github.com/osbamail",
+        "id": 7478486,
+        "login": "osbamail",
+        "organizations_url": "https://api.github.com/users/osbamail/orgs",
+        "received_events_url": "https://api.github.com/users/osbamail/received_events",
+        "repos_url": "https://api.github.com/users/osbamail/repos",
+        "site_admin": false,
+        "starred_url": "https://api.github.com/users/osbamail/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/osbamail/subscriptions",
+        "type": "User",
+        "url": "https://api.github.com/users/osbamail"
+    }
+}

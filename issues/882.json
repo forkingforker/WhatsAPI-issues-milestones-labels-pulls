@@ -1,0 +1,142 @@
+{
+    "assignee": null,
+    "body": "i suggest to make this change (as i have done and intercept for-reconnect):\r\n\r\n### src / whatsprot.class.php @ 2726 ###\r\n\r\n// FROM...\r\nfwrite($this->socket, $data, strlen($data));\r\n\r\n\r\n// TO...\r\n$cbData = strlen( $data );\r\nif ( fwrite($this->socket, $data, $cbData) !== $cbData )\r\n  throw new Exception( 'Socket error (broken pipe?).' );\r\n",
+    "closed_at": null,
+    "comment_data": [
+        {
+            "body": "Once in a while I get boken pipe notices. My vote for this enhancement.",
+            "created_at": "2014-08-27T07:28:36Z",
+            "html_url": "https://github.com/venomous0x/WhatsAPI/issues/882#issuecomment-53535367",
+            "id": 53535367,
+            "issue_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/882",
+            "updated_at": "2014-08-27T07:28:36Z",
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/comments/53535367",
+            "user": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/7643208?v=3",
+                "events_url": "https://api.github.com/users/jmoral/events{/privacy}",
+                "followers_url": "https://api.github.com/users/jmoral/followers",
+                "following_url": "https://api.github.com/users/jmoral/following{/other_user}",
+                "gists_url": "https://api.github.com/users/jmoral/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/jmoral",
+                "id": 7643208,
+                "login": "jmoral",
+                "organizations_url": "https://api.github.com/users/jmoral/orgs",
+                "received_events_url": "https://api.github.com/users/jmoral/received_events",
+                "repos_url": "https://api.github.com/users/jmoral/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/jmoral/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/jmoral/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/jmoral"
+            }
+        }
+    ],
+    "comments": 1,
+    "comments_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/882/comments",
+    "created_at": "2014-08-13T08:28:21Z",
+    "event_data": [
+        {
+            "actor": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1610953?v=3",
+                "events_url": "https://api.github.com/users/shirioko/events{/privacy}",
+                "followers_url": "https://api.github.com/users/shirioko/followers",
+                "following_url": "https://api.github.com/users/shirioko/following{/other_user}",
+                "gists_url": "https://api.github.com/users/shirioko/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/shirioko",
+                "id": 1610953,
+                "login": "shirioko",
+                "organizations_url": "https://api.github.com/users/shirioko/orgs",
+                "received_events_url": "https://api.github.com/users/shirioko/received_events",
+                "repos_url": "https://api.github.com/users/shirioko/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/shirioko/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/shirioko/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/shirioko"
+            },
+            "commit_id": null,
+            "created_at": "2014-08-13T08:30:45Z",
+            "event": "labeled",
+            "id": 152260764,
+            "label": {
+                "color": "84b6eb",
+                "name": "enhancement"
+            },
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/events/152260764"
+        },
+        {
+            "actor": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1610953?v=3",
+                "events_url": "https://api.github.com/users/shirioko/events{/privacy}",
+                "followers_url": "https://api.github.com/users/shirioko/followers",
+                "following_url": "https://api.github.com/users/shirioko/following{/other_user}",
+                "gists_url": "https://api.github.com/users/shirioko/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/shirioko",
+                "id": 1610953,
+                "login": "shirioko",
+                "organizations_url": "https://api.github.com/users/shirioko/orgs",
+                "received_events_url": "https://api.github.com/users/shirioko/received_events",
+                "repos_url": "https://api.github.com/users/shirioko/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/shirioko/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/shirioko/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/shirioko"
+            },
+            "commit_id": null,
+            "created_at": "2014-08-13T08:30:46Z",
+            "event": "labeled",
+            "id": 152260769,
+            "label": {
+                "color": "0052cc",
+                "name": "TODO"
+            },
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/events/152260769"
+        }
+    ],
+    "events_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/882/events",
+    "html_url": "https://github.com/venomous0x/WhatsAPI/issues/882",
+    "id": 40133095,
+    "labels": [
+        {
+            "color": "84b6eb",
+            "name": "enhancement",
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/labels/enhancement"
+        },
+        {
+            "color": "0052cc",
+            "name": "TODO",
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/labels/TODO"
+        }
+    ],
+    "labels_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/882/labels{/name}",
+    "locked": false,
+    "milestone": null,
+    "number": 882,
+    "state": "open",
+    "title": "socket write error check...",
+    "updated_at": "2014-08-27T07:28:36Z",
+    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/882",
+    "user": {
+        "avatar_url": "https://avatars.githubusercontent.com/u/2845791?v=3",
+        "events_url": "https://api.github.com/users/dynamicplus/events{/privacy}",
+        "followers_url": "https://api.github.com/users/dynamicplus/followers",
+        "following_url": "https://api.github.com/users/dynamicplus/following{/other_user}",
+        "gists_url": "https://api.github.com/users/dynamicplus/gists{/gist_id}",
+        "gravatar_id": "",
+        "html_url": "https://github.com/dynamicplus",
+        "id": 2845791,
+        "login": "dynamicplus",
+        "organizations_url": "https://api.github.com/users/dynamicplus/orgs",
+        "received_events_url": "https://api.github.com/users/dynamicplus/received_events",
+        "repos_url": "https://api.github.com/users/dynamicplus/repos",
+        "site_admin": false,
+        "starred_url": "https://api.github.com/users/dynamicplus/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/dynamicplus/subscriptions",
+        "type": "User",
+        "url": "https://api.github.com/users/dynamicplus"
+    }
+}

@@ -1,0 +1,233 @@
+{
+    "assignee": null,
+    "body": "I can not send by SendBroadcast  \r\nIf I can send the SendBulk function but when Whatsapp blocks sent me 6 different numbers. \r\n\r\nIf that I can create and delete groups.",
+    "closed_at": null,
+    "comment_data": [
+        {
+            "body": "Dont send messages to semi-random users and you wont get blocked. The broadcast messages only are received by users that have added you into their contact list",
+            "created_at": "2014-08-01T19:58:54Z",
+            "html_url": "https://github.com/venomous0x/WhatsAPI/issues/858#issuecomment-50928109",
+            "id": 50928109,
+            "issue_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/858",
+            "updated_at": "2014-08-01T19:58:54Z",
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/comments/50928109",
+            "user": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/5390120?v=3",
+                "events_url": "https://api.github.com/users/mgp25/events{/privacy}",
+                "followers_url": "https://api.github.com/users/mgp25/followers",
+                "following_url": "https://api.github.com/users/mgp25/following{/other_user}",
+                "gists_url": "https://api.github.com/users/mgp25/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/mgp25",
+                "id": 5390120,
+                "login": "mgp25",
+                "organizations_url": "https://api.github.com/users/mgp25/orgs",
+                "received_events_url": "https://api.github.com/users/mgp25/received_events",
+                "repos_url": "https://api.github.com/users/mgp25/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/mgp25/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/mgp25/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/mgp25"
+            }
+        },
+        {
+            "body": "Is there a way to send messages to random people?",
+            "created_at": "2014-08-01T20:18:01Z",
+            "html_url": "https://github.com/venomous0x/WhatsAPI/issues/858#issuecomment-50930108",
+            "id": 50930108,
+            "issue_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/858",
+            "updated_at": "2014-08-01T20:18:01Z",
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/comments/50930108",
+            "user": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1000009?v=3",
+                "events_url": "https://api.github.com/users/Rimander/events{/privacy}",
+                "followers_url": "https://api.github.com/users/Rimander/followers",
+                "following_url": "https://api.github.com/users/Rimander/following{/other_user}",
+                "gists_url": "https://api.github.com/users/Rimander/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/Rimander",
+                "id": 1000009,
+                "login": "Rimander",
+                "organizations_url": "https://api.github.com/users/Rimander/orgs",
+                "received_events_url": "https://api.github.com/users/Rimander/received_events",
+                "repos_url": "https://api.github.com/users/Rimander/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/Rimander/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/Rimander/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/Rimander"
+            }
+        },
+        {
+            "body": "Yes, if the contact knows you. If not, is considered spam",
+            "created_at": "2014-08-01T22:02:31Z",
+            "html_url": "https://github.com/venomous0x/WhatsAPI/issues/858#issuecomment-50939852",
+            "id": 50939852,
+            "issue_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/858",
+            "updated_at": "2014-08-01T22:02:31Z",
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/comments/50939852",
+            "user": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/5390120?v=3",
+                "events_url": "https://api.github.com/users/mgp25/events{/privacy}",
+                "followers_url": "https://api.github.com/users/mgp25/followers",
+                "following_url": "https://api.github.com/users/mgp25/following{/other_user}",
+                "gists_url": "https://api.github.com/users/mgp25/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/mgp25",
+                "id": 5390120,
+                "login": "mgp25",
+                "organizations_url": "https://api.github.com/users/mgp25/orgs",
+                "received_events_url": "https://api.github.com/users/mgp25/received_events",
+                "repos_url": "https://api.github.com/users/mgp25/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/mgp25/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/mgp25/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/mgp25"
+            }
+        }
+    ],
+    "comments": 3,
+    "comments_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/858/comments",
+    "created_at": "2014-08-01T17:23:06Z",
+    "event_data": [
+        {
+            "actor": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1610953?v=3",
+                "events_url": "https://api.github.com/users/shirioko/events{/privacy}",
+                "followers_url": "https://api.github.com/users/shirioko/followers",
+                "following_url": "https://api.github.com/users/shirioko/following{/other_user}",
+                "gists_url": "https://api.github.com/users/shirioko/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/shirioko",
+                "id": 1610953,
+                "login": "shirioko",
+                "organizations_url": "https://api.github.com/users/shirioko/orgs",
+                "received_events_url": "https://api.github.com/users/shirioko/received_events",
+                "repos_url": "https://api.github.com/users/shirioko/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/shirioko/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/shirioko/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/shirioko"
+            },
+            "commit_id": null,
+            "created_at": "2014-08-02T19:58:56Z",
+            "event": "labeled",
+            "id": 148471712,
+            "label": {
+                "color": "cc317c",
+                "name": "question"
+            },
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/events/148471712"
+        },
+        {
+            "actor": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1610953?v=3",
+                "events_url": "https://api.github.com/users/shirioko/events{/privacy}",
+                "followers_url": "https://api.github.com/users/shirioko/followers",
+                "following_url": "https://api.github.com/users/shirioko/following{/other_user}",
+                "gists_url": "https://api.github.com/users/shirioko/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/shirioko",
+                "id": 1610953,
+                "login": "shirioko",
+                "organizations_url": "https://api.github.com/users/shirioko/orgs",
+                "received_events_url": "https://api.github.com/users/shirioko/received_events",
+                "repos_url": "https://api.github.com/users/shirioko/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/shirioko/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/shirioko/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/shirioko"
+            },
+            "commit_id": null,
+            "created_at": "2014-08-02T19:58:56Z",
+            "event": "labeled",
+            "id": 148471715,
+            "label": {
+                "color": "ff44ff",
+                "name": "spam"
+            },
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/events/148471715"
+        },
+        {
+            "actor": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1610953?v=3",
+                "events_url": "https://api.github.com/users/shirioko/events{/privacy}",
+                "followers_url": "https://api.github.com/users/shirioko/followers",
+                "following_url": "https://api.github.com/users/shirioko/following{/other_user}",
+                "gists_url": "https://api.github.com/users/shirioko/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/shirioko",
+                "id": 1610953,
+                "login": "shirioko",
+                "organizations_url": "https://api.github.com/users/shirioko/orgs",
+                "received_events_url": "https://api.github.com/users/shirioko/received_events",
+                "repos_url": "https://api.github.com/users/shirioko/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/shirioko/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/shirioko/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/shirioko"
+            },
+            "commit_id": null,
+            "created_at": "2014-08-02T19:58:56Z",
+            "event": "labeled",
+            "id": 148471716,
+            "label": {
+                "color": "ffffff",
+                "name": "wontfix"
+            },
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/events/148471716"
+        }
+    ],
+    "events_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/858/events",
+    "html_url": "https://github.com/venomous0x/WhatsAPI/issues/858",
+    "id": 39310258,
+    "labels": [
+        {
+            "color": "cc317c",
+            "name": "question",
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/labels/question"
+        },
+        {
+            "color": "ff44ff",
+            "name": "spam",
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/labels/spam"
+        },
+        {
+            "color": "ffffff",
+            "name": "wontfix",
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/labels/wontfix"
+        }
+    ],
+    "labels_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/858/labels{/name}",
+    "locked": false,
+    "milestone": null,
+    "number": 858,
+    "state": "open",
+    "title": "SendBroadcast  or  SendBulk",
+    "updated_at": "2014-08-02T19:58:56Z",
+    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/858",
+    "user": {
+        "avatar_url": "https://avatars.githubusercontent.com/u/1000009?v=3",
+        "events_url": "https://api.github.com/users/Rimander/events{/privacy}",
+        "followers_url": "https://api.github.com/users/Rimander/followers",
+        "following_url": "https://api.github.com/users/Rimander/following{/other_user}",
+        "gists_url": "https://api.github.com/users/Rimander/gists{/gist_id}",
+        "gravatar_id": "",
+        "html_url": "https://github.com/Rimander",
+        "id": 1000009,
+        "login": "Rimander",
+        "organizations_url": "https://api.github.com/users/Rimander/orgs",
+        "received_events_url": "https://api.github.com/users/Rimander/received_events",
+        "repos_url": "https://api.github.com/users/Rimander/repos",
+        "site_admin": false,
+        "starred_url": "https://api.github.com/users/Rimander/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/Rimander/subscriptions",
+        "type": "User",
+        "url": "https://api.github.com/users/Rimander"
+    }
+}

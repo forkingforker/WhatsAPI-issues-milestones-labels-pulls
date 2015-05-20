@@ -1,0 +1,103 @@
+{
+    "assignee": null,
+    "body": "How Can i check if number registered to whatsapp or not?\r\nand i want to retrieve the LastSeen date and time ",
+    "closed_at": "2014-02-03T08:25:18Z",
+    "comment_data": [
+        {
+            "body": "Duplicate #328 and #118 \r\nAnd use the pretty search bar on top of the page next time",
+            "created_at": "2014-02-03T08:25:18Z",
+            "html_url": "https://github.com/venomous0x/WhatsAPI/issues/605#issuecomment-33931709",
+            "id": 33931709,
+            "issue_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/605",
+            "updated_at": "2014-02-03T08:25:18Z",
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/comments/33931709",
+            "user": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1610953?v=3",
+                "events_url": "https://api.github.com/users/shirioko/events{/privacy}",
+                "followers_url": "https://api.github.com/users/shirioko/followers",
+                "following_url": "https://api.github.com/users/shirioko/following{/other_user}",
+                "gists_url": "https://api.github.com/users/shirioko/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/shirioko",
+                "id": 1610953,
+                "login": "shirioko",
+                "organizations_url": "https://api.github.com/users/shirioko/orgs",
+                "received_events_url": "https://api.github.com/users/shirioko/received_events",
+                "repos_url": "https://api.github.com/users/shirioko/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/shirioko/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/shirioko/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/shirioko"
+            }
+        }
+    ],
+    "comments": 1,
+    "comments_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/605/comments",
+    "created_at": "2014-02-03T01:53:31Z",
+    "event_data": [
+        {
+            "actor": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1610953?v=3",
+                "events_url": "https://api.github.com/users/shirioko/events{/privacy}",
+                "followers_url": "https://api.github.com/users/shirioko/followers",
+                "following_url": "https://api.github.com/users/shirioko/following{/other_user}",
+                "gists_url": "https://api.github.com/users/shirioko/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/shirioko",
+                "id": 1610953,
+                "login": "shirioko",
+                "organizations_url": "https://api.github.com/users/shirioko/orgs",
+                "received_events_url": "https://api.github.com/users/shirioko/received_events",
+                "repos_url": "https://api.github.com/users/shirioko/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/shirioko/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/shirioko/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/shirioko"
+            },
+            "commit_id": null,
+            "created_at": "2014-02-03T08:25:18Z",
+            "event": "closed",
+            "id": 90271667,
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/events/90271667"
+        }
+    ],
+    "events_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/605/events",
+    "html_url": "https://github.com/venomous0x/WhatsAPI/issues/605",
+    "id": 26777265,
+    "labels": [
+        {
+            "color": "cccccc",
+            "name": "duplicate",
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/labels/duplicate"
+        }
+    ],
+    "labels_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/605/labels{/name}",
+    "locked": false,
+    "milestone": null,
+    "number": 605,
+    "state": "closed",
+    "title": "Check if number registered to whatsapp",
+    "updated_at": "2014-02-04T10:28:33Z",
+    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/605",
+    "user": {
+        "avatar_url": "https://avatars.githubusercontent.com/u/6004654?v=3",
+        "events_url": "https://api.github.com/users/alaanasreng/events{/privacy}",
+        "followers_url": "https://api.github.com/users/alaanasreng/followers",
+        "following_url": "https://api.github.com/users/alaanasreng/following{/other_user}",
+        "gists_url": "https://api.github.com/users/alaanasreng/gists{/gist_id}",
+        "gravatar_id": "",
+        "html_url": "https://github.com/alaanasreng",
+        "id": 6004654,
+        "login": "alaanasreng",
+        "organizations_url": "https://api.github.com/users/alaanasreng/orgs",
+        "received_events_url": "https://api.github.com/users/alaanasreng/received_events",
+        "repos_url": "https://api.github.com/users/alaanasreng/repos",
+        "site_admin": false,
+        "starred_url": "https://api.github.com/users/alaanasreng/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/alaanasreng/subscriptions",
+        "type": "User",
+        "url": "https://api.github.com/users/alaanasreng"
+    }
+}

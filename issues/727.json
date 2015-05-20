@@ -1,0 +1,130 @@
+{
+    "assignee": null,
+    "body": "@shirioko its not about any problem. I just wanted to know that, the password generated after activation of number is permanent? because I have seen that on request to check authentication of any number sends new password and the old password stops working after that. Interestingly, If I do the same for any number that is being used on WhatsApp official app, whatsapp sends new password for that number also. But no effect on using the mobile application account. So, what is the logic behind this? Thanks",
+    "closed_at": null,
+    "comment_data": [],
+    "comments": 0,
+    "comments_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/727/comments",
+    "created_at": "2014-05-10T07:06:06Z",
+    "event_data": [
+        {
+            "actor": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1610953?v=3",
+                "events_url": "https://api.github.com/users/shirioko/events{/privacy}",
+                "followers_url": "https://api.github.com/users/shirioko/followers",
+                "following_url": "https://api.github.com/users/shirioko/following{/other_user}",
+                "gists_url": "https://api.github.com/users/shirioko/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/shirioko",
+                "id": 1610953,
+                "login": "shirioko",
+                "organizations_url": "https://api.github.com/users/shirioko/orgs",
+                "received_events_url": "https://api.github.com/users/shirioko/received_events",
+                "repos_url": "https://api.github.com/users/shirioko/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/shirioko/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/shirioko/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/shirioko"
+            },
+            "commit_id": null,
+            "created_at": "2014-05-10T07:06:06Z",
+            "event": "mentioned",
+            "id": 119784259,
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/events/119784259"
+        },
+        {
+            "actor": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1610953?v=3",
+                "events_url": "https://api.github.com/users/shirioko/events{/privacy}",
+                "followers_url": "https://api.github.com/users/shirioko/followers",
+                "following_url": "https://api.github.com/users/shirioko/following{/other_user}",
+                "gists_url": "https://api.github.com/users/shirioko/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/shirioko",
+                "id": 1610953,
+                "login": "shirioko",
+                "organizations_url": "https://api.github.com/users/shirioko/orgs",
+                "received_events_url": "https://api.github.com/users/shirioko/received_events",
+                "repos_url": "https://api.github.com/users/shirioko/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/shirioko/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/shirioko/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/shirioko"
+            },
+            "commit_id": null,
+            "created_at": "2014-05-10T07:06:06Z",
+            "event": "subscribed",
+            "id": 119784260,
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/events/119784260"
+        },
+        {
+            "actor": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1610953?v=3",
+                "events_url": "https://api.github.com/users/shirioko/events{/privacy}",
+                "followers_url": "https://api.github.com/users/shirioko/followers",
+                "following_url": "https://api.github.com/users/shirioko/following{/other_user}",
+                "gists_url": "https://api.github.com/users/shirioko/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/shirioko",
+                "id": 1610953,
+                "login": "shirioko",
+                "organizations_url": "https://api.github.com/users/shirioko/orgs",
+                "received_events_url": "https://api.github.com/users/shirioko/received_events",
+                "repos_url": "https://api.github.com/users/shirioko/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/shirioko/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/shirioko/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/shirioko"
+            },
+            "commit_id": null,
+            "created_at": "2014-06-03T09:06:05Z",
+            "event": "labeled",
+            "id": 127379187,
+            "label": {
+                "color": "cc317c",
+                "name": "question"
+            },
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/events/127379187"
+        }
+    ],
+    "events_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/727/events",
+    "html_url": "https://github.com/venomous0x/WhatsAPI/issues/727",
+    "id": 33231355,
+    "labels": [
+        {
+            "color": "cc317c",
+            "name": "question",
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/labels/question"
+        }
+    ],
+    "labels_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/727/labels{/name}",
+    "locked": false,
+    "milestone": null,
+    "number": 727,
+    "state": "open",
+    "title": "the password generates from this API is it permanent?",
+    "updated_at": "2014-06-03T09:06:05Z",
+    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/727",
+    "user": {
+        "avatar_url": "https://avatars.githubusercontent.com/u/5575375?v=3",
+        "events_url": "https://api.github.com/users/rajenpal033/events{/privacy}",
+        "followers_url": "https://api.github.com/users/rajenpal033/followers",
+        "following_url": "https://api.github.com/users/rajenpal033/following{/other_user}",
+        "gists_url": "https://api.github.com/users/rajenpal033/gists{/gist_id}",
+        "gravatar_id": "",
+        "html_url": "https://github.com/rajenpal033",
+        "id": 5575375,
+        "login": "rajenpal033",
+        "organizations_url": "https://api.github.com/users/rajenpal033/orgs",
+        "received_events_url": "https://api.github.com/users/rajenpal033/received_events",
+        "repos_url": "https://api.github.com/users/rajenpal033/repos",
+        "site_admin": false,
+        "starred_url": "https://api.github.com/users/rajenpal033/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/rajenpal033/subscriptions",
+        "type": "User",
+        "url": "https://api.github.com/users/rajenpal033"
+    }
+}

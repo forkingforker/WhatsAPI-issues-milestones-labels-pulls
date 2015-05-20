@@ -1,0 +1,103 @@
+{
+    "assignee": null,
+    "body": "",
+    "closed_at": "2012-11-28T09:47:27Z",
+    "comment_data": [
+        {
+            "body": "I think this issue is related to #185 :(",
+            "created_at": "2012-11-27T10:54:04Z",
+            "html_url": "https://github.com/venomous0x/WhatsAPI/pull/188#issuecomment-10753554",
+            "id": 10753554,
+            "issue_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/188",
+            "updated_at": "2012-11-27T10:54:04Z",
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/comments/10753554",
+            "user": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/186349?v=3",
+                "events_url": "https://api.github.com/users/skgsergio/events{/privacy}",
+                "followers_url": "https://api.github.com/users/skgsergio/followers",
+                "following_url": "https://api.github.com/users/skgsergio/following{/other_user}",
+                "gists_url": "https://api.github.com/users/skgsergio/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/skgsergio",
+                "id": 186349,
+                "login": "skgsergio",
+                "organizations_url": "https://api.github.com/users/skgsergio/orgs",
+                "received_events_url": "https://api.github.com/users/skgsergio/received_events",
+                "repos_url": "https://api.github.com/users/skgsergio/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/skgsergio/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/skgsergio/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/skgsergio"
+            }
+        }
+    ],
+    "comments": 1,
+    "comments_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/188/comments",
+    "created_at": "2012-11-26T19:39:09Z",
+    "event_data": [
+        {
+            "actor": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/2384212?v=3",
+                "events_url": "https://api.github.com/users/veno/events{/privacy}",
+                "followers_url": "https://api.github.com/users/veno/followers",
+                "following_url": "https://api.github.com/users/veno/following{/other_user}",
+                "gists_url": "https://api.github.com/users/veno/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/veno",
+                "id": 2384212,
+                "login": "veno",
+                "organizations_url": "https://api.github.com/users/veno/orgs",
+                "received_events_url": "https://api.github.com/users/veno/received_events",
+                "repos_url": "https://api.github.com/users/veno/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/veno/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/veno/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/veno"
+            },
+            "commit_id": null,
+            "created_at": "2012-11-28T09:47:27Z",
+            "event": "closed",
+            "id": 30601167,
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/events/30601167"
+        }
+    ],
+    "events_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/188/events",
+    "html_url": "https://github.com/venomous0x/WhatsAPI/pull/188",
+    "id": 8690642,
+    "labels": [],
+    "labels_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/188/labels{/name}",
+    "locked": false,
+    "milestone": null,
+    "number": 188,
+    "pull_request": {
+        "diff_url": "https://github.com/venomous0x/WhatsAPI/pull/188.diff",
+        "html_url": "https://github.com/venomous0x/WhatsAPI/pull/188",
+        "patch_url": "https://github.com/venomous0x/WhatsAPI/pull/188.patch",
+        "url": "https://api.github.com/repos/venomous0x/WhatsAPI/pulls/188"
+    },
+    "state": "closed",
+    "title": "Update tests/whatsapp.php",
+    "updated_at": "2012-11-28T09:47:27Z",
+    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/188",
+    "user": {
+        "avatar_url": "https://avatars.githubusercontent.com/u/2894864?v=3",
+        "events_url": "https://api.github.com/users/Azhmoh/events{/privacy}",
+        "followers_url": "https://api.github.com/users/Azhmoh/followers",
+        "following_url": "https://api.github.com/users/Azhmoh/following{/other_user}",
+        "gists_url": "https://api.github.com/users/Azhmoh/gists{/gist_id}",
+        "gravatar_id": "",
+        "html_url": "https://github.com/Azhmoh",
+        "id": 2894864,
+        "login": "Azhmoh",
+        "organizations_url": "https://api.github.com/users/Azhmoh/orgs",
+        "received_events_url": "https://api.github.com/users/Azhmoh/received_events",
+        "repos_url": "https://api.github.com/users/Azhmoh/repos",
+        "site_admin": false,
+        "starred_url": "https://api.github.com/users/Azhmoh/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/Azhmoh/subscriptions",
+        "type": "User",
+        "url": "https://api.github.com/users/Azhmoh"
+    }
+}

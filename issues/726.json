@@ -1,0 +1,104 @@
+{
+    "assignee": null,
+    "body": "HI,\r\n\r\nI've successfully register and got a password, now I'm using the next code to send a message, but I get a LoginFailure exception,\r\n\r\n\r\n$username = \"*****\";\r\n$identity = strtolower(urlencode(sha1($username, true)));\r\n\r\n//$identity = ''; \r\n$nickname = '***';\r\n$password = \"*****=\";\r\n$debug = true;\r\n$w = new WhatsProt($username, $identity, $nickname, $debug);\r\n//object(stdClass)#5 (10) { [\"status\"]=> string(2) \"ok\" [\"login\"]=> string(13) \"5493472585752\" [\"pw\"]=> string(28) \"bVLiOYTRrUVnrtAFuwL6wdEh6Ng=\" [\"type\"]=> string(8) \"existing\" [\"expiration\"]=> int(1431152066) [\"kind\"]=> string(4) \"free\" [\"price\"]=> string(7) \"US$0.99\" [\"cost\"]=> string(4) \"0.99\" [\"currency\"]=> string(3) \"USD\" [\"price_expiration\"]=> int(1402311101) }\r\n\r\n$target = \"543472559934\";                    // Destination telephone number including the country code without '+' or '00'.\r\n\r\n//This function only needed to show how eventmanager works.\r\nfunction onGetProfilePicture($from, $target, $type, $data)\r\n{\r\n    if ($type == \"preview\") {\r\n        $filename = \"preview_\" . $target . \".jpg\";\r\n    } else {\r\n        $filename = $target . \".jpg\";\r\n    }\r\n    $filename = WhatsProt::PICTURES_FOLDER.\"/\" . $filename;\r\n    $fp = @fopen($filename, \"w\");\r\n    if ($fp) {\r\n        fwrite($fp, $data);\r\n        fclose($fp);\r\n    }\r\n}\r\n\r\n//Create the whatsapp object and setup a connection.\r\n$w = new WhatsProt($username, $identity, $nickname, $debug);\r\n$w->connect();\r\n\r\n// Now loginWithPassword function sends Nickname and (Available) Presence\r\n$w->loginWithPassword($password)",
+    "closed_at": "2014-05-09T06:40:03Z",
+    "comment_data": [],
+    "comments": 0,
+    "comments_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/726/comments",
+    "created_at": "2014-05-09T06:26:10Z",
+    "event_data": [
+        {
+            "actor": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/2141907?v=3",
+                "events_url": "https://api.github.com/users/juanmas07/events{/privacy}",
+                "followers_url": "https://api.github.com/users/juanmas07/followers",
+                "following_url": "https://api.github.com/users/juanmas07/following{/other_user}",
+                "gists_url": "https://api.github.com/users/juanmas07/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/juanmas07",
+                "id": 2141907,
+                "login": "juanmas07",
+                "organizations_url": "https://api.github.com/users/juanmas07/orgs",
+                "received_events_url": "https://api.github.com/users/juanmas07/received_events",
+                "repos_url": "https://api.github.com/users/juanmas07/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/juanmas07/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/juanmas07/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/juanmas07"
+            },
+            "commit_id": null,
+            "created_at": "2014-05-09T06:40:03Z",
+            "event": "closed",
+            "id": 119437596,
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/events/119437596"
+        },
+        {
+            "actor": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1610953?v=3",
+                "events_url": "https://api.github.com/users/shirioko/events{/privacy}",
+                "followers_url": "https://api.github.com/users/shirioko/followers",
+                "following_url": "https://api.github.com/users/shirioko/following{/other_user}",
+                "gists_url": "https://api.github.com/users/shirioko/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/shirioko",
+                "id": 1610953,
+                "login": "shirioko",
+                "organizations_url": "https://api.github.com/users/shirioko/orgs",
+                "received_events_url": "https://api.github.com/users/shirioko/received_events",
+                "repos_url": "https://api.github.com/users/shirioko/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/shirioko/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/shirioko/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/shirioko"
+            },
+            "commit_id": null,
+            "created_at": "2014-05-09T08:34:42Z",
+            "event": "labeled",
+            "id": 119462029,
+            "label": {
+                "color": "cc317c",
+                "name": "question"
+            },
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/events/119462029"
+        }
+    ],
+    "events_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/726/events",
+    "html_url": "https://github.com/venomous0x/WhatsAPI/issues/726",
+    "id": 33148660,
+    "labels": [
+        {
+            "color": "cc317c",
+            "name": "question",
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/labels/question"
+        }
+    ],
+    "labels_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/726/labels{/name}",
+    "locked": false,
+    "milestone": null,
+    "number": 726,
+    "state": "closed",
+    "title": "Uncaught exception 'Exception' with message 'Login Failure'",
+    "updated_at": "2014-05-09T08:34:42Z",
+    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/726",
+    "user": {
+        "avatar_url": "https://avatars.githubusercontent.com/u/2141907?v=3",
+        "events_url": "https://api.github.com/users/juanmas07/events{/privacy}",
+        "followers_url": "https://api.github.com/users/juanmas07/followers",
+        "following_url": "https://api.github.com/users/juanmas07/following{/other_user}",
+        "gists_url": "https://api.github.com/users/juanmas07/gists{/gist_id}",
+        "gravatar_id": "",
+        "html_url": "https://github.com/juanmas07",
+        "id": 2141907,
+        "login": "juanmas07",
+        "organizations_url": "https://api.github.com/users/juanmas07/orgs",
+        "received_events_url": "https://api.github.com/users/juanmas07/received_events",
+        "repos_url": "https://api.github.com/users/juanmas07/repos",
+        "site_admin": false,
+        "starred_url": "https://api.github.com/users/juanmas07/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/juanmas07/subscriptions",
+        "type": "User",
+        "url": "https://api.github.com/users/juanmas07"
+    }
+}

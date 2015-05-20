@@ -1,0 +1,104 @@
+{
+    "assignee": null,
+    "body": "Hello, wanted to ask if \"parseMessageForEmojis\" function works properly or is unfinished.\r\n\r\n![dibujo](https://cloud.githubusercontent.com/assets/6652374/2597839/f136fa50-baba-11e3-8ecd-b2f7b6341f33.PNG)\r\n\r\n$matches = null; ?\r\n\r\nSaludos\r\n--------------------------------------------------------\r\nEDIT: Sorry, 'm asleep, and did not see the \"unichr\".\r\n",
+    "closed_at": "2014-04-02T23:06:10Z",
+    "comment_data": [],
+    "comments": 0,
+    "comments_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/664/comments",
+    "created_at": "2014-04-02T23:03:24Z",
+    "event_data": [
+        {
+            "actor": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/6652374?v=3",
+                "events_url": "https://api.github.com/users/sbalgas/events{/privacy}",
+                "followers_url": "https://api.github.com/users/sbalgas/followers",
+                "following_url": "https://api.github.com/users/sbalgas/following{/other_user}",
+                "gists_url": "https://api.github.com/users/sbalgas/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/sbalgas",
+                "id": 6652374,
+                "login": "sbalgas",
+                "organizations_url": "https://api.github.com/users/sbalgas/orgs",
+                "received_events_url": "https://api.github.com/users/sbalgas/received_events",
+                "repos_url": "https://api.github.com/users/sbalgas/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/sbalgas/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/sbalgas/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/sbalgas"
+            },
+            "commit_id": null,
+            "created_at": "2014-04-02T23:06:10Z",
+            "event": "closed",
+            "id": 108115144,
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/events/108115144"
+        },
+        {
+            "actor": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1610953?v=3",
+                "events_url": "https://api.github.com/users/shirioko/events{/privacy}",
+                "followers_url": "https://api.github.com/users/shirioko/followers",
+                "following_url": "https://api.github.com/users/shirioko/following{/other_user}",
+                "gists_url": "https://api.github.com/users/shirioko/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/shirioko",
+                "id": 1610953,
+                "login": "shirioko",
+                "organizations_url": "https://api.github.com/users/shirioko/orgs",
+                "received_events_url": "https://api.github.com/users/shirioko/received_events",
+                "repos_url": "https://api.github.com/users/shirioko/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/shirioko/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/shirioko/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/shirioko"
+            },
+            "commit_id": null,
+            "created_at": "2014-04-04T09:05:53Z",
+            "event": "labeled",
+            "id": 108643076,
+            "label": {
+                "color": "84b6eb",
+                "name": "enhancement"
+            },
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/events/108643076"
+        }
+    ],
+    "events_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/664/events",
+    "html_url": "https://github.com/venomous0x/WhatsAPI/issues/664",
+    "id": 30733735,
+    "labels": [
+        {
+            "color": "84b6eb",
+            "name": "enhancement",
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/labels/enhancement"
+        }
+    ],
+    "labels_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/664/labels{/name}",
+    "locked": false,
+    "milestone": null,
+    "number": 664,
+    "state": "closed",
+    "title": "how it work parseMessageForEmojis?",
+    "updated_at": "2014-04-04T09:05:53Z",
+    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/664",
+    "user": {
+        "avatar_url": "https://avatars.githubusercontent.com/u/6652374?v=3",
+        "events_url": "https://api.github.com/users/sbalgas/events{/privacy}",
+        "followers_url": "https://api.github.com/users/sbalgas/followers",
+        "following_url": "https://api.github.com/users/sbalgas/following{/other_user}",
+        "gists_url": "https://api.github.com/users/sbalgas/gists{/gist_id}",
+        "gravatar_id": "",
+        "html_url": "https://github.com/sbalgas",
+        "id": 6652374,
+        "login": "sbalgas",
+        "organizations_url": "https://api.github.com/users/sbalgas/orgs",
+        "received_events_url": "https://api.github.com/users/sbalgas/received_events",
+        "repos_url": "https://api.github.com/users/sbalgas/repos",
+        "site_admin": false,
+        "starred_url": "https://api.github.com/users/sbalgas/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/sbalgas/subscriptions",
+        "type": "User",
+        "url": "https://api.github.com/users/sbalgas"
+    }
+}

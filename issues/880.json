@@ -1,0 +1,198 @@
+{
+    "assignee": null,
+    "body": "I use mitmproxy sniff the WhatsApp password from my android phone.\r\nI installed and configured mitmproxy.\r\nEverything works well!\r\nI can see all the traffic from my phone.\r\n\r\nBut when I'm trying to get confirmation that the code on the phone WhatsApp says that i can not connect to the server, there is an internet connection!\r\nAlthough there is a connection and I can browse any site from my phone.\r\n\r\nIn mitmproxy windows no request is displayed, when I ask for code!\r\n\r\nChange protection WhatsApp?\r\nWhat's the problem?",
+    "closed_at": null,
+    "comment_data": [
+        {
+            "body": "You can see how missvenom worked to see what you need. I found a way to extract that traffic in iphone...",
+            "created_at": "2014-08-12T07:54:47Z",
+            "html_url": "https://github.com/venomous0x/WhatsAPI/issues/880#issuecomment-51884056",
+            "id": 51884056,
+            "issue_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/880",
+            "updated_at": "2014-08-12T07:54:47Z",
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/comments/51884056",
+            "user": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/5390120?v=3",
+                "events_url": "https://api.github.com/users/mgp25/events{/privacy}",
+                "followers_url": "https://api.github.com/users/mgp25/followers",
+                "following_url": "https://api.github.com/users/mgp25/following{/other_user}",
+                "gists_url": "https://api.github.com/users/mgp25/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/mgp25",
+                "id": 5390120,
+                "login": "mgp25",
+                "organizations_url": "https://api.github.com/users/mgp25/orgs",
+                "received_events_url": "https://api.github.com/users/mgp25/received_events",
+                "repos_url": "https://api.github.com/users/mgp25/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/mgp25/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/mgp25/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/mgp25"
+            }
+        },
+        {
+            "body": "I do not have iPhone.\r\nFor my android phone no solution?\r\nNow this situation at all or only at me?\r\nMaybe need to look for an older version of WhatsApp?\r\n",
+            "created_at": "2014-08-12T08:09:39Z",
+            "html_url": "https://github.com/venomous0x/WhatsAPI/issues/880#issuecomment-51885213",
+            "id": 51885213,
+            "issue_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/880",
+            "updated_at": "2014-08-12T08:09:39Z",
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/comments/51885213",
+            "user": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/5830124?v=3",
+                "events_url": "https://api.github.com/users/deonio/events{/privacy}",
+                "followers_url": "https://api.github.com/users/deonio/followers",
+                "following_url": "https://api.github.com/users/deonio/following{/other_user}",
+                "gists_url": "https://api.github.com/users/deonio/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/deonio",
+                "id": 5830124,
+                "login": "deonio",
+                "organizations_url": "https://api.github.com/users/deonio/orgs",
+                "received_events_url": "https://api.github.com/users/deonio/received_events",
+                "repos_url": "https://api.github.com/users/deonio/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/deonio/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/deonio/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/deonio"
+            }
+        },
+        {
+            "body": "Older versions of WhatsApp don't work anymore as they are rejected by the server. Sniffing WhatsApp registration traffic is just not possible on Android anymore.",
+            "created_at": "2014-08-12T08:34:07Z",
+            "html_url": "https://github.com/venomous0x/WhatsAPI/issues/880#issuecomment-51887235",
+            "id": 51887235,
+            "issue_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/880",
+            "updated_at": "2014-08-12T08:34:07Z",
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/comments/51887235",
+            "user": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1610953?v=3",
+                "events_url": "https://api.github.com/users/shirioko/events{/privacy}",
+                "followers_url": "https://api.github.com/users/shirioko/followers",
+                "following_url": "https://api.github.com/users/shirioko/following{/other_user}",
+                "gists_url": "https://api.github.com/users/shirioko/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/shirioko",
+                "id": 1610953,
+                "login": "shirioko",
+                "organizations_url": "https://api.github.com/users/shirioko/orgs",
+                "received_events_url": "https://api.github.com/users/shirioko/received_events",
+                "repos_url": "https://api.github.com/users/shirioko/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/shirioko/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/shirioko/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/shirioko"
+            }
+        }
+    ],
+    "comments": 3,
+    "comments_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/880/comments",
+    "created_at": "2014-08-12T07:06:24Z",
+    "event_data": [
+        {
+            "actor": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1610953?v=3",
+                "events_url": "https://api.github.com/users/shirioko/events{/privacy}",
+                "followers_url": "https://api.github.com/users/shirioko/followers",
+                "following_url": "https://api.github.com/users/shirioko/following{/other_user}",
+                "gists_url": "https://api.github.com/users/shirioko/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/shirioko",
+                "id": 1610953,
+                "login": "shirioko",
+                "organizations_url": "https://api.github.com/users/shirioko/orgs",
+                "received_events_url": "https://api.github.com/users/shirioko/received_events",
+                "repos_url": "https://api.github.com/users/shirioko/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/shirioko/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/shirioko/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/shirioko"
+            },
+            "commit_id": null,
+            "created_at": "2014-08-12T08:34:27Z",
+            "event": "labeled",
+            "id": 151758822,
+            "label": {
+                "color": "cc317c",
+                "name": "question"
+            },
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/events/151758822"
+        },
+        {
+            "actor": {
+                "avatar_url": "https://avatars.githubusercontent.com/u/1610953?v=3",
+                "events_url": "https://api.github.com/users/shirioko/events{/privacy}",
+                "followers_url": "https://api.github.com/users/shirioko/followers",
+                "following_url": "https://api.github.com/users/shirioko/following{/other_user}",
+                "gists_url": "https://api.github.com/users/shirioko/gists{/gist_id}",
+                "gravatar_id": "",
+                "html_url": "https://github.com/shirioko",
+                "id": 1610953,
+                "login": "shirioko",
+                "organizations_url": "https://api.github.com/users/shirioko/orgs",
+                "received_events_url": "https://api.github.com/users/shirioko/received_events",
+                "repos_url": "https://api.github.com/users/shirioko/repos",
+                "site_admin": false,
+                "starred_url": "https://api.github.com/users/shirioko/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/shirioko/subscriptions",
+                "type": "User",
+                "url": "https://api.github.com/users/shirioko"
+            },
+            "commit_id": null,
+            "created_at": "2014-08-12T08:34:28Z",
+            "event": "labeled",
+            "id": 151758824,
+            "label": {
+                "color": "ffffff",
+                "name": "wontfix"
+            },
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/events/151758824"
+        }
+    ],
+    "events_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/880/events",
+    "html_url": "https://github.com/venomous0x/WhatsAPI/issues/880",
+    "id": 40029678,
+    "labels": [
+        {
+            "color": "cc317c",
+            "name": "question",
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/labels/question"
+        },
+        {
+            "color": "ffffff",
+            "name": "wontfix",
+            "url": "https://api.github.com/repos/venomous0x/WhatsAPI/labels/wontfix"
+        }
+    ],
+    "labels_url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/880/labels{/name}",
+    "locked": false,
+    "milestone": null,
+    "number": 880,
+    "state": "open",
+    "title": "Sniff WhatsApp password.",
+    "updated_at": "2014-08-12T08:34:28Z",
+    "url": "https://api.github.com/repos/venomous0x/WhatsAPI/issues/880",
+    "user": {
+        "avatar_url": "https://avatars.githubusercontent.com/u/5830124?v=3",
+        "events_url": "https://api.github.com/users/deonio/events{/privacy}",
+        "followers_url": "https://api.github.com/users/deonio/followers",
+        "following_url": "https://api.github.com/users/deonio/following{/other_user}",
+        "gists_url": "https://api.github.com/users/deonio/gists{/gist_id}",
+        "gravatar_id": "",
+        "html_url": "https://github.com/deonio",
+        "id": 5830124,
+        "login": "deonio",
+        "organizations_url": "https://api.github.com/users/deonio/orgs",
+        "received_events_url": "https://api.github.com/users/deonio/received_events",
+        "repos_url": "https://api.github.com/users/deonio/repos",
+        "site_admin": false,
+        "starred_url": "https://api.github.com/users/deonio/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/deonio/subscriptions",
+        "type": "User",
+        "url": "https://api.github.com/users/deonio"
+    }
+}
